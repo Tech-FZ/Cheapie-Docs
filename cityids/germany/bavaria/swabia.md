@@ -92,3 +92,15 @@ Hinweise:
 | 86875 | Waal | Markt | Buchloe | 49-9-7-77-86875 | |
 | 87616 | Wald _(Schwaben)_ | Gemeinde | Seeg | 49-9-7-77-87616.179 | PLZ wird mit Marktoberdorf geteilt |
 | 87679 | Westendorf _(Ostallgäu)_ | Gemeinde | Westendorf | 49-9-7-77-87679 | |
+
+### Marktoberdorf
+
+| PLZ | Ortsname | Status | Gemarkung | ID | Notiz |
+| --- | -------- | ------ | -- | -- | ----- |
+| 87616 | Marktoberdorf | Hauptort | Marktoberdorf | 49-9-7-77-87616.151-1 | Verwaltungssitz |
+| 87616 | Marktoberdorf-Balteratsried | Dorf | Sulzschneid | 49-9-7-77-87616.151-2 | |
+| 87616 | Marktoberdorf-Bertoldshofen | Pfarrdorf | Bertoldshofen | 49-9-7-77-87616.151-3 | |
+| 87616 | Marktoberdorf-Burk | Kirchdorf | Bertoldshofen | 49-9-7-77-87616.151-4 |  |
+| 87616 | Marktoberdorf-Ennenhofen | Siedlung | Marktoberdorf | 49-9-7-77-87616.151-6 |  |
+| 87616 | Marktoberdorf-Ettwiesen | Weiler | Marktoberdorf | 49-9-7-77-87616.151-5 |  |
+| 87616 | Marktoberdorf-Kohlhunden | Dorf | Marktoberdorf | 49-9-7-77-87616.151-7 |  |
