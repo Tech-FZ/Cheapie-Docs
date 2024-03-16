@@ -19,6 +19,18 @@
 | Ostallgäu | Landkreis | Schwabenstraße 11, 87616 Marktoberdorf | 49-9-7-77 |
 | Unterallgäu | Landkreis | Bad Wörishofer Straße 33, 87719 Mindelheim | 49-9-7-78 |
 
+## Landkreis Aichach-Friedberg
+
+## Kreisfreie Bezirkshauptstadt Augsburg
+
+## Landkreis Augsburg
+
+## Landkreis Dillingen an der Donau
+
+## Landkreis Donau-Ries
+
+## Landkreis Günzburg
+
 ## Kreisfreie Stadt Kaufbeuren
 
 | PLZ | Gemarkung/Stadtname | Status | ID |
@@ -36,6 +48,16 @@
 | 87600 | Kaufbeuren-Märzisried | Dorf | 49-9-7-62-87600-7 | |
 | 87600 | Kaufbeuren-Ölmühlhang | Dorf | 49-9-7-62-87600-8 | Wird statistisch zum Kleinkemnat gezählt |
 | 87600 | Kaufbeuren-Sankt Cosmas | Siedlung | 49-9-7-62-87600-9 | |
+
+## Kreisfreie Stadt Kempten (Allgäu)
+
+## Landkreis Lindau (Bodensee)
+
+## Kreisfreie Stadt Memmingen
+
+## Landkreis Neu-Ulm
+
+## Landkreis Oberallgäu
 
 ## Landkreis Ostallgäu
 
@@ -104,3 +126,5 @@ Hinweise:
 | 87616 | Marktoberdorf-Ennenhofen | Siedlung | Marktoberdorf | 49-9-7-77-87616.151-6 |  |
 | 87616 | Marktoberdorf-Ettwiesen | Weiler | Marktoberdorf | 49-9-7-77-87616.151-5 |  |
 | 87616 | Marktoberdorf-Kohlhunden | Dorf | Marktoberdorf | 49-9-7-77-87616.151-7 |  |
+
+## Landkreis Unterallgäu
