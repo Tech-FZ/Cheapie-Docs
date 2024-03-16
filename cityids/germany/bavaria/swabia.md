@@ -343,3 +343,65 @@ Hinweise:
 | 87616 | Marktoberdorf-Weißen | Weiler | Rieder | 49-9-7-77-87616.151-23 |  |
 
 ## Landkreis Unterallgäu
+
+- Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
+- Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
+
+| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft | ID | Notiz |
+| --- | -------- | ------ | ------------------------ | --- | ----- |
+| 86854 | Amberg _(Schwaben)_ | Gemeinde | Türkheim | 49-9-7-78-86854 | |
+| 87742 | Apfeltrach | Gemeinde | Dirlewang | 49-9-7-78-87742.113 | PLZ wird mit Dirlewang geteilt |
+| 87727 | Babenhausen _(Schwaben)_ | Markt | Babenhausen | 49-9-7-78-87727 | |
+| 87730 | Bad Grönenbach | Markt | Bad Grönenbach | 49-9-7-78-87730 | |
+| 86825 | Bad Wörishofen | Stadt | Bad Wörishofen | 49-9-7-78-86825 | |
+| 87734 | Benningen | Gemeinde | Memmingerberg | 49-9-7-78-87734 | |
+| 87736 | Böhen | Gemeinde | Ottobeuren | 49-9-7-78-87736 | |
+| 87737 | Boos _(Schwaben)_ | Gemeinde | Boos | 49-9-7-78-87737 | |
+| 87739 | Breitenbrunn _(Schwaben)_ | Gemeinde | Pfaffenhausen | 49-9-7-78-87739 | |
+| 87740 | Buxheim _(Schwaben)_ | Gemeinde | Buxheim | 49-9-7-78-87740 | |
+| 87742 | Dirlewang | Markt | Dirlewang | 49-9-7-78-87742.127 | PLZ wird mit Apfeltrach geteilt |
+| 87782 | Dirlewang-Wallenried | Einöde | Dirlewang | 49-9-7-78-87782.127 | PLZ wird mit Unteregg geteilt |
+| 87743 | Egg an der Günz | Gemeinde | Babenhausen | 49-9-7-78-87743.130 | PLZ wird mit Lauben-Betzenhausen geteilt |
+| 87745 | Eppishausen | Gemeinde | Kirchheim in Schwaben | 49-9-7-78-87745 | |
+| 87746 | Erkheim | Markt | Erkheim | 49-9-7-78-87746 | |
+| 86833 | Ettringen _(Wertach)_ | Gemeinde | Ettringen | 49-9-7-78-86833 | |
+| 87748 | Fellheim | Gemeinde | Boos | 49-9-7-78-87748 | |
+| 87749 | Hawangen | Gemeinde | Ottobeuren | 49-9-7-78-87749 | |
+| 87751 | Heimertingen | Gemeinde | Boos | 49-9-7-78-87751 | |
+| 87752 | Holzgünz | Gemeinde | Memmingerberg | 49-9-7-78-87752 | |
+| 87754 | Kammlach | Gemeinde | Erkheim | 49-9-7-78-87754 | |
+| 86498 | Kettershausen | Gemeinde | Babenhausen | 49-9-7-78-86498 | |
+| 87755 | Kirchhaslach | Gemeinde | Babenhausen | 49-9-7-78-87755 | |
+| 87770 | Kirchhaslach-Beblinstetten | Einöde | Babenhausen | 49-9-7-78-87770.157 | PLZ wird mit Oberschönegg geteilt |
+| 87757 | Kirchheim in Schwaben | Markt | Kirchheim in Schwaben | 49-9-7-78-87757.158 | PLZ wird mit Salgen-Bronnerlehe geteilt |
+| 87758 | Kronburg | Gemeinde | Illerwinkel | 49-9-7-78-87758 | |
+| 87760 | Lachen _(Schwaben)_ | Gemeinde | Memmingerberg | 49-9-7-78-87760 | |
+| 87761 | Lauben _(Unterallgäu)_ | Gemeinde | Erkheim | 49-9-7-78-87761 | |
+| 87743 | Lauben-Betzenhausen _(Unterallgäu)_ | Einöde | Erkheim | 49-9-7-78-87743.163 | PLZ wird mit Egg an der Günz geteilt |
+| 87763 | Lautrach | Gemeinde | Illerwinkel | 49-9-7-78-87763 | |
+| 87764 | Legau | Markt | Illerwinkel | 49-9-7-78-87764 | |
+| 87733 | Markt Rettenbach | Markt | Markt Rettenbach | 49-9-7-78-87733 | |
+| 86865 | Markt Wald | Markt | Markt Wald | 49-9-7-78-86865 | |
+| 87766 | Memmingerberg | Gemeinde | Memmingerberg | 49-9-7-78-87766 | |
+| 87719 | Mindelheim | Kreisstadt | Mindelheim | 49-9-7-78-87719 | |
+| 87767 | Niederrieden | Gemeinde | Boos | 49-9-7-78-87767 | |
+| 87769 | Oberrieden _(Schwaben)_ | Gemeinde | Pfaffenhausen | 49-9-7-78-87769 | |
+| 87770 | Oberschönegg | Gemeinde | Babenhausen | 49-9-7-78-87770.184 | PLZ wird mit Kirchhaslach-Beblinstetten geteilt |
+| 87724 | Ottobeuren | Markt | Ottobeuren | 49-9-7-78-87724 | |
+| 87772 | Pfaffenhausen | Markt | Pfaffenhausen | 49-9-7-78-87772 | |
+| 87773 | Pleß | Gemeinde | Boos | 49-9-7-78-87773 | |
+| 86871 | Rammingen _(Bayern)_ | Gemeinde | Türkheim | 49-9-7-78-86871 | |
+| 87775 | Salgen | Gemeinde | Pfaffenhausen | 49-9-7-78-87775 | |
+| 87757 | Salgen-Bronnerlehe | Weiler | Pfaffenhausen | 49-9-7-78-87757.190 | PLZ wird mit Kirchheim in Schwaben geteilt |
+| 87776 | Sontheim _(Schwaben)_ | Gemeinde | Sontheim | 49-9-7-78-87776 | |
+| 87778 | Stetten _(Schwaben)_ | Gemeinde | Dirlewang | 49-9-7-78-87778 | |
+| 87779 | Trunkelsberg | Gemeinde | Memmingerberg | 49-9-7-78-87779 | |
+| 86842 | Türkheim | Markt | Türkheim | 49-9-7-78-86842 | |
+| 86874 | Tussenhausen | Markt | Tussenhausen | 49-9-7-78-86874 | |
+| 87781 | Ungerhausen | Gemeinde | Memmingerberg | 49-9-7-78-87781 | |
+| 87782 | Unteregg | Gemeinde | Dirlewang | 49-9-7-78-87782.207 | PLZ wird mit Dirlewang-Wallenried geteilt |
+| 87784 | Westerheim _(Schwaben)_ | Gemeinde | Erkheim | 49-9-7-78-87784 | |
+| 86879 | Wiedergeltingen | Gemeinde | Türkheim | 49-9-7-78-86879 | |
+| 87785 | Winterrieden | Gemeinde | Babenhausen | 49-9-7-78-87785 | |
+| 87787 | Wolfertschwenden | Gemeinde | Bad Grönenbach | 49-9-7-78-87787 | |
+| 87789 | Woringen | Gemeinde | Bad Grönenbach | 49-9-7-78-87789 | |
