@@ -133,12 +133,18 @@ Hinweise:
 | 87616 | Marktoberdorf-Hattenhofen | Kirchdorf | Geisenried | 49-9-7-77-87616.151-14 |  |
 | 87616 | Marktoberdorf-Hausen | Dorf | Bertoldshofen | 49-9-7-77-87616.151-10 |  |
 | 87616 | Marktoberdorf-Heiland | Dorf | Rieder | 49-9-7-77-87616.151-21 |  |
+| 87616 | Marktoberdorf-Hummeratsried | Pfarrdorf | Sulzschneid | 49-9-7-77-87616.151-25 |  |
 | 87616 | Marktoberdorf-Kohlhunden | Dorf | Marktoberdorf | 49-9-7-77-87616.151-7 |  |
 | 87616 | Marktoberdorf-Leuterschach | Pfarrdorf | Leuterschach | 49-9-7-77-87616.151-16 |  |
 | 87616 | Marktoberdorf-Liebwies | unbekannt | Geisenried | 49-9-7-77-87616.151-15 |  |
+| 87616 | Marktoberdorf-Osterried | Dorf | Rieder | 49-9-7-77-87616.151-22 |  |
 | 87616 | Marktoberdorf-Rieder | Kirchdorf | Rieder | 49-9-7-77-87616.151-20 |  |
 | 87616 | Marktoberdorf-Ronried | Dorf | Leuterschach | 49-9-7-77-87616.151-18 |  |
 | 87616 | Marktoberdorf-Schwenden | Pfarrdorf | Leuterschach | 49-9-7-77-87616.151-19 |  |
 | 87616 | Marktoberdorf-Selbensberg | Dorf | Bertoldshofen | 49-9-7-77-87616.151-11 |  |
+| 87616 | Marktoberdorf-Sulzschneid | Pfarrdorf | Sulzschneid | 49-9-7-77-87616.151-24 |  |
+| 87616 | Marktoberdorf-Thalhofen an der Wertach | Pfarrdorf | Thalhofen an der Wertach | 49-9-7-77-87616.151-26 |  |
+| 87616 | Marktoberdorf-Weibletshofen | Dorf | Thalhofen an der Wertach | 49-9-7-77-87616.151-27 |  |
+| 87616 | Marktoberdorf-Weißen | Weiler | Rieder | 49-9-7-77-87616.151-23 |  |
 
 ## Landkreis Unterallgäu
