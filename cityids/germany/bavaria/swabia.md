@@ -123,8 +123,22 @@ Hinweise:
 | 87616 | Marktoberdorf-Balteratsried | Dorf | Sulzschneid | 49-9-7-77-87616.151-2 | |
 | 87616 | Marktoberdorf-Bertoldshofen | Pfarrdorf | Bertoldshofen | 49-9-7-77-87616.151-3 | |
 | 87616 | Marktoberdorf-Burk | Kirchdorf | Bertoldshofen | 49-9-7-77-87616.151-4 |  |
+| 87616 | Marktoberdorf-Egratsried | Weiler | Geisenried | 49-9-7-77-87616.151-13 |  |
 | 87616 | Marktoberdorf-Ennenhofen | Siedlung | Marktoberdorf | 49-9-7-77-87616.151-6 |  |
 | 87616 | Marktoberdorf-Ettwiesen | Weiler | Marktoberdorf | 49-9-7-77-87616.151-5 |  |
+| 87616 | Marktoberdorf-Fechsen | Dorf | Leuterschach | 49-9-7-77-87616.151-17 |  |
+| 87616 | Marktoberdorf-Gehren | Weiler | Bertoldshofen | 49-9-7-77-87616.151-8 |  |
+| 87616 | Marktoberdorf-Geisenried | Pfarrdorf | Geisenried | 49-9-7-77-87616.151-12 |  |
+| 87616 | Marktoberdorf-Hagmoos | Weiler | Bertoldshofen | 49-9-7-77-87616.151-9 |  |
+| 87616 | Marktoberdorf-Hattenhofen | Kirchdorf | Geisenried | 49-9-7-77-87616.151-14 |  |
+| 87616 | Marktoberdorf-Hausen | Dorf | Bertoldshofen | 49-9-7-77-87616.151-10 |  |
+| 87616 | Marktoberdorf-Heiland | Dorf | Rieder | 49-9-7-77-87616.151-21 |  |
 | 87616 | Marktoberdorf-Kohlhunden | Dorf | Marktoberdorf | 49-9-7-77-87616.151-7 |  |
+| 87616 | Marktoberdorf-Leuterschach | Pfarrdorf | Leuterschach | 49-9-7-77-87616.151-16 |  |
+| 87616 | Marktoberdorf-Liebwies | unbekannt | Geisenried | 49-9-7-77-87616.151-15 |  |
+| 87616 | Marktoberdorf-Rieder | Kirchdorf | Rieder | 49-9-7-77-87616.151-20 |  |
+| 87616 | Marktoberdorf-Ronried | Dorf | Leuterschach | 49-9-7-77-87616.151-18 |  |
+| 87616 | Marktoberdorf-Schwenden | Pfarrdorf | Leuterschach | 49-9-7-77-87616.151-19 |  |
+| 87616 | Marktoberdorf-Selbensberg | Dorf | Bertoldshofen | 49-9-7-77-87616.151-11 |  |
 
 ## Landkreis Unterallgäu
