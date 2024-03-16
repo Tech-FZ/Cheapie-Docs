@@ -219,6 +219,41 @@ Die Nummern wurden (teilweise) https://daten.digitale-sammlungen.de/~db/0005/bsb
 
 ## Landkreis Oberallgäu
 
+Hinweise:
+- Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
+- Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
+
+| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft | ID | Notiz |
+| --- | -------- | ------ | ------------------------ | --- | ----- |
+| 87452 | Altusried | Markt | Altusried | 49-9-7-80-87452 | |
+| 87541 | Bad Hindelang | Markt | Bad Hindelang | 49-9-7-80-87541 | |
+| 87538 | Balderschwang | Gemeinde | Hörnergruppe | 49-9-7-80-87538.113 | PLZ wird mit Bolsterlang, Obermaiselstein und Fischen im Allgäu geteilt |
+| 87488 | Betzigau | Gemeinde | Betzigau | 49-9-7-80-87488 | |
+| 87544 | Blaichach | Gemeinde | Blaichach | 49-9-7-80-87544 | |
+| 87538 | Bolsterlang | Gemeinde | Hörnergruppe | 49-9-7-80-87538.116 | PLZ wird mit Balderschwang, Obermaiselstein und Fischen im Allgäu geteilt |
+| 87474 | Buchenberg | Markt | Buchenberg | 49-9-7-80-87474 | |
+| 87545 | Burgberg im Allgäu | Gemeinde | Burgberg im Allgäu | 49-9-7-80-87545 | |
+| 87463 | Dietmannsried | Markt | Dietmannsried | 49-9-7-80-87463 | |
+| 87471 | Durach | Gemeinde | Durach | 49-9-7-80-87471 | |
+| 87538 | Fischen im Allgäu | Gemeinde | Hörnergruppe | 49-9-7-80-87538.121 | PLZ wird mit Balderschwang, Obermaiselstein und Bolsterlang geteilt |
+| 87490 | Haldenwang _(Oberallgäu)_ | Gemeinde | Haldenwang | 49-9-7-80-87490 | |
+| 87509 | Immenstadt im Allgäu | Stadt | Immenstadt im Allgäu | 49-9-7-80-87509 | |
+| 87493 | Lauben _(Oberallgäu)_ | Gemeinde | Lauben | 49-9-7-80-87493 | |
+| 87547 | Missen-Wilhams | Gemeinde | Weitnau | 49-9-7-80-87547 | |
+| 87538 | Obermaiselstein | Gemeinde | Hörnergruppe | 49-9-7-80-87538.131 | PLZ wird mit Balderschwang, Bolsterlang und Fischen im Allgäu geteilt |
+| 87534 | Oberstaufen | Markt | Oberstaufen | 49-9-7-80-87534 | |
+| 87561 | Oberstdorf | Markt | Oberstdorf | 49-9-7-80-87561 | |
+| 87527 | Ofterschwang | Gemeinde | Hörnergruppe | 49-9-7-80-87527.134 | PLZ wird mit Sonthofen geteilt |
+| 87466 | Oy-Mittelberg | Gemeinde | Oy-Mittelberg | 49-9-7-80-87466 | |
+| 87549 | Rettenberg | Gemeinde | Rettenberg | 49-9-7-80-87549 | |
+| 87527 | Sonthofen | Kreisstadt | Sonthofen | 49-9-7-80-87527.139 | PLZ wird mit Ofterschwang geteilt |
+| 87477 | Sulzberg _(Oberallgäu)_ | Markt | Sulzberg | 49-9-7-80-87477 | |
+| 87448 | Waltenhofen | Gemeinde | Waltenhofen | 49-9-7-80-87448 | |
+| 87480 | Weitnau | Markt | Weitnau | 49-9-7-80-87480 | |
+| 87497 | Wertach | Markt | Wertach | 49-9-7-80-87497 | |
+| 87487 | Wiggensbach | Markt | Wiggensbach | 49-9-7-80-87487 | |
+| 87499 | Wildpoldsried | Gemeinde | Wildpoldsried | 49-9-7-80-87499 | |
+
 ## Landkreis Ostallgäu
 
 Hinweise:
