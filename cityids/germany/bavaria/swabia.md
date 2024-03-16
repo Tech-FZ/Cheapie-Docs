@@ -51,31 +51,31 @@ Hinweise:
 | 87640 | Biessenhofen | Gemeinde | Biessenhofen | 49-9-7-77-87640 | |
 | 86807 | Buchloe | Stadt | Buchloe | 49-9-7-77-86807 | |
 | 87653 | Eggenthal | Gemeinde | Eggenthal | 49-9-7-77-87653 | |
-| 87782 | Eggenthal-Bayersried | Gemarkung | Eggenthal | 49-9-7-77-87653 | |
-| 87637 | Eisenberg | Gemeinde | Seeg | 49-9-7-77-87637 | |
+| 87782 | Eggenthal-Bayersried | Gemarkung | Eggenthal | 49-9-7-77-87782 | |
+| 87637 | Eisenberg _(Allgäu)_ | Gemeinde | Seeg | 49-9-7-77-87637.125 | PLZ wird mit Seeg geteilt |
 | 87654 | Friesenried | Gemeinde | Eggenthal | 49-9-7-77-87654 | |
 | 87629 | Füssen | Stadt | Füssen | 49-9-7-77-87629 | |
 | 87656 | Germaringen | Gemeinde | Germaringen | 49-9-7-77-87656 | |
 | 87657 | Görisried | Gemeinde | Unterthingau | 49-9-7-77-87657 | |
-| 87634 | Günzach | Gemeinde | Obergünzburg | 49-9-7-77-87634 | |
+| 87634 | Günzach | Gemeinde | Obergünzburg | 49-9-7-77-87634.138 | PLZ wird mit Obergünzburg geteilt |
 | 87642 | Halblech | Gemeinde | Halblech | 49-9-7-77-87642 | |
 | 87659 | Hopferau | Gemeinde | Seeg | 49-9-7-77-87659 | |
 | 87660 | Irsee | Markt | Pforzen | 49-9-7-77-87660 | |
 | 86860 | Jengen | Gemeinde | Buchloe | 49-9-7-77-86860 | |
-| 87662 | Kaltental | Markt | Westendorf | 49-9-7-77-87662 | |
-| 87647 | Kraftisried | Gemeinde | Unterthingau | 49-9-7-77-87647.144 | |
+| 87662 | Kaltental | Markt | Westendorf | 49-9-7-77-87662.141 | PLZ wird mit Osterzell geteilt |
+| 87647 | Kraftisried | Gemeinde | Unterthingau | 49-9-7-77-87647.144 | PLZ wird mit Unterthingau geteilt |
 | 86862 | Lamerdingen | Gemeinde | Buchloe | 49-9-7-77-86862 | |
 | 86983 | Lechbruck am See | Gemeinde | Lechbruck am See | 49-9-7-77-86983 | |
 | 87663 | Lengenwang | Gemeinde | Seeg | 49-9-7-77-87663 | |
 | 87616 | Marktoberdorf | Kreisstadt | Marktoberdorf | 49-9-7-77-87616.151 | PLZ wird mit Wald geteilt |
 | 87665 | Mauerstetten | Gemeinde | Mauerstetten | 49-9-7-77-87665 | |
 | 87484 | Nesselwang | Markt | Nesselwang | 49-9-7-77-87484 | |
-| 87634 | Obergünzburg | Markt | Obergünzburg | 49-9-7-77-87634 | |
+| 87634 | Obergünzburg | Markt | Obergünzburg | 49-9-7-77-87634.154 | PLZ wird mit Günzach geteilt |
 | 86869 | Oberostendorf | Gemeinde | Westendorf | 49-9-7-77-86869 | |
-| 87662 | Osterzell | Gemeinde | Westendorf | 49-9-7-77-87662 | |
+| 87662 | Osterzell | Gemeinde | Westendorf | 49-9-7-77-87662.157 | PLZ wird mit Kaltental geteilt |
 | 87666 | Pforzen | Gemeinde | Pforzen | 49-9-7-77-87666 | |
 | 87459 | Pfronten | Gemeinde | Pfronten | 49-9-7-77-87459 | |
-| 87675 | Rettenbach am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675 | |
+| 87675 | Rettenbach am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675.183 | PLZ wird mit Stötten am Auerberg geteilt |
 | 87668 | Rieden _bei Kaufbeuren_ | Gemeinde | Pforzen | 49-9-7-77-87668 | |
 | 87669 | Rieden am Forggensee | Gemeinde | Roßhaupten | 49-9-7-77-87669 | |
 | 87671 | Ronsberg | Markt | Ronsberg | 49-9-7-77-87671 | |
@@ -84,10 +84,10 @@ Hinweise:
 | 87494 | Rückholz | Gemeinde | Seeg | 49-9-7-77-87494 | |
 | 87674 | Ruderatshofen | Gemeinde | Biessenhofen | 49-9-7-77-87674 | |
 | 87645 | Schwangau | Gemeinde | Schwangau | 49-9-7-77-87645 | |
-| 87637 | Seeg | Gemeinde | Seeg | 49-9-7-77-87637 | |
-| 87675 | Stötten am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675 | |
+| 87637 | Seeg | Gemeinde | Seeg | 49-9-7-77-87637.170 | PLZ wird mit Eisenberg geteilt |
+| 87675 | Stötten am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675.171 | PLZ wird mit Rettenbach am Auerberg geteilt |
 | 87677 | Stöttwang | Gemeinde | Westendorf | 49-9-7-77-87677 | |
-| 87647 | Unterthingau | Markt | Unterthingau | 49-9-7-77-87647.175 | |
+| 87647 | Unterthingau | Markt | Unterthingau | 49-9-7-77-87647.175 | PLZ wird mit Kraftisried geteilt |
 | 87496 | Untrasried | Gemeinde | Obergünzburg | 49-9-7-77-87496 | |
 | 86875 | Waal | Markt | Buchloe | 49-9-7-77-86875 | |
 | 87616 | Wald _(Schwaben)_ | Gemeinde | Seeg | 49-9-7-77-87616.179 | PLZ wird mit Marktoberdorf geteilt |
