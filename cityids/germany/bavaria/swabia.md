@@ -25,6 +25,51 @@
 
 ## Landkreis Augsburg
 
+Hinweise:
+- Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
+- Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
+
+| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft | ID | Notiz |
+| --- | -------- | ------ | ------------------------ | --- | ----- |
+| 86477 | Adelsried | Gemeinde | Adelsried | 49-9-7-72-86477 | |
+| 86695 | Allmannshofen | Gemeinde | Nordendorf | 49-9-7-72-86695.114 | PLZ wird mit Nordendorf geteilt |
+| 86450 | Altenmünster | Gemeinde | Altenmünster | 49-9-7-72-86450 | |
+| 86482 | Aystetten | Gemeinde | Aystetten | 49-9-7-72-86482 | |
+| 86485 | Biberbach _(Schwaben)_ | Markt | Biberbach | 49-9-7-72-86485 | |
+| 86399 | Bobingen | Stadt | Bobingen | 49-9-7-72-86399 | |
+| 86486 | Bonstetten _(Schwaben)_ | Gemeinde | Welden | 49-9-7-72-86486 | |
+| 86420 | Diedorf | Markt | Diedorf | 49-9-7-72-86420 | |
+| 86424 | Dinkelscherben | Markt | Dinkelscherben | 49-9-7-72-86424 | |
+| 86678 | Ehingen _(Landkreis Augsburg)_ | Gemeinde | Nordendorf | 49-9-7-72-86678 | |
+| 86679 | Ellgau | Gemeinde | Nordendorf | 49-9-7-72-86679 | |
+| 86494 | Emersacker | Gemeinde | Welden | 49-9-7-72-86494 | |
+| 86850 | Fischach | Markt | Fischach | 49-9-7-72-86850 | |
+| 86456 | Gablingen | Gemeinde | Gablingen | 49-9-7-72-86456 | |
+| 86368 | Gersthofen | Stadt | Gersthofen | 49-9-7-72-86368 | |
+| 86459 | Gessertshausen | Gemeinde | Gessertshausen | 49-9-7-72-86459 | |
+| 86836 | Graben _(Lechfeld)_ | Gemeinde | Graben | 49-9-7-72-86836.149 | PLZ wird mit Klosterlechfeld geteilt |
+| 86845 | Großaitingen | Gemeinde | Großaitingen | 49-9-7-72-86845 | |
+| 86465 | Heretsried | Gemeinde | Heretsried | 49-9-7-72-86465 | |
+| 86856 | Hiltenfingen | Gemeinde | Hiltenfingen | 49-9-7-72-86856 | |
+| 86497 | Horgau | Gemeinde | Horgau | 49-9-7-72-86497 | |
+| 86507 | Kleinaitingen | Gemeinde | Großaitingen | 49-9-7-72-86507.160 | PLZ wird mit Oberottmarshausen geteilt |
+| 86836 | Klosterlechfeld | Gemeinde | Lechfeld | 49-9-7-72-86836.162 | PLZ wird mit Graben geteilt |
+| 86343 | Königsbrunn | Stadt | Königsbrunn | 49-9-7-72-86343 | |
+| 86707 | Kühlenthal | Gemeinde | Nordendorf | 49-9-7-72-86707 | |
+| 86500 | Kutzenhausen | Gemeinde | Kutzenhausen | 49-9-7-72-86500 | |
+| 86863 | Langenneufnach | Gemeinde | Stauden | 49-9-7-72-86863 | |
+| 86853 | Langerringen | Gemeinde | Langerringen | 49-9-7-72-86853 | |
+| 86462 | Langweid am Lech | Gemeinde | Langweid am Lech | 49-9-7-72-86462 | |
+| 86405 | Meitingen | Markt | Meitingen | 49-9-7-72-86405 | |
+| 86866 | Mickhausen | Gemeinde | Stauden | 49-9-7-72-86866 | |
+| 86868 | Mittelneufnach | Gemeinde | Stauden | 49-9-7-72-86868 | |
+| 86356 | Neusäß | Stadt | Neusäß | 49-9-7-72-86356 | |
+| 86695 | Nordendorf | Gemeinde | Nordendorf | 49-9-7-72-86695.185 | PLZ wird mit Allmannshofen geteilt |
+| 86507 | Oberottmarshausen | Gemeinde | Großaitingen | 49-9-7-72-86507.186 | PLZ wird mit Kleinaitingen geteilt |
+| 86872 | Scherstetten | Gemeinde | Stauden | 49-9-7-72-86872 | |
+| 86830 | Schwabmünchen | Stadt | Schwabmünchen | 49-9-7-72-86830 | |
+| 86391 | Stadtbergen | Stadt | Stadtbergen | 49-9-7-72-86391 | |
+
 ## Landkreis Dillingen an der Donau
 
 ## Landkreis Donau-Ries
