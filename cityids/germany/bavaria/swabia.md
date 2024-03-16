@@ -33,9 +33,9 @@
 
 ## Kreisfreie Stadt Kaufbeuren
 
-| PLZ | Gemarkung/Stadtname | Status | ID |
-| --- | -------- | ------ | --- |
-| 87600 | Kaufbeuren | kreisfreie Stadt | 49-9-7-62-87600 |
+| PLZ | Gemarkung/Stadtname | ID |
+| --- | -------- | --- |
+| 87600 | Kaufbeuren | 49-9-7-62-87600 |
 
 | PLZ | Ortsname | Status | ID | Notiz |
 | --- | -------- | ------ | -- | ----- |
@@ -47,9 +47,20 @@
 | 87600 | Kaufbeuren-Großkemnat | Dorf | 49-9-7-62-87600-6 | |
 | 87600 | Kaufbeuren-Märzisried | Dorf | 49-9-7-62-87600-7 | |
 | 87600 | Kaufbeuren-Ölmühlhang | Dorf | 49-9-7-62-87600-8 | Wird statistisch zum Kleinkemnat gezählt |
-| 87600 | Kaufbeuren-Sankt Cosmas | Siedlung | 49-9-7-62-87600-9 | |
+| 87600 | Kaufbeuren-Sankt Cosmas | Siedlung | 49-9-7-62-87600-9 | Wird ggf. zu Oberbeuren gezählt |
 
 ## Kreisfreie Stadt Kempten (Allgäu)
+
+| PLZ | Gemarkung | Status | ID |
+| --- | -------- | ------ | --- |
+| 87435 | Kempten (Allgäu) | Hauptort | 49-9-7-63-87435 |
+| 87439 | Kempten (Allgäu)-Sankt Lorenz | Gemarkung | 49-9-7-63-87439 |
+| 87437 | Kempten (Allgäu)-Sankt Mang | Stadtteil | 49-9-7-63-87437 |
+
+| PLZ | Ortsname | Status | ID | Notiz |
+| --- | -------- | ------ | -- | ----- |
+| 87435 | Kempten (Allgäu) | Hauptort | 49-9-7-63-87435-1 | Verwaltungssitz |
+| 87435 | Kempten (Allgäu)-Adelharz | Hauptort | 49-9-7-63-87435-1 | Verwaltungssitz |
 
 ## Landkreis Lindau (Bodensee)
 
