@@ -23,6 +23,35 @@
 
 ## Kreisfreie Bezirkshauptstadt Augsburg
 
+Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 Stadtbezirken, die PLZ können aber nur Ersterem zugewiesen werden. Eine Vergabe der Cheapie-IDs gestaltet sich daher recht schwierig.
+
+| PLZ | Planungsregion | ID | Notiz |
+| --- | -------------- | -- | ----- |
+| 86159 | Augsburg-Antonsviertel | 49-9-7-61-86159.10 | Ist zugleich der 14. Stadtbezirk, PLZ wird mit Hochfeld und Universitätsviertel geteilt |
+| 86156 | Augsburg-Bärenkeller | 49-9-7-61-86156.3 | Ist zugleich der 23. Stadtbezirk, PLZ wird mit Kriegshaber geteilt |
+| 86199 | Augsburg-Bergheim | 49-9-7-61-86199.16 | Ist zugleich der 42. Stadtbezirk, PLZ wird mit Göggingen und Inningen geteilt |
+| 86169 | Augsburg-Firnhaberau | 49-9-7-61-86169.4 | Ist zugleich der 28. Stadtbezirk, PLZ wird mit Hammerschmiede und Lechhausen geteilt |
+| 86199 | Augsburg-Göggingen | 49-9-7-61-86199.14 | PLZ wird mit Bergheim und Inningen geteilt |
+| 86169 | Augsburg-Hammerschmiede | 49-9-7-61-86169.5 | Ist zugleich der 29. Stadtbezirk, PLZ wird mit Firnhaberau und Lechhausen geteilt |
+| 86179 | Augsburg-Haunstetten-Siebenbrunn | 49-9-7-61-86179 |  |
+| 86159 | Augsburg-Hochfeld | 49-9-7-61-86159.9 | Ist zugleich der 13. Stadtbezirk, PLZ wird mit Antonsviertel und Universitätsviertel geteilt |
+| 86163 | Augsburg-Hochzoll | 49-9-7-61-86163 |  |
+| 86150 | Augsburg-Innenstadt | 49-9-7-61-86150.1 | PLZ wird mit Pfersee geteilt |
+| 86152 | Augsburg-Innenstadt | 49-9-7-61-86152.1 | PLZ wird mit Pfersee geteilt |
+| 86153 | Augsburg-Innenstadt | 49-9-7-61-86153.1 | PLZ wird mit Oberhausen geteilt |
+| 86199 | Augsburg-Inningen | 49-9-7-61-86199.15 | Ist zugleich der 41. Stadtbezirk, PLZ wird mit Bergheim und Göggingen geteilt |
+| 86156 | Augsburg-Kriegshaber | 49-9-7-61-86156.7 | Ist zugleich der 18. Stadtbezirk, PLZ wird mit Bärenkeller geteilt |
+| 86165 | Augsburg-Lechhausen | 49-9-7-61-86165 |  |
+| 86167 | Augsburg-Lechhausen | 49-9-7-61-86167 |  |
+| 86169 | Augsburg-Lechhausen | 49-9-7-61-86169.6 | PLZ wird mit Bärenkeller und Firnhaberau geteilt |
+| 86153 | Augsburg-Oberhausen | 49-9-7-61-86153.2 | PLZ wird mit Innenstadt geteilt |
+| 86154 | Augsburg-Oberhausen | 49-9-7-61-86154 | |
+| 86150 | Augsburg-Pfersee | 49-9-7-61-86150.8 | PLZ wird mit Innenstadt geteilt |
+| 86152 | Augsburg-Pfersee | 49-9-7-61-86152.8 | PLZ wird mit Innenstadt geteilt |
+| 86157 | Augsburg-Pfersee | 49-9-7-61-86157 |  |
+| 86161 | Augsburg-Spickel-Herrenbach | 49-9-7-61-86161 |  |
+| 86159 | Augsburg-Universitätsviertel | 49-9-7-61-86159.17 | Ist zugleich der 32. Stadtbezirk, PLZ wird mit Antonsviertel und Hochfeld geteilt |
+
 ## Landkreis Augsburg
 
 Hinweise:
