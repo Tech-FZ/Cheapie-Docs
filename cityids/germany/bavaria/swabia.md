@@ -52,8 +52,8 @@ Hinweise:
 | 86465 | Heretsried | Gemeinde | Heretsried | 49-9-7-72-86465.156 | PLZ wird mit Welden geteilt |
 | 86856 | Hiltenfingen | Gemeinde | Hiltenfingen | 49-9-7-72-86856 | |
 | 86497 | Horgau | Gemeinde | Horgau | 49-9-7-72-86497 | |
-| 86507 | Kleinaitingen | Gemeinde | Großaitingen | 49-9-7-72-86507.160 | PLZ wird mit Oberottmarshausen und Untermeitingen geteilt |
-| 86836 | Klosterlechfeld | Gemeinde | Lechfeld | 49-9-7-72-86836.162 | PLZ wird mit Graben geteilt |
+| 86507 | Kleinaitingen | Gemeinde | Großaitingen | 49-9-7-72-86507.160 | PLZ wird mit Oberottmarshausen geteilt |
+| 86836 | Klosterlechfeld | Gemeinde | Lechfeld | 49-9-7-72-86836.162 | PLZ wird mit Graben und Untermeitingen geteilt |
 | 86343 | Königsbrunn | Stadt | Königsbrunn | 49-9-7-72-86343 | |
 | 86707 | Kühlenthal | Gemeinde | Nordendorf | 49-9-7-72-86707.166 | PLZ wird mit Westendorf geteilt |
 | 86500 | Kutzenhausen | Gemeinde | Kutzenhausen | 49-9-7-72-86500 | |
