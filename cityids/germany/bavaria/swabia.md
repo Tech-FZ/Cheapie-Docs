@@ -52,6 +52,83 @@ Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 
 | 86161 | Augsburg-Spickel-Herrenbach | 49-9-7-61-86161 |  |
 | 86159 | Augsburg-Universitätsviertel | 49-9-7-61-86159.17 | Ist zugleich der 32. Stadtbezirk, PLZ wird mit Antonsviertel und Hochfeld geteilt |
 
+### Antonsviertel
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86159 | Augsburg-Antonsviertel | 49-9-7-61-86159.10-1 | Ist zugleich X. Planungsregion |
+
+### Bärenkeller
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86156 | Augsburg-Bärenkeller | 49-9-7-61-87156.3-1 | Ist zugleich III. Planungsregion |
+
+### Bergheim
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86199 | Augsburg-Bergheim | 49-9-7-61-86199.16-1 | Ist zugleich XVI. Planungsregion |
+
+### Firnhaberau
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86169 | Augsburg-Firnhaberau | 49-9-7-61-86169.4-1 | Ist zugleich IV. Planungsregion |
+
+### Göggingen
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86199 | Augsburg-Göggingen-Nordost | 49-9-7-61-86199.14-2 | |
+| 86199 | Augsburg-Göggingen-Nordwest | 49-9-7-61-86199.14-1 | |
+| 86199 | Augsburg-Göggingen-Ost | 49-9-7-61-86199.14-3 | |
+| 86199 | Augsburg-Göggingen-Süd | 49-9-7-61-86199.14-4 | |
+
+### Hammerschmiede
+
+| PLZ | Stadtbezirk |  ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86169 | Augsburg-Hammerschmiede | 49-9-7-61-86169.5-1 | Ist zugleich V. Planungsregion |
+
+### Haunstetten-Siebenbrunn
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86179 | Augsburg-Haunstetten-Nord | 49-9-7-61-86179-1 | |
+| 86179 | Augsburg-Haunstetten-Ost | 49-9-7-61-86179-2 | |
+| 86179 | Augsburg-Haunstetten-Süd | 49-9-7-61-86179-3 | |
+| 86179 | Augsburg-Haunstetten-West | 49-9-7-61-86179-4 | |
+| 86179 | Augsburg-Siebenbrunn | 49-9-7-61-86179-5 | |
+
+### Hochfeld
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86159 | Augsburg-Hochfeld | 49-9-7-62-86159.9-1 | Ist zugleich IX. Stadtbezirk |
+
+### Hochzoll
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86163 | Augsburg-Hochzoll-Nord | 49-9-7-62-86163-1 | |
+| 86163 | Augsburg-Hochzoll-Süd | 49-9-7-62-86163-2 | |
+
+### Innenstadt
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86153 | Augsburg-Am Schäfflerviertel | 49-9-7-62-86153.1-2 | |
+| 86150 | Augsburg-Bahnhofs- und Bismarcksviertel | 49-9-7-62-86150.1-4 | |
+| 86152 | Augsburg-Bleich und Pfärrle | 49-9-7-62-86152.1-2 | |
+| 86152 | Augsburg-Georgs- und Kreuzviertel | 49-9-7-62-86152.1-1 | |
+| 86150 | Augsburg-Innenstadt, St. Ulrich-Dom | 49-9-7-62-86150.1-2 | |
+| 86152 | Augsburg-Jakobervorstadt-Nord | 49-9-7-62-86152.1-3 | |
+| 86150 | Augsburg-Jakobervorstadt-Süd | 49-9-7-62-86150.1-5 | |
+| 86150 | Augsburg-Lechviertel, östliches Ulrichsviertel | 49-9-7-62-86150.1-1 | |
+| 86150 | Augsburg-Lechviertel, östliches Ulrichsviertel | 49-9-7-62-86150.1-3 | |
+| 86153 | Augsburg-Stadtjägerviertel | 49-9-7-62-86153.1-1 | |
+
 ## Landkreis Augsburg
 
 Hinweise:
