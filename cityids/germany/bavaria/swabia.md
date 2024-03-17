@@ -501,6 +501,16 @@ Hinweise:
 | 87616 | Marktoberdorf-Weibletshofen | Dorf | Thalhofen an der Wertach | 49-9-7-77-87616.151-27 |  |
 | 87616 | Marktoberdorf-Weißen | Weiler | Rieder | 49-9-7-77-87616.151-23 |  |
 
+### Pforzen
+
+| PLZ | Ortsname | Status | Gemarkung | ID | Notiz |
+| --- | -------- | ------ | -- | -- | ----- |
+| 87666 | Pforzen | Pfarrdorf (Hauptort) | Pforzen | 49-9-7-77-87666-1 |
+| 87666 | Pforzen-Hammerschmiede | Dorf | Pforzen | 49-9-7-77-87666-2 |
+| 87666 | Pforzen-Ingenried | Pfarrdorf | Ingenried | 49-9-7-77-87666-3 |
+| 87666 | Pforzen-Irpisdorf | Dorf | Ingenried | 49-9-7-77-87666-4 |
+| 87666 | Pforzen-Leinau | Dorf | Pforzen | 49-9-7-77-87666-5 |
+
 ## Landkreis Unterallgäu
 
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
