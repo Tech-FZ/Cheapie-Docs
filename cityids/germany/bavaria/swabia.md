@@ -105,7 +105,7 @@ Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 
 
 | PLZ | Stadtbezirk | ID | Notiz |
 | --- | -------- | -- | ----- |
-| 86159 | Augsburg-Hochfeld | 49-9-7-62-86159.9-1 | Ist zugleich IX. Stadtbezirk |
+| 86159 | Augsburg-Hochfeld | 49-9-7-62-86159.9-1 | Ist zugleich IX. Planungsregion |
 
 ### Hochzoll
 
@@ -118,7 +118,7 @@ Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 
 
 | PLZ | Stadtbezirk | ID | Notiz |
 | --- | -------- | -- | ----- |
-| 86153 | Augsburg-Am Schäfflerviertel | 49-9-7-62-86153.1-2 | |
+| 86153 | Augsburg-Am Schäfflerbach | 49-9-7-62-86153.1-2 | |
 | 86150 | Augsburg-Bahnhofs- und Bismarcksviertel | 49-9-7-62-86150.1-4 | |
 | 86152 | Augsburg-Bleich und Pfärrle | 49-9-7-62-86152.1-2 | |
 | 86152 | Augsburg-Georgs- und Kreuzviertel | 49-9-7-62-86152.1-1 | |
@@ -126,8 +126,35 @@ Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 
 | 86152 | Augsburg-Jakobervorstadt-Nord | 49-9-7-62-86152.1-3 | |
 | 86150 | Augsburg-Jakobervorstadt-Süd | 49-9-7-62-86150.1-5 | |
 | 86150 | Augsburg-Lechviertel, östliches Ulrichsviertel | 49-9-7-62-86150.1-1 | |
-| 86150 | Augsburg-Lechviertel, östliches Ulrichsviertel | 49-9-7-62-86150.1-3 | |
 | 86153 | Augsburg-Stadtjägerviertel | 49-9-7-62-86153.1-1 | |
+
+### Inningen
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86199 | Augsburg-Inningen | 49-9-7-62-86199.15-1 | Ist zugleich XV. Planungsregion |
+
+### Kriegshaber
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86156 | Augsburg-Kriegshaber | 49-9-7-62-86156.7-1 | Ist zugleich VII. Planungsregion |
+
+### Lechhausen
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86165 | Augsburg-Lechhausen-Süd | 49-9-7-62-86165-1 | |
+| 86165 | Augsburg-Lechhausen-Ost | 49-9-7-62-86165-2 | |
+| 86169 | Augsburg-Lechhausen-West | 49-9-7-62-86169.6-1 | |
+
+### Oberhausen
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86153 | Augsburg-Rechts der Wertach | 49-9-7-62-86153.2-1 | |
+| 86154 | Augsburg-Links der Wertach-Süd | 49-9-7-62-86154-1 | |
+| 86154 | Augsburg-Links der Wertach-Nord | 49-9-7-62-86154-2 | |
 
 ## Landkreis Augsburg
 
