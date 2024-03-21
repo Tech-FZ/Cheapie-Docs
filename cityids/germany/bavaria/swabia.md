@@ -190,51 +190,51 @@ Notes (EN):
 | PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 86477 | Adelsried | Gemeinde (_Municipality_) | Adelsried | 49-9-7-72-86477 | |
-| 86695 | Allmannshofen | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86695.114 | PLZ wird mit Nordendorf geteilt |
+| 86695 | Allmannshofen | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86695.114 | PLZ wird mit Nordendorf geteilt (_Postcode same as Nordendorf_) |
 | 86450 | Altenmünster | Gemeinde (_Municipality_) | Altenmünster | 49-9-7-72-86450 | |
 | 86482 | Aystetten | Gemeinde (_Municipality_) | Aystetten | 49-9-7-72-86482 | |
-| 86485 | Biberbach _(Schwaben)_ | Markt | Biberbach | 49-9-7-72-86485 | |
-| 86399 | Bobingen | Stadt | Bobingen | 49-9-7-72-86399 | |
-| 86486 | Bonstetten _(Schwaben)_ | Gemeinde (_Municipality_) | Welden | 49-9-7-72-86486 | |
-| 86420 | Diedorf | Markt | Diedorf | 49-9-7-72-86420 | |
-| 86424 | Dinkelscherben | Markt | Dinkelscherben | 49-9-7-72-86424 | |
+| 86485 | Biberbach _(Schwaben/Swabia)_ | Markt (_Market_) | Biberbach | 49-9-7-72-86485 | |
+| 86399 | Bobingen | Stadt (_City_) | Bobingen | 49-9-7-72-86399 | |
+| 86486 | Bonstetten _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Welden | 49-9-7-72-86486 | |
+| 86420 | Diedorf | Markt (_Market_) | Diedorf | 49-9-7-72-86420 | |
+| 86424 | Dinkelscherben | Markt (_Market_) | Dinkelscherben | 49-9-7-72-86424 | |
 | 86678 | Ehingen _(Landkreis Augsburg)_ | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86678 | |
 | 86679 | Ellgau | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86679 | |
 | 86494 | Emersacker | Gemeinde (_Municipality_) | Welden | 49-9-7-72-86494 | |
-| 86850 | Fischach | Markt | Fischach | 49-9-7-72-86850 | |
+| 86850 | Fischach | Markt (_Market_) | Fischach | 49-9-7-72-86850 | |
 | 86456 | Gablingen | Gemeinde (_Municipality_) | Gablingen | 49-9-7-72-86456 | |
-| 86368 | Gersthofen | Stadt | Gersthofen | 49-9-7-72-86368 | |
-| 86459 | Gessertshausen | Gemeinde (_Municipality_) | Gessertshausen | 49-9-7-72-86459 | Sitz der VG Gessertshausen |
-| 86836 | Graben _(Lechfeld)_ | Gemeinde (_Municipality_) | Graben | 49-9-7-72-86836.149 | PLZ wird mit Klosterlechfeld und Untermeitingen geteilt |
-| 86845 | Großaitingen | Gemeinde (_Municipality_) | Großaitingen | 49-9-7-72-86845 | Sitz der VG Großaitingen |
-| 86465 | Heretsried | Gemeinde (_Municipality_) | Heretsried | 49-9-7-72-86465.156 | PLZ wird mit Welden geteilt |
+| 86368 | Gersthofen | Stadt (_City_) | Gersthofen | 49-9-7-72-86368 | |
+| 86459 | Gessertshausen | Gemeinde (_Municipality_) | Gessertshausen | 49-9-7-72-86459 | Sitz der VG Gessertshausen (_Seat of VG Gessertshausen_) |
+| 86836 | Graben _(Lechfeld)_ | Gemeinde (_Municipality_) | Graben | 49-9-7-72-86836.149 | PLZ wird mit Klosterlechfeld und Untermeitingen geteilt (_Postcode same as Klosterlechfeld and Untermeitingen_) |
+| 86845 | Großaitingen | Gemeinde (_Municipality_) | Großaitingen | 49-9-7-72-86845 | Sitz der VG Großaitingen (_Seat of VG Großaitingen_) |
+| 86465 | Heretsried | Gemeinde (_Municipality_) | Heretsried | 49-9-7-72-86465.156 | PLZ wird mit Welden geteilt (_Postcode same as Welden_) |
 | 86856 | Hiltenfingen | Gemeinde (_Municipality_) | Langerringen | 49-9-7-72-86856 | |
 | 86497 | Horgau | Gemeinde (_Municipality_) | Horgau | 49-9-7-72-86497 | |
-| 86507 | Kleinaitingen | Gemeinde (_Municipality_) | Großaitingen | 49-9-7-72-86507.160 | PLZ wird mit Oberottmarshausen geteilt |
-| 86836 | Klosterlechfeld | Gemeinde (_Municipality_) | Lechfeld | 49-9-7-72-86836.162 | PLZ wird mit Graben und Untermeitingen geteilt |
-| 86343 | Königsbrunn | Stadt | Königsbrunn | 49-9-7-72-86343 | |
-| 86707 | Kühlenthal | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86707.166 | PLZ wird mit Westendorf geteilt |
+| 86507 | Kleinaitingen | Gemeinde (_Municipality_) | Großaitingen | 49-9-7-72-86507.160 | PLZ wird mit Oberottmarshausen geteilt (_Postcode same as Oberottmarshausen_) |
+| 86836 | Klosterlechfeld | Gemeinde (_Municipality_) | Lechfeld | 49-9-7-72-86836.162 | PLZ wird mit Graben und Untermeitingen geteilt (_Postcode same as Graben und Untermeitingen_) |
+| 86343 | Königsbrunn | Stadt (_City_) | Königsbrunn | 49-9-7-72-86343 | |
+| 86707 | Kühlenthal | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86707.166 | PLZ wird mit Westendorf geteilt (_Postcode same as Westendorf_) |
 | 86500 | Kutzenhausen | Gemeinde (_Municipality_) | Kutzenhausen | 49-9-7-72-86500 | |
-| 86863 | Langenneufnach | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86863 | Sitz der VG Stauden |
-| 86853 | Langerringen | Gemeinde (_Municipality_) | Langerringen | 49-9-7-72-86853 | Sitz der VG Langerringen |
+| 86863 | Langenneufnach | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86863 | Sitz der VG Stauden (_Seat of VG Stauden_) |
+| 86853 | Langerringen | Gemeinde (_Municipality_) | Langerringen | 49-9-7-72-86853 | Sitz der VG Langerringen (_Seat of VG Langerringen_) |
 | 86462 | Langweid am Lech | Gemeinde (_Municipality_) | Langweid am Lech | 49-9-7-72-86462 | |
-| 86405 | Meitingen | Markt | Meitingen | 49-9-7-72-86405 | |
+| 86405 | Meitingen | Markt (_Market_) | Meitingen | 49-9-7-72-86405 | |
 | 86866 | Mickhausen | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86866 | |
 | 86868 | Mittelneufnach | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86868 | |
-| 86356 | Neusäß | Stadt | Neusäß | 49-9-7-72-86356 | |
-| 86695 | Nordendorf | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86695.185 | PLZ wird mit Allmannshofen geteilt, Sitz der VG Nordendorf |
-| 86507 | Oberottmarshausen | Gemeinde (_Municipality_) | Großaitingen | 49-9-7-72-86507.186 | PLZ wird mit Kleinaitingen geteilt |
+| 86356 | Neusäß | Stadt (_City_) | Neusäß | 49-9-7-72-86356 | |
+| 86695 | Nordendorf | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86695.185 | PLZ wird mit Allmannshofen geteilt, Sitz der VG Nordendorf (_Postcode same as Allmannshofen, seat of VG Nordendorf_) |
+| 86507 | Oberottmarshausen | Gemeinde (_Municipality_) | Großaitingen | 49-9-7-72-86507.186 | PLZ wird mit Kleinaitingen geteilt (_Postcode same as Kleinaitingen_) |
 | 86872 | Scherstetten | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86872 | |
-| 86830 | Schwabmünchen | Stadt | Schwabmünchen | 49-9-7-72-86830 | |
-| 86391 | Stadtbergen | Stadt | Stadtbergen | 49-9-7-72-86391 | |
-| 86672 | Thierhaupten | Markt | Thierhaupten | 49-9-7-72-86672 | |
-| 86836 | Untermeitingen | Gemeinde (_Municipality_) | Lechfeld | 49-9-7-72-86836.209 | PLZ wird mit Graben und Klosterlechfeld geteilt, Sitz der VG Lechfeld |
+| 86830 | Schwabmünchen | Stadt (_City_) | Schwabmünchen | 49-9-7-72-86830 | |
+| 86391 | Stadtbergen | Stadt (_City_) | Stadtbergen | 49-9-7-72-86391 | |
+| 86672 | Thierhaupten | Markt (_Market_) | Thierhaupten | 49-9-7-72-86672 | |
+| 86836 | Untermeitingen | Gemeinde (_Municipality_) | Lechfeld | 49-9-7-72-86836.209 | PLZ wird mit Graben und Klosterlechfeld geteilt, Sitz der VG Lechfeld (_Postcode same as Graben and Klosterlechfeld, seat of VG Lechfeld_) |
 | 86514 | Ustersbach | Gemeinde (_Municipality_) | Gessertshausen | 49-9-7-72-86514 | |
 | 86877 | Walkertshofen | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86877 | |
 | 86517 | Wehringen | Gemeinde (_Municipality_) | Wehringen | 49-9-7-72-86517 | |
-| 86465 | Welden | Markt | Welden | 49-9-7-72-86465.216 | PLZ wird mit Heretsried geteilt, Sitz der VG Welden |
-| 86707 | Westendorf _(Landkreis Augsburg)_ | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86707.217 | PLZ wird mit Kühlenthal geteilt |
-| 86441 | Zusmarshausen | Markt | Zusmarshausen | 49-9-7-72-86441 | |
+| 86465 | Welden | Markt (_Market_) | Welden | 49-9-7-72-86465.216 | PLZ wird mit Heretsried geteilt, Sitz der VG Welden (_Postcode same as Heretsried, seat of VG Welden_) |
+| 86707 | Westendorf _(Landkreis Augsburg)_ | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86707.217 | PLZ wird mit Kühlenthal geteilt (_Postcode same as Kühlenthal_) |
+| 86441 | Zusmarshausen | Markt (_Market_) | Zusmarshausen | 49-9-7-72-86441 | |
 
 ## Landkreis Dillingen an der Donau
 
