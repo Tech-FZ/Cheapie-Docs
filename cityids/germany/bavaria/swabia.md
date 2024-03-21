@@ -23,8 +23,6 @@
 
 ## Kreisfreie Bezirkshauptstadt Augsburg
 
-Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 Stadtbezirken, die PLZ können aber nur Ersterem zugewiesen werden. Eine Vergabe der Cheapie-IDs gestaltet sich daher recht schwierig.
-
 | PLZ | Planungsregion (_Planning region_) | ID | Notiz (_Notes_) |
 | --- | -------------- | -- | ----- |
 | 86159 | [Augsburg-Antonsviertel](#antonsviertel) | 49-9-7-61-86159.10 | Ist zugleich der 14. Stadtbezirk, PLZ wird mit Hochfeld und Universitätsviertel geteilt (_Is also 14th city district, postcode same as Hochfeld and Universitätsviertel_) |
