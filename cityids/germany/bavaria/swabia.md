@@ -2,22 +2,22 @@
 
 ## Landkreise und kreisfreie Städte
 
-| Name | Status | Verwaltungssitz | ID |
+| Name | Status | Verwaltungssitz (_Administrative seat_) | ID |
 | ------- | -- | ---------------- | -- |
-| [Aichach-Friedberg](#landkreis-aichach-friedberg) | Landkreis | Münchener Straße 9, 86551 Aichach | 49-9-7-71 |
-| [Stadt Augsburg](#kreisfreie-bezirkshauptstadt-augsburg) | kreisfreie Bezirkshauptstadt | Rathausplatz 1, 86150 Augsburg | 49-9-7-61 |
-| [Landkreis Augsburg](#landkreis-augsburg) | Landkreis (Verwaltung in Stadt Augsburg) | Prinzregentenplatz 4, 86150 Augsburg | 49-9-7-72 |
-| [Dillingen an der Donau](#landkreis-dillingen-an-der-donau) | Landkreis | Große Allee 24, 89407 Dillingen an der Donau | 49-9-7-73 |
-| [Donau-Ries](#landkreis-donau-ries) | Landkreis | Pflegstraße 2, 86609 Donauwörth | 49-9-7-79 |
-| [Günzburg](#landkreis-günzburg) | Landkreis | An der Kapuzinermauer 1, 89312 Günzburg | 49-9-7-74 |
-| [Kaufbeuren](#kreisfreie-stadt-kaufbeuren) | kreisfreie Stadt | Kaiser-Max-Straße 1, 87600 Kaufbeuren | 49-9-7-62 |
-| [Kempten (Allgäu)](#kreisfreie-stadt-kempten-allgäu) | kreisfreie Stadt | Rathausplatz 29, 87435 Kempten (Allgäu) | 49-9-7-63 |
-| [Lindau (Bodensee)](#landkreis-lindau-bodensee) | Landkreis | Stiftsplatz 4, 88131 Lindau (Bodensee) | 49-9-7-76 |
-| [Memmingen](#kreisfreie-stadt-memmingen) | kreisfreie Stadt | Marktplatz 1, 87700 Memmingen | 49-9-7-64 |
-| [Neu-Ulm](#landkreis-neu-ulm) | Landkreis | Kantstraße 8, 89231 Neu-Ulm | 49-9-7-75 |
-| [Oberallgäu](#landkreis-oberallgäu) | Landkreis | Oberallgäuer Platz 2, 87527 Sonthofen | 49-9-7-80 |
-| [Ostallgäu](#landkreis-ostallgäu) | Landkreis | Schwabenstraße 11, 87616 Marktoberdorf | 49-9-7-77 |
-| [Unterallgäu](#landkreis-unterallgäu) | Landkreis | Bad Wörishofer Straße 33, 87719 Mindelheim | 49-9-7-78 |
+| [Aichach-Friedberg](#landkreis-aichach-friedberg) | Landkreis (_Rural district_) | Münchener Straße 9, 86551 Aichach | 49-9-7-71 |
+| [Stadt Augsburg](#kreisfreie-bezirkshauptstadt-augsburg) | kreisfreie Bezirkshauptstadt (_district-free capital_) | Rathausplatz 1, 86150 Augsburg | 49-9-7-61 |
+| [Landkreis Augsburg](#landkreis-augsburg) | Landkreis (Verwaltung in Stadt Augsburg) (_Rural district with seat in the city of Augsburg_) | Prinzregentenplatz 4, 86150 Augsburg | 49-9-7-72 |
+| [Dillingen an der Donau](#landkreis-dillingen-an-der-donau) | Landkreis (_Rural district_) | Große Allee 24, 89407 Dillingen an der Donau | 49-9-7-73 |
+| [Donau-Ries](#landkreis-donau-ries) | Landkreis (_Rural district_) | Pflegstraße 2, 86609 Donauwörth | 49-9-7-79 |
+| [Günzburg](#landkreis-günzburg) | Landkreis (_Rural district_) | An der Kapuzinermauer 1, 89312 Günzburg | 49-9-7-74 |
+| [Kaufbeuren](#kreisfreie-stadt-kaufbeuren) | kreisfreie Stadt (_district-free city_) | Kaiser-Max-Straße 1, 87600 Kaufbeuren | 49-9-7-62 |
+| [Kempten (Allgäu)](#kreisfreie-stadt-kempten-allgäu) | kreisfreie Stadt (_district-free city_) | Rathausplatz 29, 87435 Kempten (Allgäu) | 49-9-7-63 |
+| [Lindau (Bodensee)](#landkreis-lindau-bodensee) | Landkreis (_Rural district_) | Stiftsplatz 4, 88131 Lindau (Bodensee) | 49-9-7-76 |
+| [Memmingen](#kreisfreie-stadt-memmingen) | kreisfreie Stadt (_district-free city_) | Marktplatz 1, 87700 Memmingen | 49-9-7-64 |
+| [Neu-Ulm](#landkreis-neu-ulm) | Landkreis (_Rural district_) | Kantstraße 8, 89231 Neu-Ulm | 49-9-7-75 |
+| [Oberallgäu](#landkreis-oberallgäu) | Landkreis (_Rural district_) | Oberallgäuer Platz 2, 87527 Sonthofen | 49-9-7-80 |
+| [Ostallgäu](#landkreis-ostallgäu) | Landkreis (_Rural district_) | Schwabenstraße 11, 87616 Marktoberdorf | 49-9-7-77 |
+| [Unterallgäu](#landkreis-unterallgäu) | Landkreis (_Rural district_) | Bad Wörishofer Straße 33, 87719 Mindelheim | 49-9-7-78 |
 
 ## Landkreis Aichach-Friedberg
 
@@ -181,11 +181,15 @@ Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 
 
 ## Landkreis Augsburg
 
-Hinweise:
+Hinweise (DE):
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
 
-| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
+Notes (EN):
+- If the affected municipality is not a member of any administrative group, its name will be filled in.
+- Inofficial suffixes serving for distinction will be marked with _cursive font_.
+
+| PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 86477 | Adelsried | Gemeinde | Adelsried | 49-9-7-72-86477 | |
 | 86695 | Allmannshofen | Gemeinde | Nordendorf | 49-9-7-72-86695.114 | PLZ wird mit Nordendorf geteilt |
@@ -242,21 +246,21 @@ Hinweise:
 
 ## Kreisfreie Stadt Kaufbeuren
 
-| PLZ | Gemarkung/Stadtname | ID |
+| PLZ | Gemarkung/Stadtname (_City name_) | ID |
 | --- | -------- | --- |
 | 87600 | Kaufbeuren | 49-9-7-62-87600 |
 
-| PLZ | Ortsname | Status | ID | Notiz |
+| PLZ | Ortsname (_District name_) | Status | ID | Notiz (_Note_) |
 | --- | -------- | ------ | -- | ----- |
-| 87600 | Kaufbeuren | Hauptort | 49-9-7-62-87600-1 | Verwaltungssitz, schließt Altstadt und Haken ein |
-| 87600 | Kaufbeuren-Neugablonz | Stadtteil | 49-9-7-62-87600-2 | |
-| 87600 | Kaufbeuren-Oberbeuren | Pfarrdorf | 49-9-7-62-87600-3 | |
-| 87600 | Kaufbeuren-Hirschzell | Kirchdorf | 49-9-7-62-87600-4 | |
-| 87600 | Kaufbeuren-Kleinkemnat | Kirchdorf | 49-9-7-62-87600-5 | |
-| 87600 | Kaufbeuren-Großkemnat | Dorf | 49-9-7-62-87600-6 | |
-| 87600 | Kaufbeuren-Märzisried | Dorf | 49-9-7-62-87600-7 | |
-| 87600 | Kaufbeuren-Ölmühlhang | Dorf | 49-9-7-62-87600-8 | Wird statistisch zum Kleinkemnat gezählt |
-| 87600 | Kaufbeuren-Sankt Cosmas | Siedlung | 49-9-7-62-87600-9 | Wird ggf. zu Oberbeuren gezählt |
+| 87600 | Kaufbeuren | Hauptort (_Core city_) | 49-9-7-62-87600-1 | Verwaltungssitz, schließt Altstadt und Haken ein (_Administrative seat, includes old town and Haken_) |
+| 87600 | Kaufbeuren-Neugablonz | Stadtteil (_Borough_) | 49-9-7-62-87600-2 | |
+| 87600 | Kaufbeuren-Oberbeuren | Pfarrdorf (_Parish village_) | 49-9-7-62-87600-3 | |
+| 87600 | Kaufbeuren-Hirschzell | Kirchdorf (_Church village_) | 49-9-7-62-87600-4 | |
+| 87600 | Kaufbeuren-Kleinkemnat | Kirchdorf (_Church village_) | 49-9-7-62-87600-5 | |
+| 87600 | Kaufbeuren-Großkemnat | Dorf (_Village_) | 49-9-7-62-87600-6 | |
+| 87600 | Kaufbeuren-Märzisried | Dorf (_Village_) | 49-9-7-62-87600-7 | |
+| 87600 | Kaufbeuren-Ölmühlhang | Dorf (_Village_) | 49-9-7-62-87600-8 | Wird statistisch zum Kleinkemnat gezählt (_Is counted into Kleinkemnat statistically_) |
+| 87600 | Kaufbeuren-Sankt Cosmas | Siedlung (_Settlement_) | 49-9-7-62-87600-9 | Wird ggf. zu Oberbeuren gezählt (_Might count to Oberbeuren_) |
 
 ## Kreisfreie Stadt Kempten (Allgäu)
 
@@ -422,12 +426,17 @@ Die Nummern wurden (teilweise) https://daten.digitale-sammlungen.de/~db/0005/bsb
 
 ## Landkreis Lindau (Bodensee)
 
-Hinweise:
+Hinweise (DE):
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
 - Manchmal wird "Gemeinde" mit Gde. abgekürzt.
 
-| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
+Notes (EN):
+- If the affected municipality is not a member of any administrative group, its name will be filled in.
+- Inofficial suffixes serving for distinction will be marked with _cursive font_.
+- Sometimes, "Municipality" is shortened to Gde. (German for "Gemeinde").
+
+| PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 88131 | Bodolz | Gemeinde | Bodolz | 49-9-7-76-88131.111 | PLZ wird mit Lindau (Bodensee) geteilt |
 | 88167 | Gestratz | Gemeinde | Argental | 49-9-7-76-88167.112 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
@@ -489,11 +498,15 @@ Hinweise:
 
 ## Landkreis Oberallgäu
 
-Hinweise:
+Hinweise (DE):
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
 
-| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
+Notes (EN):
+- If the affected municipality is not a member of any administrative group, its name will be filled in.
+- Inofficial suffixes serving for distinction will be marked with _cursive font_.
+
+| PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 87452 | Altusried | Markt | Altusried | 49-9-7-80-87452 | |
 | 87541 | Bad Hindelang | Markt | Bad Hindelang | 49-9-7-80-87541 | |
@@ -526,11 +539,15 @@ Hinweise:
 
 ## Landkreis Ostallgäu
 
-Hinweise:
+Hinweise (DE):
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
 
-| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
+Notes (EN):
+- If the affected municipality is not a member of any administrative group, its name will be filled in.
+- Inofficial suffixes serving for distinction will be marked with _cursive font_.
+
+| PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 87648 | Aitrang | Gemeinde | Biessenhofen | 49-9-7-77-87648 | |
 | 87650 | Baisweil | Gemeinde | Eggenthal | 49-9-7-77-87650 | |
@@ -624,10 +641,15 @@ Hinweise:
 
 ## Landkreis Unterallgäu
 
+Hinweise (DE):
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
 
-| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
+Notes (EN):
+- If the affected municipality is not a member of any administrative group, its name will be filled in.
+- Inofficial suffixes serving for distinction will be marked with _cursive font_.
+
+| PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 86854 | Amberg _(Schwaben)_ | Gemeinde | Türkheim | 49-9-7-78-86854 | |
 | 87742 | Apfeltrach | Gemeinde | Dirlewang | 49-9-7-78-87742.113 | PLZ wird mit Dirlewang geteilt |
