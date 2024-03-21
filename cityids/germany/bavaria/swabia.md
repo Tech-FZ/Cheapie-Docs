@@ -155,6 +155,29 @@ Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 
 | 86153 | Augsburg-Rechts der Wertach | 49-9-7-62-86153.2-1 | |
 | 86154 | Augsburg-Links der Wertach-Süd | 49-9-7-62-86154-1 | |
 | 86154 | Augsburg-Links der Wertach-Nord | 49-9-7-62-86154-2 | |
+| 86154 | Augsburg-Oberhausen-Süd | 49-9-7-62-86154-3 | |
+| 86154 | Augsburg-Oberhausen-Nord | 49-9-7-62-86154-4 | |
+
+### Pfersee
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86157 | Augsburg-Pfersee-Süd | 49-9-7-62-86157-1 | |
+| 86157 | Augsburg-Pfersee-Nord | 49-9-7-62-86157-2 | |
+| 86150 | Augsburg-Rosenau- und Thelottviertel | 49-9-7-62-86150.8-1 | |
+
+### Spickel-Herrenbach
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86161 | Augsburg-Spickel | 49-9-7-62-86161-1 | |
+| 86161 | Augsburg-Wolfram- und Herrenbachviertel | 49-9-7-62-86161-2 | |
+
+### Universitätsviertel
+
+| PLZ | Stadtbezirk | ID | Notiz |
+| --- | -------- | -- | ----- |
+| 86159 | Augsburg-Universitätsviertel | 49-9-7-62-86159.17-1 | Ist zugleich XVII. Planungsregion |
 
 ## Landkreis Augsburg
 
