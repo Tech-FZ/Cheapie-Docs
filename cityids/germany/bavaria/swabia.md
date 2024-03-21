@@ -25,32 +25,32 @@
 
 Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 Stadtbezirken, die PLZ können aber nur Ersterem zugewiesen werden. Eine Vergabe der Cheapie-IDs gestaltet sich daher recht schwierig.
 
-| PLZ | Planungsregion | ID | Notiz |
+| PLZ | Planungsregion (_Planning region_) | ID | Notiz (_Notes_) |
 | --- | -------------- | -- | ----- |
-| 86159 | [Augsburg-Antonsviertel](#antonsviertel) | 49-9-7-61-86159.10 | Ist zugleich der 14. Stadtbezirk, PLZ wird mit Hochfeld und Universitätsviertel geteilt |
-| 86156 | [Augsburg-Bärenkeller](#bärenkeller) | 49-9-7-61-86156.3 | Ist zugleich der 23. Stadtbezirk, PLZ wird mit Kriegshaber geteilt |
-| 86199 | [Augsburg-Bergheim](#bergheim) | 49-9-7-61-86199.16 | Ist zugleich der 42. Stadtbezirk, PLZ wird mit Göggingen und Inningen geteilt |
-| 86169 | [Augsburg-Firnhaberau](#firnhaberau) | 49-9-7-61-86169.4 | Ist zugleich der 28. Stadtbezirk, PLZ wird mit Hammerschmiede und Lechhausen geteilt |
-| 86199 | [Augsburg-Göggingen](#göggingen) | 49-9-7-61-86199.14 | PLZ wird mit Bergheim und Inningen geteilt |
-| 86169 | [Augsburg-Hammerschmiede](#hammerschmiede) | 49-9-7-61-86169.5 | Ist zugleich der 29. Stadtbezirk, PLZ wird mit Firnhaberau und Lechhausen geteilt |
+| 86159 | [Augsburg-Antonsviertel](#antonsviertel) | 49-9-7-61-86159.10 | Ist zugleich der 14. Stadtbezirk, PLZ wird mit Hochfeld und Universitätsviertel geteilt (_Is also 14th city district, postcode same as Hochfeld and Universitätsviertel_) |
+| 86156 | [Augsburg-Bärenkeller](#bärenkeller) | 49-9-7-61-86156.3 | Ist zugleich der 23. Stadtbezirk, PLZ wird mit Kriegshaber geteilt (_Is also 23rd city district, postcode same as Kriegshaber_) |
+| 86199 | [Augsburg-Bergheim](#bergheim) | 49-9-7-61-86199.16 | Ist zugleich der 42. Stadtbezirk, PLZ wird mit Göggingen und Inningen geteilt (_Is also 42nd city district, postcode same as Göggingen and Inningen_) |
+| 86169 | [Augsburg-Firnhaberau](#firnhaberau) | 49-9-7-61-86169.4 | Ist zugleich der 28. Stadtbezirk, PLZ wird mit Hammerschmiede und Lechhausen geteilt (_Is also 28th city district, postcode same as Hammerschmiede and Lechhausen_) |
+| 86199 | [Augsburg-Göggingen](#göggingen) | 49-9-7-61-86199.14 | PLZ wird mit Bergheim und Inningen geteilt (_Postcode same as Bergheim and Inningen_) |
+| 86169 | [Augsburg-Hammerschmiede](#hammerschmiede) | 49-9-7-61-86169.5 | Ist zugleich der 29. Stadtbezirk, PLZ wird mit Firnhaberau und Lechhausen geteilt (_Is also 29th city district, postcode same as Firnhaberau and Lechhausen_) |
 | 86179 | [Augsburg-Haunstetten-Siebenbrunn](#haunstetten-siebenbrunn) | 49-9-7-61-86179 |  |
-| 86159 | [Augsburg-Hochfeld](#hochfeld) | 49-9-7-61-86159.9 | Ist zugleich der 13. Stadtbezirk, PLZ wird mit Antonsviertel und Universitätsviertel geteilt |
+| 86159 | [Augsburg-Hochfeld](#hochfeld) | 49-9-7-61-86159.9 | Ist zugleich der 13. Stadtbezirk, PLZ wird mit Antonsviertel und Universitätsviertel geteilt (_Is also 13th city district, postcode same as Antonsviertel and Universitätsviertel_) |
 | 86163 | [Augsburg-Hochzoll](#hochzoll) | 49-9-7-61-86163 |  |
-| 86150 | [Augsburg-Innenstadt](#innenstadt) | 49-9-7-61-86150.1 | PLZ wird mit Pfersee geteilt |
-| 86152 | Augsburg-Innenstadt | 49-9-7-61-86152.1 | PLZ wird mit Pfersee geteilt |
-| 86153 | Augsburg-Innenstadt | 49-9-7-61-86153.1 | PLZ wird mit Oberhausen geteilt |
-| 86199 | [Augsburg-Inningen](#inningen) | 49-9-7-61-86199.15 | Ist zugleich der 41. Stadtbezirk, PLZ wird mit Bergheim und Göggingen geteilt |
-| 86156 | [Augsburg-Kriegshaber](#kriegshaber) | 49-9-7-61-86156.7 | Ist zugleich der 18. Stadtbezirk, PLZ wird mit Bärenkeller geteilt |
+| 86150 | [Augsburg-Innenstadt](#innenstadt) | 49-9-7-61-86150.1 | PLZ wird mit Pfersee geteilt (_Postcode same as Pfersee_) |
+| 86152 | Augsburg-Innenstadt | 49-9-7-61-86152.1 | PLZ wird mit Pfersee geteilt (_Postcode same as Pfersee_) |
+| 86153 | Augsburg-Innenstadt | 49-9-7-61-86153.1 | PLZ wird mit Oberhausen geteilt (_Postcode same as Oberhausen_) |
+| 86199 | [Augsburg-Inningen](#inningen) | 49-9-7-61-86199.15 | Ist zugleich der 41. Stadtbezirk, PLZ wird mit Bergheim und Göggingen geteilt (_Is also 41st city district, postcode same as Bergheim and Göggingen_) |
+| 86156 | [Augsburg-Kriegshaber](#kriegshaber) | 49-9-7-61-86156.7 | Ist zugleich der 18. Stadtbezirk, PLZ wird mit Bärenkeller geteilt (_Is also 18th city district, postcode same as Bärenkeller_) |
 | 86165 | [Augsburg-Lechhausen](#lechhausen) | 49-9-7-61-86165 |  |
 | 86167 | Augsburg-Lechhausen | 49-9-7-61-86167 |  |
-| 86169 | Augsburg-Lechhausen | 49-9-7-61-86169.6 | PLZ wird mit Bärenkeller und Firnhaberau geteilt |
-| 86153 | [Augsburg-Oberhausen](#oberhausen) | 49-9-7-61-86153.2 | PLZ wird mit Innenstadt geteilt |
+| 86169 | Augsburg-Lechhausen | 49-9-7-61-86169.6 | PLZ wird mit Bärenkeller und Firnhaberau geteilt (_Postcode same as Bärenkeller and Firnhaberau_) |
+| 86153 | [Augsburg-Oberhausen](#oberhausen) | 49-9-7-61-86153.2 | PLZ wird mit Innenstadt geteilt (_Postcode same as Innenstadt_) |
 | 86154 | Augsburg-Oberhausen | 49-9-7-61-86154 | |
-| 86150 | [Augsburg-Pfersee](#pfersee) | 49-9-7-61-86150.8 | PLZ wird mit Innenstadt geteilt |
-| 86152 | Augsburg-Pfersee | 49-9-7-61-86152.8 | PLZ wird mit Innenstadt geteilt |
+| 86150 | [Augsburg-Pfersee](#pfersee) | 49-9-7-61-86150.8 | PLZ wird mit Innenstadt geteilt (_Postcode same as Innenstadt_) |
+| 86152 | Augsburg-Pfersee | 49-9-7-61-86152.8 | PLZ wird mit Innenstadt geteilt (_Postcode same as Innenstadt_) |
 | 86157 | Augsburg-Pfersee | 49-9-7-61-86157 |  |
 | 86161 | [Augsburg-Spickel-Herrenbach](#spickel-herrenbach) | 49-9-7-61-86161 |  |
-| 86159 | [Augsburg-Universitätsviertel](#universitätsviertel) | 49-9-7-61-86159.17 | Ist zugleich der 32. Stadtbezirk, PLZ wird mit Antonsviertel und Hochfeld geteilt |
+| 86159 | [Augsburg-Universitätsviertel](#universitätsviertel) | 49-9-7-61-86159.17 | Ist zugleich der 32. Stadtbezirk, PLZ wird mit Antonsviertel und Hochfeld geteilt (_Is also 32nd city district, postcode same as Antonsviertel and Hochfeld_) |
 
 ### Antonsviertel
 
