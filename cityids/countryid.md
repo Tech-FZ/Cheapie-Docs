@@ -2,10 +2,60 @@
 
 ## Europe
 
-| Country | ID |
-| ------- | -- |
-| Germany | 49 |
-| Austria | 43 |
+| Country | Capital | ID | Notes |
+| ------- |-------- | -- | ----- |
+| Germany | Berlin | 49 | |
+| Austria | Vienna | 43 | |
+| Greece | Athens | 30 | |
+| Netherlands | Amsterdam | 31 | |
+| Belgium | Brussels | 32 | |
+| France | Paris | 33 | |
+| Spain | Madrid | 34 | |
+| Gibraltar | _Gibraltar_ | 350 | Part of the UK |
+| Portugal | Lisbon | 351 | |
+| Luxembourg | Luxembourg | 352 | |
+| Ireland | Dublin | 353 | |
+| Iceland | Reykjavik | 354 | |
+| Albania | Tirane | 355 | |
+| Malta | Valletta | 356 | |
+| United Kingdom | London | 44 | |
+| Republic of Cyprus | Nicosia | 357 | |
+| Akrotiri and Dhekalia | Episkopi Cantonment | 44357 | |
+| Finland | Helsinki | 358 | |
+| Bulgaria | Sofia | 359 | |
+| Hungary | Budapest | 36 | |
+| Lithuania | Vilnius | 370 | |
+| Latvia | Riga | 371 | |
+| Estonia | Tallinn | 372 | |
+| Moldova | Chișinău | 373 | |
+| Armenia | Yerevan | 374 | |
+| Belarus | Minsk | 375 | |
+| Andorra | Andorra la Vella | 376 | |
+| Monaco | Monaco | 377 | |
+| San Marino | San Marino | 378 | |
+| Vatican City | Vatican City | 379 | |
+| Ukraine | Kiev | 380 | Currently under Russian invasion |
+| Serbia | Belgrade | 381 | |
+| Montenegro | Podgorica | 382 | |
+| Kosovo | Pristina | 383 | |
+| Croatia | Zagreb | 385 | |
+| Slovenia | Ljubljana | 386 | |
+| Bosnia and Herzegovina | Sarajevo | 387 | |
+| North Macedonia | Skopje | 389 |
+| Italy | Rome | 39 |
+| Romania | Bucharest | 40 |
+| Switzerland | Bern | 41
+| Czechia | Prague | 420 |
+| Slovakia | Bratislava | 421 |
+| Liechtenstein | Vaduz | 423 |
+| Guernsey | St. Peter Port | 441481 | Part of the UK |
+| Jersey | St. Helier | 441534 | Part of the UK |
+| Isle of Man | Douglas | 441624 | UK responsible for relations |
+| Denmark | Copenhagen | 45 | |
+| Sweden | Stockholm | 46 | |
+| Norway | Oslo | 47 | |
+| Poland | Warsaw | 48 | |
+| Crimea | _Sevastopol_ | 37 | Officially part of Ukraine, but receives its own ID due to Russian occupation |
 
 ## Asia
 
