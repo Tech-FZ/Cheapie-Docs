@@ -52,31 +52,31 @@
 
 ### Antonsviertel
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
-| 86159 | Augsburg-Antonsviertel | 49-9-7-61-86159.10-1 | Ist zugleich X. Planungsregion |
+| 86159 | Augsburg-Antonsviertel | 49-9-7-61-86159.10-1 | Ist zugleich X. Planungsregion (_Is also X. planning region_) |
 
 ### Bärenkeller
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
-| 86156 | Augsburg-Bärenkeller | 49-9-7-61-87156.3-1 | Ist zugleich III. Planungsregion |
+| 86156 | Augsburg-Bärenkeller | 49-9-7-61-87156.3-1 | Ist zugleich III. Planungsregion (_Is also III. planning region_) |
 
 ### Bergheim
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
-| 86199 | Augsburg-Bergheim | 49-9-7-61-86199.16-1 | Ist zugleich XVI. Planungsregion |
+| 86199 | Augsburg-Bergheim | 49-9-7-61-86199.16-1 | Ist zugleich XVI. Planungsregion (_Is also XVI. planning region_) |
 
 ### Firnhaberau
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
-| 86169 | Augsburg-Firnhaberau | 49-9-7-61-86169.4-1 | Ist zugleich IV. Planungsregion |
+| 86169 | Augsburg-Firnhaberau | 49-9-7-61-86169.4-1 | Ist zugleich IV. Planungsregion (_Is also IV. planning region_) |
 
 ### Göggingen
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
 | 86199 | Augsburg-Göggingen-Nordost | 49-9-7-61-86199.14-2 | |
 | 86199 | Augsburg-Göggingen-Nordwest | 49-9-7-61-86199.14-1 | |
@@ -85,13 +85,13 @@
 
 ### Hammerschmiede
 
-| PLZ | Stadtbezirk |  ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
-| 86169 | Augsburg-Hammerschmiede | 49-9-7-61-86169.5-1 | Ist zugleich V. Planungsregion |
+| 86169 | Augsburg-Hammerschmiede | 49-9-7-61-86169.5-1 | Ist zugleich V. Planungsregion (_Is also V. planning region_) |
 
 ### Haunstetten-Siebenbrunn
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
 | 86179 | Augsburg-Haunstetten-Nord | 49-9-7-61-86179-1 | |
 | 86179 | Augsburg-Haunstetten-Ost | 49-9-7-61-86179-2 | |
@@ -101,20 +101,20 @@
 
 ### Hochfeld
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
-| 86159 | Augsburg-Hochfeld | 49-9-7-62-86159.9-1 | Ist zugleich IX. Planungsregion |
+| 86159 | Augsburg-Hochfeld | 49-9-7-62-86159.9-1 | Ist zugleich IX. Planungsregion (_Is also IX. planning region_) |
 
 ### Hochzoll
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
 | 86163 | Augsburg-Hochzoll-Nord | 49-9-7-62-86163-1 | |
 | 86163 | Augsburg-Hochzoll-Süd | 49-9-7-62-86163-2 | |
 
 ### Innenstadt
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
 | 86153 | Augsburg-Am Schäfflerbach | 49-9-7-62-86153.1-2 | |
 | 86150 | Augsburg-Bahnhofs- und Bismarcksviertel | 49-9-7-62-86150.1-4 | |
@@ -128,19 +128,19 @@
 
 ### Inningen
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
-| 86199 | Augsburg-Inningen | 49-9-7-62-86199.15-1 | Ist zugleich XV. Planungsregion |
+| 86199 | Augsburg-Inningen | 49-9-7-62-86199.15-1 | Ist zugleich XV. Planungsregion (_Is also XV. planning region_) |
 
 ### Kriegshaber
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
-| 86156 | Augsburg-Kriegshaber | 49-9-7-62-86156.7-1 | Ist zugleich VII. Planungsregion |
+| 86156 | Augsburg-Kriegshaber | 49-9-7-62-86156.7-1 | Ist zugleich VII. Planungsregion (_Is also VII. planning region_) |
 
 ### Lechhausen
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
 | 86165 | Augsburg-Lechhausen-Süd | 49-9-7-62-86165-1 | |
 | 86165 | Augsburg-Lechhausen-Ost | 49-9-7-62-86165-2 | |
@@ -148,7 +148,7 @@
 
 ### Oberhausen
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
 | 86153 | Augsburg-Rechts der Wertach | 49-9-7-62-86153.2-1 | |
 | 86154 | Augsburg-Links der Wertach-Süd | 49-9-7-62-86154-1 | |
@@ -158,7 +158,7 @@
 
 ### Pfersee
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
 | 86157 | Augsburg-Pfersee-Süd | 49-9-7-62-86157-1 | |
 | 86157 | Augsburg-Pfersee-Nord | 49-9-7-62-86157-2 | |
@@ -166,16 +166,16 @@
 
 ### Spickel-Herrenbach
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
 | 86161 | Augsburg-Spickel | 49-9-7-62-86161-1 | |
 | 86161 | Augsburg-Wolfram- und Herrenbachviertel | 49-9-7-62-86161-2 | |
 
 ### Universitätsviertel
 
-| PLZ | Stadtbezirk | ID | Notiz |
+| PLZ | Stadtbezirk (_City district_) | ID | Notiz (_Notes_) |
 | --- | -------- | -- | ----- |
-| 86159 | Augsburg-Universitätsviertel | 49-9-7-62-86159.17-1 | Ist zugleich XVII. Planungsregion |
+| 86159 | Augsburg-Universitätsviertel | 49-9-7-62-86159.17-1 | Ist zugleich XVII. Planungsregion (_Is also XVII. planning region_) |
 
 ## Landkreis Augsburg
 
