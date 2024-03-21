@@ -422,6 +422,34 @@ Die Nummern wurden (teilweise) https://daten.digitale-sammlungen.de/~db/0005/bsb
 
 ## Landkreis Lindau (Bodensee)
 
+Hinweise:
+- Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
+- Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
+- Manchmal wird "Gemeinde" mit Gde. abgekürzt.
+
+| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
+| --- | -------- | ------ | ------------------------ | --- | ----- |
+| 88131 | Bodolz | Gemeinde | Bodolz | 49-9-7-76-88131.111 | PLZ wird mit Lindau (Bodensee) geteilt |
+| 88167 | Gestratz | Gemeinde | Argental | 49-9-7-76-88167.112 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
+| 88167 | Grünenbach | Gemeinde | Argental | 49-9-7-76-88167.113 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
+| 88178 | Heimenkirch | Markt | Heimenkirch | 49-9-7-76-88178 | |
+| 88145 | Hergatz | Gemeinde | Hergatz | 49-9-7-76-88145.131 | PLZ wird mit Opfenbach geteilt |
+| 88138 | Hergensweiler | Gemeinde | Sigmarszell | 49-9-7-76-88138.115 | PLZ wird mit Sigmarszell und Weißensberg geteilt |
+| 88131 | Lindau (Bodensee) | Große Kreisstadt | Lindau (Bodensee) | 49-9-7-76-88131.116 | PLZ wird mit Bodolz geteilt |
+| 88161 | Lindenberg im Allgäu | Stadt | Lindenberg im Allgäu | 49-9-7-76-88161 | |
+| 88167 | Maierhöfen | Gemeinde | Argental | 49-9-7-76-88167.118 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
+| 88149 | Nonnenhorn | Gemeinde | Nonnenhorn | 49-9-7-76-88149 | |
+| 88179 | Oberreute | Gemeinde | Stiefenhofen | 49-9-7-76-88179 | |
+| 88145 | Opfenbach | Gemeinde | Opfenbach | 49-9-7-76-88145.122 | PLZ wird mit Hergatz geteilt |
+| 88167 | Röthenbach (Allgäu) | Gemeinde | Argental | 49-9-7-76-88167.124 | PLZ für gesamte VG Argental und Gde. Stiefenhofen, Sitz der VG Argental |
+| 88175 | Scheidegg | Markt | Scheidegg | 49-9-7-76-88175.125 | PLZ wird mit Sigmarszell geteilt |
+| 88138 | Sigmarszell | Gemeinde | Sigmarszell | 49-9-7-76-88138.126 | PLZ wird mit Hergensweiler und Weißensberg geteilt, Sitz der VG Sigmarszell |
+| 88175 | Sigmarszell | Gemeinde | Sigmarszell | 49-9-7-76-88175.126 | PLZ wird mit Scheidegg geteilt |
+| 88167 | Stiefenhofen | Gemeinde | Stiefenhofen | 49-9-7-76-88167.127 | PLZ wird mit VG Argental geteilt, Sitz der VG Stiefenhofen |
+| 88142 | Wasserburg (Bodensee) | Gemeinde | Wasserburg (Bodensee) | 49-9-7-76-88142 | |
+| 88171 | Weiler-Simmerberg | Markt | Weiler-Simmerberg | 49-9-7-76-88171 | |
+| 88138 | Weißensberg | Gemeinde | Sigmarszell | 49-9-7-76-88138.130 | PLZ wird mit Hergensweiler und Sigmarszell geteilt |
+
 ## Kreisfreie Stadt Memmingen
 
 | PLZ | Gemarkung/Stadtname | ID |
