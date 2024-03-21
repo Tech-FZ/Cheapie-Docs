@@ -4,20 +4,20 @@
 
 | Name | Status | Verwaltungssitz | ID |
 | ------- | -- | ---------------- | -- |
-| Aichach-Friedberg | Landkreis | Münchener Straße 9, 86551 Aichach | 49-9-7-71 |
-| Stadt Augsburg | kreisfreie Bezirkshauptstadt | Rathausplatz 1, 86150 Augsburg | 49-9-7-61 |
-| Landkreis Augsburg | Landkreis (Verwaltung in Stadt Augsburg) | Prinzregentenplatz 4, 86150 Augsburg | 49-9-7-72 |
-| Dillingen an der Donau | Landkreis | Große Allee 24, 89407 Dillingen an der Donau | 49-9-7-73 |
-| Donau-Ries | Landkreis | Pflegstraße 2, 86609 Donauwörth | 49-9-7-79 |
-| Günzburg | Landkreis | An der Kapuzinermauer 1, 89312 Günzburg | 49-9-7-74 |
-| Kaufbeuren | kreisfreie Stadt | Kaiser-Max-Straße 1, 87600 Kaufbeuren | 49-9-7-62 |
-| Kempten (Allgäu) | kreisfreie Stadt | Rathausplatz 29, 87435 Kempten (Allgäu) | 49-9-7-63 |
-| Lindau (Bodensee) | Landkreis | Stiftsplatz 4, 88131 Lindau (Bodensee) | 49-9-7-76 |
-| Memmingen | kreisfreie Stadt | Marktplatz 1, 87700 Memmingen | 49-9-7-64 |
-| Neu-Ulm | Landkreis | Kantstraße 8, 89231 Neu-Ulm | 49-9-7-75 |
-| Oberallgäu | Landkreis | Oberallgäuer Platz 2, 87527 Sonthofen | 49-9-7-80 |
-| Ostallgäu | Landkreis | Schwabenstraße 11, 87616 Marktoberdorf | 49-9-7-77 |
-| Unterallgäu | Landkreis | Bad Wörishofer Straße 33, 87719 Mindelheim | 49-9-7-78 |
+| [Aichach-Friedberg](#landkreis-aichach-friedberg) | Landkreis | Münchener Straße 9, 86551 Aichach | 49-9-7-71 |
+| [Stadt Augsburg](#kreisfreie-bezirkshauptstadt-augsburg) | kreisfreie Bezirkshauptstadt | Rathausplatz 1, 86150 Augsburg | 49-9-7-61 |
+| [Landkreis Augsburg](#landkreis-augsburg) | Landkreis (Verwaltung in Stadt Augsburg) | Prinzregentenplatz 4, 86150 Augsburg | 49-9-7-72 |
+| [Dillingen an der Donau](#landkreis-dillingen-an-der-donau) | Landkreis | Große Allee 24, 89407 Dillingen an der Donau | 49-9-7-73 |
+| [Donau-Ries](#landkreis-donau-ries) | Landkreis | Pflegstraße 2, 86609 Donauwörth | 49-9-7-79 |
+| [Günzburg](#landkreis-günzburg) | Landkreis | An der Kapuzinermauer 1, 89312 Günzburg | 49-9-7-74 |
+| [Kaufbeuren](#kreisfreie-stadt-kaufbeuren) | kreisfreie Stadt | Kaiser-Max-Straße 1, 87600 Kaufbeuren | 49-9-7-62 |
+| [Kempten (Allgäu)](#kreisfreie-stadt-kempten-allgäu) | kreisfreie Stadt | Rathausplatz 29, 87435 Kempten (Allgäu) | 49-9-7-63 |
+| [Lindau (Bodensee)](#landkreis-lindau-bodensee) | Landkreis | Stiftsplatz 4, 88131 Lindau (Bodensee) | 49-9-7-76 |
+| [Memmingen](#kreisfreie-stadt-memmingen) | kreisfreie Stadt | Marktplatz 1, 87700 Memmingen | 49-9-7-64 |
+| [Neu-Ulm](#landkreis-neu-ulm) | Landkreis | Kantstraße 8, 89231 Neu-Ulm | 49-9-7-75 |
+| [Oberallgäu](#landkreis-oberallgäu) | Landkreis | Oberallgäuer Platz 2, 87527 Sonthofen | 49-9-7-80 |
+| [Ostallgäu](#landkreis-ostallgäu) | Landkreis | Schwabenstraße 11, 87616 Marktoberdorf | 49-9-7-77 |
+| [Unterallgäu](#landkreis-unterallgäu) | Landkreis | Bad Wörishofer Straße 33, 87719 Mindelheim | 49-9-7-78 |
 
 ## Landkreis Aichach-Friedberg
 
@@ -27,30 +27,30 @@ Die Bezirkshauptstadt Augsburg besteht aus 17 Planungsregionen mit insgesamt 42 
 
 | PLZ | Planungsregion | ID | Notiz |
 | --- | -------------- | -- | ----- |
-| 86159 | Augsburg-Antonsviertel | 49-9-7-61-86159.10 | Ist zugleich der 14. Stadtbezirk, PLZ wird mit Hochfeld und Universitätsviertel geteilt |
-| 86156 | Augsburg-Bärenkeller | 49-9-7-61-86156.3 | Ist zugleich der 23. Stadtbezirk, PLZ wird mit Kriegshaber geteilt |
-| 86199 | Augsburg-Bergheim | 49-9-7-61-86199.16 | Ist zugleich der 42. Stadtbezirk, PLZ wird mit Göggingen und Inningen geteilt |
-| 86169 | Augsburg-Firnhaberau | 49-9-7-61-86169.4 | Ist zugleich der 28. Stadtbezirk, PLZ wird mit Hammerschmiede und Lechhausen geteilt |
-| 86199 | Augsburg-Göggingen | 49-9-7-61-86199.14 | PLZ wird mit Bergheim und Inningen geteilt |
-| 86169 | Augsburg-Hammerschmiede | 49-9-7-61-86169.5 | Ist zugleich der 29. Stadtbezirk, PLZ wird mit Firnhaberau und Lechhausen geteilt |
-| 86179 | Augsburg-Haunstetten-Siebenbrunn | 49-9-7-61-86179 |  |
-| 86159 | Augsburg-Hochfeld | 49-9-7-61-86159.9 | Ist zugleich der 13. Stadtbezirk, PLZ wird mit Antonsviertel und Universitätsviertel geteilt |
-| 86163 | Augsburg-Hochzoll | 49-9-7-61-86163 |  |
-| 86150 | Augsburg-Innenstadt | 49-9-7-61-86150.1 | PLZ wird mit Pfersee geteilt |
+| 86159 | [Augsburg-Antonsviertel](#antonsviertel) | 49-9-7-61-86159.10 | Ist zugleich der 14. Stadtbezirk, PLZ wird mit Hochfeld und Universitätsviertel geteilt |
+| 86156 | [Augsburg-Bärenkeller](#bärenkeller) | 49-9-7-61-86156.3 | Ist zugleich der 23. Stadtbezirk, PLZ wird mit Kriegshaber geteilt |
+| 86199 | [Augsburg-Bergheim](#bergheim) | 49-9-7-61-86199.16 | Ist zugleich der 42. Stadtbezirk, PLZ wird mit Göggingen und Inningen geteilt |
+| 86169 | [Augsburg-Firnhaberau](#firnhaberau) | 49-9-7-61-86169.4 | Ist zugleich der 28. Stadtbezirk, PLZ wird mit Hammerschmiede und Lechhausen geteilt |
+| 86199 | [Augsburg-Göggingen](#göggingen) | 49-9-7-61-86199.14 | PLZ wird mit Bergheim und Inningen geteilt |
+| 86169 | [Augsburg-Hammerschmiede](#hammerschmiede) | 49-9-7-61-86169.5 | Ist zugleich der 29. Stadtbezirk, PLZ wird mit Firnhaberau und Lechhausen geteilt |
+| 86179 | [Augsburg-Haunstetten-Siebenbrunn](#haunstetten-siebenbrunn) | 49-9-7-61-86179 |  |
+| 86159 | [Augsburg-Hochfeld](#hochfeld) | 49-9-7-61-86159.9 | Ist zugleich der 13. Stadtbezirk, PLZ wird mit Antonsviertel und Universitätsviertel geteilt |
+| 86163 | [Augsburg-Hochzoll](#hochzoll) | 49-9-7-61-86163 |  |
+| 86150 | [Augsburg-Innenstadt](#innenstadt) | 49-9-7-61-86150.1 | PLZ wird mit Pfersee geteilt |
 | 86152 | Augsburg-Innenstadt | 49-9-7-61-86152.1 | PLZ wird mit Pfersee geteilt |
 | 86153 | Augsburg-Innenstadt | 49-9-7-61-86153.1 | PLZ wird mit Oberhausen geteilt |
-| 86199 | Augsburg-Inningen | 49-9-7-61-86199.15 | Ist zugleich der 41. Stadtbezirk, PLZ wird mit Bergheim und Göggingen geteilt |
-| 86156 | Augsburg-Kriegshaber | 49-9-7-61-86156.7 | Ist zugleich der 18. Stadtbezirk, PLZ wird mit Bärenkeller geteilt |
-| 86165 | Augsburg-Lechhausen | 49-9-7-61-86165 |  |
+| 86199 | [Augsburg-Inningen](#inningen) | 49-9-7-61-86199.15 | Ist zugleich der 41. Stadtbezirk, PLZ wird mit Bergheim und Göggingen geteilt |
+| 86156 | [Augsburg-Kriegshaber](#kriegshaber) | 49-9-7-61-86156.7 | Ist zugleich der 18. Stadtbezirk, PLZ wird mit Bärenkeller geteilt |
+| 86165 | [Augsburg-Lechhausen](#lechhausen) | 49-9-7-61-86165 |  |
 | 86167 | Augsburg-Lechhausen | 49-9-7-61-86167 |  |
 | 86169 | Augsburg-Lechhausen | 49-9-7-61-86169.6 | PLZ wird mit Bärenkeller und Firnhaberau geteilt |
-| 86153 | Augsburg-Oberhausen | 49-9-7-61-86153.2 | PLZ wird mit Innenstadt geteilt |
+| 86153 | [Augsburg-Oberhausen](#oberhausen) | 49-9-7-61-86153.2 | PLZ wird mit Innenstadt geteilt |
 | 86154 | Augsburg-Oberhausen | 49-9-7-61-86154 | |
-| 86150 | Augsburg-Pfersee | 49-9-7-61-86150.8 | PLZ wird mit Innenstadt geteilt |
+| 86150 | [Augsburg-Pfersee](#pfersee) | 49-9-7-61-86150.8 | PLZ wird mit Innenstadt geteilt |
 | 86152 | Augsburg-Pfersee | 49-9-7-61-86152.8 | PLZ wird mit Innenstadt geteilt |
 | 86157 | Augsburg-Pfersee | 49-9-7-61-86157 |  |
-| 86161 | Augsburg-Spickel-Herrenbach | 49-9-7-61-86161 |  |
-| 86159 | Augsburg-Universitätsviertel | 49-9-7-61-86159.17 | Ist zugleich der 32. Stadtbezirk, PLZ wird mit Antonsviertel und Hochfeld geteilt |
+| 86161 | [Augsburg-Spickel-Herrenbach](#spickel-herrenbach) | 49-9-7-61-86161 |  |
+| 86159 | [Augsburg-Universitätsviertel](#universitätsviertel) | 49-9-7-61-86159.17 | Ist zugleich der 32. Stadtbezirk, PLZ wird mit Antonsviertel und Hochfeld geteilt |
 
 ### Antonsviertel
 
@@ -554,13 +554,13 @@ Hinweise:
 | 86862 | Lamerdingen | Gemeinde | Buchloe | 49-9-7-77-86862 | |
 | 86983 | Lechbruck am See | Gemeinde | Lechbruck am See | 49-9-7-77-86983 | |
 | 87663 | Lengenwang | Gemeinde | Seeg | 49-9-7-77-87663 | |
-| 87616 | Marktoberdorf | Kreisstadt | Marktoberdorf | 49-9-7-77-87616.151 | PLZ wird mit Wald geteilt |
+| 87616 | [Marktoberdorf](#marktoberdorf) | Kreisstadt | Marktoberdorf | 49-9-7-77-87616.151 | PLZ wird mit Wald geteilt |
 | 87665 | Mauerstetten | Gemeinde | Mauerstetten | 49-9-7-77-87665 | |
 | 87484 | Nesselwang | Markt | Nesselwang | 49-9-7-77-87484 | |
 | 87634 | Obergünzburg | Markt | Obergünzburg | 49-9-7-77-87634.154 | PLZ wird mit Günzach geteilt, Sitz der VG Obergünzburg |
 | 86869 | Oberostendorf | Gemeinde | Westendorf | 49-9-7-77-86869 | |
 | 87662 | Osterzell | Gemeinde | Westendorf | 49-9-7-77-87662.157 | PLZ wird mit Kaltental geteilt |
-| 87666 | Pforzen | Gemeinde | Pforzen | 49-9-7-77-87666 | Sitz der VG Pforzen |
+| 87666 | [Pforzen](#pforzen) | Gemeinde | Pforzen | 49-9-7-77-87666 | Sitz der VG Pforzen |
 | 87459 | Pfronten | Gemeinde | Pfronten | 49-9-7-77-87459 | |
 | 87675 | Rettenbach am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675.183 | PLZ wird mit Stötten am Auerberg geteilt |
 | 87668 | Rieden _bei Kaufbeuren_ | Gemeinde | Pforzen | 49-9-7-77-87668 | |
