@@ -424,6 +424,39 @@ Die Nummern wurden (teilweise) https://daten.digitale-sammlungen.de/~db/0005/bsb
 
 ## Kreisfreie Stadt Memmingen
 
+| PLZ | Gemarkung/Stadtname | ID |
+| --- | -------- | --- |
+| 87700 | Memmingen | 49-9-7-64-87700 |
+
+| PLZ | Ortsname | Status | ID | Notiz |
+| --- | -------- | ------ | -- | ----- |
+| 87700 | Memmingen | Hauptort | 49-9-7-64-87700-1 | Verwaltungssitz |
+| 87700 | Memmingen-Amendingen | Pfarrdorf | 49-9-7-64-87700-2 | |
+| 87700 | Memmingen-Bleiche | Weiler | 49-9-7-64-87700-3 | |
+| 87700 | Memmingen-Brunnen | Dorf | 49-9-7-64-87700-4 | |
+| 87700 | Memmingen-Buxach | Pfarrdorf | 49-9-7-64-87700-5 | |
+| 87700 | Memmingen-Buxachermühle | Weiler | 49-9-7-64-87700-6 | |
+| 87700 | Memmingen-Dickenreishausen | Pfarrdorf | 49-9-7-64-87700-7 | |
+| 87700 | Memmingen-Egelsee | Weiler | 49-9-7-64-87700-8 | |
+| 87700 | Memmingen-Eisenburg | Dorf | 49-9-7-64-87700-9 | |
+| 87700 | Memmingen-Ferthofen | Kirchdorf | 49-9-7-64-87700-10 | |
+| 87700 | Memmingen-Grünenfurt | Weiler | 49-9-7-64-87700-11 | |
+| 87700 | Memmingen-Hart | Dorf | 49-9-7-64-87700-12 | |
+| 87700 | Memmingen-Hitzenhofen | Dorf | 49-9-7-64-87700-13 | |
+| 87700 | Memmingen-Illerfeld _(Weiler)_ | Weiler | 49-9-7-64-87700-14 | |
+| 87700 | Memmingen-Illerfeld _(Einöde)_ | Einöde | 49-9-7-64-87700-15 | |
+| 87700 | Memmingen-Priemen | Weiler | 49-9-7-64-87700-16 | |
+| 87700 | Memmingen-Schnaid | Weiler | 49-9-7-64-87700-17 | |
+| 87700 | Memmingen-Spitalmühle | Einöde | 49-9-7-64-87700-18 | |
+| 87700 | Memmingen-Steigmühle | Weiler | 49-9-7-64-87700-19 | |
+| 87700 | Memmingen-Steinheim | Pfarrdorf | 49-9-7-64-87700-20 | |
+| 87700 | Memmingen-Straßbauer | Einöde | 49-9-7-64-87700-21 | |
+| 87700 | Memmingen-Straßbauerhölzl | Einöde | 49-9-7-64-87700-22 | |
+| 87700 | Memmingen-Teichgarten | Einöde | 49-9-7-64-87700-23 | |
+| 87700 | Memmingen-Unterhart | Einöde | 49-9-7-64-87700-24 | |
+| 87700 | Memmingen-Weidenbühl | Einöde | 49-9-7-64-87700-25 | |
+| 87700 | Memmingen-Volkratshofen | Pfarrdorf | 49-9-7-64-87700-26 | |
+
 ## Landkreis Neu-Ulm
 
 ## Landkreis Oberallgäu
