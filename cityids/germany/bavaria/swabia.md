@@ -549,53 +549,53 @@ Notes (EN):
 
 | PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
-| 87648 | Aitrang | Gemeinde | Biessenhofen | 49-9-7-77-87648 | |
-| 87650 | Baisweil | Gemeinde | Eggenthal | 49-9-7-77-87650 | |
-| 87651 | Bidingen | Gemeinde | Biessenhofen | 49-9-7-77-87651 | |
-| 87640 | Biessenhofen | Gemeinde | Biessenhofen | 49-9-7-77-87640 | Sitz der VG Biessenhofen |
-| 86807 | Buchloe | Stadt | Buchloe | 49-9-7-77-86807 | Sitz der VG Buchloe |
-| 87653 | Eggenthal | Gemeinde | Eggenthal | 49-9-7-77-87653 | Sitz der VG Eggenthal |
+| 87648 | Aitrang | Gemeinde (_Municipality_) | Biessenhofen | 49-9-7-77-87648 | |
+| 87650 | Baisweil | Gemeinde (_Municipality_) | Eggenthal | 49-9-7-77-87650 | |
+| 87651 | Bidingen | Gemeinde (_Municipality_) | Biessenhofen | 49-9-7-77-87651 | |
+| 87640 | Biessenhofen | Gemeinde (_Municipality_) | Biessenhofen | 49-9-7-77-87640 | Sitz der VG Biessenhofen (_Seat of VG Biessenhofen_) |
+| 86807 | Buchloe | Stadt (_City_) | Buchloe | 49-9-7-77-86807 | Sitz der VG Buchloe |
+| 87653 | Eggenthal | Gemeinde (_Municipality_) | Eggenthal | 49-9-7-77-87653 | Sitz der VG Eggenthal (_Seat of VG Eggenthal_) |
 | 87782 | Eggenthal-Bayersried | Gemarkung | Eggenthal | 49-9-7-77-87782 | |
-| 87637 | Eisenberg _(Allgäu)_ | Gemeinde | Seeg | 49-9-7-77-87637.125 | PLZ wird mit Seeg geteilt |
-| 87654 | Friesenried | Gemeinde | Eggenthal | 49-9-7-77-87654 | |
-| 87629 | Füssen | Stadt | Füssen | 49-9-7-77-87629 | |
-| 87656 | Germaringen | Gemeinde | Germaringen | 49-9-7-77-87656 | |
-| 87657 | Görisried | Gemeinde | Unterthingau | 49-9-7-77-87657 | |
-| 87634 | Günzach | Gemeinde | Obergünzburg | 49-9-7-77-87634.138 | PLZ wird mit Obergünzburg geteilt |
-| 87642 | Halblech | Gemeinde | Halblech | 49-9-7-77-87642 | |
-| 87659 | Hopferau | Gemeinde | Seeg | 49-9-7-77-87659 | |
+| 87637 | Eisenberg _(Allgäu)_ | Gemeinde (_Municipality_) | Seeg | 49-9-7-77-87637.125 | PLZ wird mit Seeg geteilt (_Postcode same as Seeg_) |
+| 87654 | Friesenried | Gemeinde (_Municipality_) | Eggenthal | 49-9-7-77-87654 | |
+| 87629 | Füssen | Stadt (_City_) | Füssen | 49-9-7-77-87629 | |
+| 87656 | Germaringen | Gemeinde (_Municipality_) | Germaringen | 49-9-7-77-87656 | |
+| 87657 | Görisried | Gemeinde (_Municipality_) | Unterthingau | 49-9-7-77-87657 | |
+| 87634 | Günzach | Gemeinde (_Municipality_) | Obergünzburg | 49-9-7-77-87634.138 | PLZ wird mit Obergünzburg geteilt (_Postcode same as Obergünzburg_) |
+| 87642 | Halblech | Gemeinde (_Municipality_) | Halblech | 49-9-7-77-87642 | |
+| 87659 | Hopferau | Gemeinde (_Municipality_) | Seeg | 49-9-7-77-87659 | |
 | 87660 | Irsee | Markt | Pforzen | 49-9-7-77-87660 | |
-| 86860 | Jengen | Gemeinde | Buchloe | 49-9-7-77-86860 | |
-| 87662 | Kaltental | Markt | Westendorf | 49-9-7-77-87662.141 | PLZ wird mit Osterzell geteilt |
-| 87647 | Kraftisried | Gemeinde | Unterthingau | 49-9-7-77-87647.144 | PLZ wird mit Unterthingau geteilt |
-| 86862 | Lamerdingen | Gemeinde | Buchloe | 49-9-7-77-86862 | |
-| 86983 | Lechbruck am See | Gemeinde | Lechbruck am See | 49-9-7-77-86983 | |
-| 87663 | Lengenwang | Gemeinde | Seeg | 49-9-7-77-87663 | |
-| 87616 | [Marktoberdorf](#marktoberdorf) | Kreisstadt | Marktoberdorf | 49-9-7-77-87616.151 | PLZ wird mit Wald geteilt |
-| 87665 | Mauerstetten | Gemeinde | Mauerstetten | 49-9-7-77-87665 | |
+| 86860 | Jengen | Gemeinde (_Municipality_) | Buchloe | 49-9-7-77-86860 | |
+| 87662 | Kaltental | Markt | Westendorf | 49-9-7-77-87662.141 | PLZ wird mit Osterzell geteilt (_Postcode same as Osterzell_) |
+| 87647 | Kraftisried | Gemeinde (_Municipality_) | Unterthingau | 49-9-7-77-87647.144 | PLZ wird mit Unterthingau geteilt (_Postcode same as Unterthingau_) |
+| 86862 | Lamerdingen | Gemeinde (_Municipality_) | Buchloe | 49-9-7-77-86862 | |
+| 86983 | Lechbruck am See | Gemeinde (_Municipality_) | Lechbruck am See | 49-9-7-77-86983 | |
+| 87663 | Lengenwang | Gemeinde (_Municipality_) | Seeg | 49-9-7-77-87663 | |
+| 87616 | [Marktoberdorf](#marktoberdorf) | Kreisstadt (_Capital_) | Marktoberdorf | 49-9-7-77-87616.151 | PLZ wird mit Wald geteilt (_Postcode same as Wald_) |
+| 87665 | Mauerstetten | Gemeinde (_Municipality_) | Mauerstetten | 49-9-7-77-87665 | |
 | 87484 | Nesselwang | Markt | Nesselwang | 49-9-7-77-87484 | |
-| 87634 | Obergünzburg | Markt | Obergünzburg | 49-9-7-77-87634.154 | PLZ wird mit Günzach geteilt, Sitz der VG Obergünzburg |
-| 86869 | Oberostendorf | Gemeinde | Westendorf | 49-9-7-77-86869 | |
-| 87662 | Osterzell | Gemeinde | Westendorf | 49-9-7-77-87662.157 | PLZ wird mit Kaltental geteilt |
-| 87666 | [Pforzen](#pforzen) | Gemeinde | Pforzen | 49-9-7-77-87666 | Sitz der VG Pforzen |
-| 87459 | Pfronten | Gemeinde | Pfronten | 49-9-7-77-87459 | |
-| 87675 | Rettenbach am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675.183 | PLZ wird mit Stötten am Auerberg geteilt |
-| 87668 | Rieden _bei Kaufbeuren_ | Gemeinde | Pforzen | 49-9-7-77-87668 | |
-| 87669 | Rieden am Forggensee | Gemeinde | Roßhaupten | 49-9-7-77-87669 | |
+| 87634 | Obergünzburg | Markt | Obergünzburg | 49-9-7-77-87634.154 | PLZ wird mit Günzach geteilt, Sitz der VG Obergünzburg (_Postcode same as Günzach, seat of VG Obergünzburg_) |
+| 86869 | Oberostendorf | Gemeinde (_Municipality_) | Westendorf | 49-9-7-77-86869 | |
+| 87662 | Osterzell | Gemeinde (_Municipality_) | Westendorf | 49-9-7-77-87662.157 | PLZ wird mit Kaltental geteilt (_Postcode same as Kaltental_) |
+| 87666 | [Pforzen](#pforzen) | Gemeinde | Pforzen | 49-9-7-77-87666 | Sitz der VG Pforzen (_Seat of VG Pforzen_) |
+| 87459 | Pfronten | Gemeinde (_Municipality_) | Pfronten | 49-9-7-77-87459 | |
+| 87675 | Rettenbach am Auerberg | Gemeinde (_Municipality_) | Stötten am Auerberg | 49-9-7-77-87675.183 | PLZ wird mit Stötten am Auerberg geteilt (_Postcode same as Stötten am Auerberg_) |
+| 87668 | Rieden _bei Kaufbeuren_ | Gemeinde (_Municipality_) | Pforzen | 49-9-7-77-87668 | |
+| 87669 | Rieden am Forggensee | Gemeinde (_Municipality_) | Roßhaupten | 49-9-7-77-87669 | |
 | 87671 | Ronsberg | Markt | Ronsberg | 49-9-7-77-87671 | |
 | 87724 | Ronsberg-Schochen | Einöde | Ronsberg | 49-9-7-77-87724 | |
-| 87672 | Roßhaupten | Gemeinde | Roßhaupten | 49-9-7-77-87672 | Sitz der VG Roßhaupten |
-| 87494 | Rückholz | Gemeinde | Seeg | 49-9-7-77-87494 | |
-| 87674 | Ruderatshofen | Gemeinde | Biessenhofen | 49-9-7-77-87674 | |
-| 87645 | Schwangau | Gemeinde | Schwangau | 49-9-7-77-87645 | |
-| 87637 | Seeg | Gemeinde | Seeg | 49-9-7-77-87637.170 | PLZ wird mit Eisenberg geteilt, Sitz der VG Seeg |
-| 87675 | Stötten am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675.171 | PLZ wird mit Rettenbach am Auerberg geteilt, Sitz der VG Stötten am Auerberg |
-| 87677 | Stöttwang | Gemeinde | Westendorf | 49-9-7-77-87677 | |
-| 87647 | Unterthingau | Markt | Unterthingau | 49-9-7-77-87647.175 | PLZ wird mit Kraftisried geteilt, Sitz der VG Unterthingau |
-| 87496 | Untrasried | Gemeinde | Obergünzburg | 49-9-7-77-87496 | |
+| 87672 | Roßhaupten | Gemeinde (_Municipality_) | Roßhaupten | 49-9-7-77-87672 | Sitz der VG Roßhaupten (_Seat of VG Roßhaupten_) |
+| 87494 | Rückholz | Gemeinde (_Municipality_) | Seeg | 49-9-7-77-87494 | |
+| 87674 | Ruderatshofen | Gemeinde (_Municipality_) | Biessenhofen | 49-9-7-77-87674 | |
+| 87645 | Schwangau | Gemeinde (_Municipality_) | Schwangau | 49-9-7-77-87645 | |
+| 87637 | Seeg | Gemeinde (_Municipality_) | Seeg | 49-9-7-77-87637.170 | PLZ wird mit Eisenberg geteilt, Sitz der VG Seeg (_Postcode same as Eisenberg, seat of VG Seeg_) |
+| 87675 | Stötten am Auerberg | Gemeinde (_Municipality_) | Stötten am Auerberg | 49-9-7-77-87675.171 | PLZ wird mit Rettenbach am Auerberg geteilt, Sitz der VG Stötten am Auerberg (_Postcode same as Rettenbach am Auerberg, seat of VG Stötten am Auerberg_) |
+| 87677 | Stöttwang | Gemeinde (_Municipality_) | Westendorf | 49-9-7-77-87677 | |
+| 87647 | Unterthingau | Markt | Unterthingau | 49-9-7-77-87647.175 | PLZ wird mit Kraftisried geteilt, Sitz der VG Unterthingau (_Postcode same as Kraftisried, seat of VG Unterthingau_) |
+| 87496 | Untrasried | Gemeinde (_Municipality_) | Obergünzburg | 49-9-7-77-87496 | |
 | 86875 | Waal | Markt | Buchloe | 49-9-7-77-86875 | |
-| 87616 | Wald _(Schwaben)_ | Gemeinde | Seeg | 49-9-7-77-87616.179 | PLZ wird mit Marktoberdorf geteilt |
-| 87679 | Westendorf _(Ostallgäu)_ | Gemeinde | Westendorf | 49-9-7-77-87679 | Sitz der VG Westendorf |
+| 87616 | Wald _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Seeg | 49-9-7-77-87616.179 | PLZ wird mit Marktoberdorf geteilt (_Postcode same as Marktoberdorf_) |
+| 87679 | Westendorf _(Ostallgäu)_ | Gemeinde (_Municipality_) | Westendorf | 49-9-7-77-87679 | Sitz der VG Westendorf (_Seat of VG Westendorf_) |
 
 ### Marktoberdorf
 
