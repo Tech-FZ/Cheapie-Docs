@@ -191,51 +191,51 @@ Notes (EN):
 
 | PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
-| 86477 | Adelsried | Gemeinde | Adelsried | 49-9-7-72-86477 | |
-| 86695 | Allmannshofen | Gemeinde | Nordendorf | 49-9-7-72-86695.114 | PLZ wird mit Nordendorf geteilt |
-| 86450 | Altenmünster | Gemeinde | Altenmünster | 49-9-7-72-86450 | |
-| 86482 | Aystetten | Gemeinde | Aystetten | 49-9-7-72-86482 | |
+| 86477 | Adelsried | Gemeinde (_Municipality_) | Adelsried | 49-9-7-72-86477 | |
+| 86695 | Allmannshofen | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86695.114 | PLZ wird mit Nordendorf geteilt |
+| 86450 | Altenmünster | Gemeinde (_Municipality_) | Altenmünster | 49-9-7-72-86450 | |
+| 86482 | Aystetten | Gemeinde (_Municipality_) | Aystetten | 49-9-7-72-86482 | |
 | 86485 | Biberbach _(Schwaben)_ | Markt | Biberbach | 49-9-7-72-86485 | |
 | 86399 | Bobingen | Stadt | Bobingen | 49-9-7-72-86399 | |
-| 86486 | Bonstetten _(Schwaben)_ | Gemeinde | Welden | 49-9-7-72-86486 | |
+| 86486 | Bonstetten _(Schwaben)_ | Gemeinde (_Municipality_) | Welden | 49-9-7-72-86486 | |
 | 86420 | Diedorf | Markt | Diedorf | 49-9-7-72-86420 | |
 | 86424 | Dinkelscherben | Markt | Dinkelscherben | 49-9-7-72-86424 | |
-| 86678 | Ehingen _(Landkreis Augsburg)_ | Gemeinde | Nordendorf | 49-9-7-72-86678 | |
-| 86679 | Ellgau | Gemeinde | Nordendorf | 49-9-7-72-86679 | |
-| 86494 | Emersacker | Gemeinde | Welden | 49-9-7-72-86494 | |
+| 86678 | Ehingen _(Landkreis Augsburg)_ | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86678 | |
+| 86679 | Ellgau | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86679 | |
+| 86494 | Emersacker | Gemeinde (_Municipality_) | Welden | 49-9-7-72-86494 | |
 | 86850 | Fischach | Markt | Fischach | 49-9-7-72-86850 | |
-| 86456 | Gablingen | Gemeinde | Gablingen | 49-9-7-72-86456 | |
+| 86456 | Gablingen | Gemeinde (_Municipality_) | Gablingen | 49-9-7-72-86456 | |
 | 86368 | Gersthofen | Stadt | Gersthofen | 49-9-7-72-86368 | |
-| 86459 | Gessertshausen | Gemeinde | Gessertshausen | 49-9-7-72-86459 | Sitz der VG Gessertshausen |
-| 86836 | Graben _(Lechfeld)_ | Gemeinde | Graben | 49-9-7-72-86836.149 | PLZ wird mit Klosterlechfeld und Untermeitingen geteilt |
-| 86845 | Großaitingen | Gemeinde | Großaitingen | 49-9-7-72-86845 | Sitz der VG Großaitingen |
-| 86465 | Heretsried | Gemeinde | Heretsried | 49-9-7-72-86465.156 | PLZ wird mit Welden geteilt |
-| 86856 | Hiltenfingen | Gemeinde | Langerringen | 49-9-7-72-86856 | |
-| 86497 | Horgau | Gemeinde | Horgau | 49-9-7-72-86497 | |
-| 86507 | Kleinaitingen | Gemeinde | Großaitingen | 49-9-7-72-86507.160 | PLZ wird mit Oberottmarshausen geteilt |
-| 86836 | Klosterlechfeld | Gemeinde | Lechfeld | 49-9-7-72-86836.162 | PLZ wird mit Graben und Untermeitingen geteilt |
+| 86459 | Gessertshausen | Gemeinde (_Municipality_) | Gessertshausen | 49-9-7-72-86459 | Sitz der VG Gessertshausen |
+| 86836 | Graben _(Lechfeld)_ | Gemeinde (_Municipality_) | Graben | 49-9-7-72-86836.149 | PLZ wird mit Klosterlechfeld und Untermeitingen geteilt |
+| 86845 | Großaitingen | Gemeinde (_Municipality_) | Großaitingen | 49-9-7-72-86845 | Sitz der VG Großaitingen |
+| 86465 | Heretsried | Gemeinde (_Municipality_) | Heretsried | 49-9-7-72-86465.156 | PLZ wird mit Welden geteilt |
+| 86856 | Hiltenfingen | Gemeinde (_Municipality_) | Langerringen | 49-9-7-72-86856 | |
+| 86497 | Horgau | Gemeinde (_Municipality_) | Horgau | 49-9-7-72-86497 | |
+| 86507 | Kleinaitingen | Gemeinde (_Municipality_) | Großaitingen | 49-9-7-72-86507.160 | PLZ wird mit Oberottmarshausen geteilt |
+| 86836 | Klosterlechfeld | Gemeinde (_Municipality_) | Lechfeld | 49-9-7-72-86836.162 | PLZ wird mit Graben und Untermeitingen geteilt |
 | 86343 | Königsbrunn | Stadt | Königsbrunn | 49-9-7-72-86343 | |
-| 86707 | Kühlenthal | Gemeinde | Nordendorf | 49-9-7-72-86707.166 | PLZ wird mit Westendorf geteilt |
-| 86500 | Kutzenhausen | Gemeinde | Kutzenhausen | 49-9-7-72-86500 | |
-| 86863 | Langenneufnach | Gemeinde | Stauden | 49-9-7-72-86863 | Sitz der VG Stauden |
-| 86853 | Langerringen | Gemeinde | Langerringen | 49-9-7-72-86853 | Sitz der VG Langerringen |
-| 86462 | Langweid am Lech | Gemeinde | Langweid am Lech | 49-9-7-72-86462 | |
+| 86707 | Kühlenthal | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86707.166 | PLZ wird mit Westendorf geteilt |
+| 86500 | Kutzenhausen | Gemeinde (_Municipality_) | Kutzenhausen | 49-9-7-72-86500 | |
+| 86863 | Langenneufnach | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86863 | Sitz der VG Stauden |
+| 86853 | Langerringen | Gemeinde (_Municipality_) | Langerringen | 49-9-7-72-86853 | Sitz der VG Langerringen |
+| 86462 | Langweid am Lech | Gemeinde (_Municipality_) | Langweid am Lech | 49-9-7-72-86462 | |
 | 86405 | Meitingen | Markt | Meitingen | 49-9-7-72-86405 | |
-| 86866 | Mickhausen | Gemeinde | Stauden | 49-9-7-72-86866 | |
-| 86868 | Mittelneufnach | Gemeinde | Stauden | 49-9-7-72-86868 | |
+| 86866 | Mickhausen | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86866 | |
+| 86868 | Mittelneufnach | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86868 | |
 | 86356 | Neusäß | Stadt | Neusäß | 49-9-7-72-86356 | |
-| 86695 | Nordendorf | Gemeinde | Nordendorf | 49-9-7-72-86695.185 | PLZ wird mit Allmannshofen geteilt, Sitz der VG Nordendorf |
-| 86507 | Oberottmarshausen | Gemeinde | Großaitingen | 49-9-7-72-86507.186 | PLZ wird mit Kleinaitingen geteilt |
-| 86872 | Scherstetten | Gemeinde | Stauden | 49-9-7-72-86872 | |
+| 86695 | Nordendorf | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86695.185 | PLZ wird mit Allmannshofen geteilt, Sitz der VG Nordendorf |
+| 86507 | Oberottmarshausen | Gemeinde (_Municipality_) | Großaitingen | 49-9-7-72-86507.186 | PLZ wird mit Kleinaitingen geteilt |
+| 86872 | Scherstetten | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86872 | |
 | 86830 | Schwabmünchen | Stadt | Schwabmünchen | 49-9-7-72-86830 | |
 | 86391 | Stadtbergen | Stadt | Stadtbergen | 49-9-7-72-86391 | |
 | 86672 | Thierhaupten | Markt | Thierhaupten | 49-9-7-72-86672 | |
-| 86836 | Untermeitingen | Gemeinde | Lechfeld | 49-9-7-72-86836.209 | PLZ wird mit Graben und Klosterlechfeld geteilt, Sitz der VG Lechfeld |
-| 86514 | Ustersbach | Gemeinde | Gessertshausen | 49-9-7-72-86514 | |
-| 86877 | Walkertshofen | Gemeinde | Stauden | 49-9-7-72-86877 | |
-| 86517 | Wehringen | Gemeinde | Wehringen | 49-9-7-72-86517 | |
+| 86836 | Untermeitingen | Gemeinde (_Municipality_) | Lechfeld | 49-9-7-72-86836.209 | PLZ wird mit Graben und Klosterlechfeld geteilt, Sitz der VG Lechfeld |
+| 86514 | Ustersbach | Gemeinde (_Municipality_) | Gessertshausen | 49-9-7-72-86514 | |
+| 86877 | Walkertshofen | Gemeinde (_Municipality_) | Stauden | 49-9-7-72-86877 | |
+| 86517 | Wehringen | Gemeinde (_Municipality_) | Wehringen | 49-9-7-72-86517 | |
 | 86465 | Welden | Markt | Welden | 49-9-7-72-86465.216 | PLZ wird mit Heretsried geteilt, Sitz der VG Welden |
-| 86707 | Westendorf _(Landkreis Augsburg)_ | Gemeinde | Nordendorf | 49-9-7-72-86707.217 | PLZ wird mit Kühlenthal geteilt |
+| 86707 | Westendorf _(Landkreis Augsburg)_ | Gemeinde (_Municipality_) | Nordendorf | 49-9-7-72-86707.217 | PLZ wird mit Kühlenthal geteilt |
 | 86441 | Zusmarshausen | Markt | Zusmarshausen | 49-9-7-72-86441 | |
 
 ## Landkreis Dillingen an der Donau
@@ -429,35 +429,35 @@ Die Nummern wurden (teilweise) https://daten.digitale-sammlungen.de/~db/0005/bsb
 Hinweise (DE):
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
-- Manchmal wird "Gemeinde" mit Gde. abgekürzt.
+- Manchmal wird "Gemeinde (_Municipality_)" mit Gde. abgekürzt.
 
 Notes (EN):
 - If the affected municipality is not a member of any administrative group, its name will be filled in.
 - Inofficial suffixes serving for distinction will be marked with _cursive font_.
-- Sometimes, "Municipality" is shortened to Gde. (German for "Gemeinde").
+- Sometimes, "Municipality" is shortened to Gde. (German for "Gemeinde (_Municipality_)").
 
 | PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
-| 88131 | Bodolz | Gemeinde | Bodolz | 49-9-7-76-88131.111 | PLZ wird mit Lindau (Bodensee) geteilt |
-| 88167 | Gestratz | Gemeinde | Argental | 49-9-7-76-88167.112 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
-| 88167 | Grünenbach | Gemeinde | Argental | 49-9-7-76-88167.113 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
+| 88131 | Bodolz | Gemeinde (_Municipality_) | Bodolz | 49-9-7-76-88131.111 | PLZ wird mit Lindau (Bodensee) geteilt |
+| 88167 | Gestratz | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.112 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
+| 88167 | Grünenbach | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.113 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
 | 88178 | Heimenkirch | Markt | Heimenkirch | 49-9-7-76-88178 | |
-| 88145 | Hergatz | Gemeinde | Hergatz | 49-9-7-76-88145.131 | PLZ wird mit Opfenbach geteilt |
-| 88138 | Hergensweiler | Gemeinde | Sigmarszell | 49-9-7-76-88138.115 | PLZ wird mit Sigmarszell und Weißensberg geteilt |
+| 88145 | Hergatz | Gemeinde (_Municipality_) | Hergatz | 49-9-7-76-88145.131 | PLZ wird mit Opfenbach geteilt |
+| 88138 | Hergensweiler | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88138.115 | PLZ wird mit Sigmarszell und Weißensberg geteilt |
 | 88131 | Lindau (Bodensee) | Große Kreisstadt | Lindau (Bodensee) | 49-9-7-76-88131.116 | PLZ wird mit Bodolz geteilt |
 | 88161 | Lindenberg im Allgäu | Stadt | Lindenberg im Allgäu | 49-9-7-76-88161 | |
-| 88167 | Maierhöfen | Gemeinde | Argental | 49-9-7-76-88167.118 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
-| 88149 | Nonnenhorn | Gemeinde | Nonnenhorn | 49-9-7-76-88149 | |
-| 88179 | Oberreute | Gemeinde | Stiefenhofen | 49-9-7-76-88179 | |
-| 88145 | Opfenbach | Gemeinde | Opfenbach | 49-9-7-76-88145.122 | PLZ wird mit Hergatz geteilt |
-| 88167 | Röthenbach (Allgäu) | Gemeinde | Argental | 49-9-7-76-88167.124 | PLZ für gesamte VG Argental und Gde. Stiefenhofen, Sitz der VG Argental |
+| 88167 | Maierhöfen | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.118 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
+| 88149 | Nonnenhorn | Gemeinde (_Municipality_) | Nonnenhorn | 49-9-7-76-88149 | |
+| 88179 | Oberreute | Gemeinde (_Municipality_) | Stiefenhofen | 49-9-7-76-88179 | |
+| 88145 | Opfenbach | Gemeinde (_Municipality_) | Opfenbach | 49-9-7-76-88145.122 | PLZ wird mit Hergatz geteilt |
+| 88167 | Röthenbach (Allgäu) | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.124 | PLZ für gesamte VG Argental und Gde. Stiefenhofen, Sitz der VG Argental |
 | 88175 | Scheidegg | Markt | Scheidegg | 49-9-7-76-88175.125 | PLZ wird mit Sigmarszell geteilt |
-| 88138 | Sigmarszell | Gemeinde | Sigmarszell | 49-9-7-76-88138.126 | PLZ wird mit Hergensweiler und Weißensberg geteilt, Sitz der VG Sigmarszell |
-| 88175 | Sigmarszell | Gemeinde | Sigmarszell | 49-9-7-76-88175.126 | PLZ wird mit Scheidegg geteilt |
-| 88167 | Stiefenhofen | Gemeinde | Stiefenhofen | 49-9-7-76-88167.127 | PLZ wird mit VG Argental geteilt, Sitz der VG Stiefenhofen |
-| 88142 | Wasserburg (Bodensee) | Gemeinde | Wasserburg (Bodensee) | 49-9-7-76-88142 | |
+| 88138 | Sigmarszell | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88138.126 | PLZ wird mit Hergensweiler und Weißensberg geteilt, Sitz der VG Sigmarszell |
+| 88175 | Sigmarszell | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88175.126 | PLZ wird mit Scheidegg geteilt |
+| 88167 | Stiefenhofen | Gemeinde (_Municipality_) | Stiefenhofen | 49-9-7-76-88167.127 | PLZ wird mit VG Argental geteilt, Sitz der VG Stiefenhofen |
+| 88142 | Wasserburg (Bodensee) | Gemeinde (_Municipality_) | Wasserburg (Bodensee) | 49-9-7-76-88142 | |
 | 88171 | Weiler-Simmerberg | Markt | Weiler-Simmerberg | 49-9-7-76-88171 | |
-| 88138 | Weißensberg | Gemeinde | Sigmarszell | 49-9-7-76-88138.130 | PLZ wird mit Hergensweiler und Sigmarszell geteilt |
+| 88138 | Weißensberg | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88138.130 | PLZ wird mit Hergensweiler und Sigmarszell geteilt |
 
 ## Kreisfreie Stadt Memmingen
 
@@ -510,32 +510,32 @@ Notes (EN):
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 87452 | Altusried | Markt | Altusried | 49-9-7-80-87452 | |
 | 87541 | Bad Hindelang | Markt | Bad Hindelang | 49-9-7-80-87541 | |
-| 87538 | Balderschwang | Gemeinde | Hörnergruppe | 49-9-7-80-87538.113 | PLZ wird mit Bolsterlang, Obermaiselstein und Fischen im Allgäu geteilt |
-| 87488 | Betzigau | Gemeinde | Betzigau | 49-9-7-80-87488 | |
-| 87544 | Blaichach | Gemeinde | Blaichach | 49-9-7-80-87544 | |
-| 87538 | Bolsterlang | Gemeinde | Hörnergruppe | 49-9-7-80-87538.116 | PLZ wird mit Balderschwang, Obermaiselstein und Fischen im Allgäu geteilt |
+| 87538 | Balderschwang | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.113 | PLZ wird mit Bolsterlang, Obermaiselstein und Fischen im Allgäu geteilt |
+| 87488 | Betzigau | Gemeinde (_Municipality_) | Betzigau | 49-9-7-80-87488 | |
+| 87544 | Blaichach | Gemeinde (_Municipality_) | Blaichach | 49-9-7-80-87544 | |
+| 87538 | Bolsterlang | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.116 | PLZ wird mit Balderschwang, Obermaiselstein und Fischen im Allgäu geteilt |
 | 87474 | Buchenberg | Markt | Buchenberg | 49-9-7-80-87474 | |
-| 87545 | Burgberg im Allgäu | Gemeinde | Burgberg im Allgäu | 49-9-7-80-87545 | |
+| 87545 | Burgberg im Allgäu | Gemeinde (_Municipality_) | Burgberg im Allgäu | 49-9-7-80-87545 | |
 | 87463 | Dietmannsried | Markt | Dietmannsried | 49-9-7-80-87463 | |
-| 87471 | Durach | Gemeinde | Durach | 49-9-7-80-87471 | |
-| 87538 | Fischen im Allgäu | Gemeinde | Hörnergruppe | 49-9-7-80-87538.121 | PLZ wird mit Balderschwang, Obermaiselstein und Bolsterlang geteilt, Sitz der Hörnergruppe |
-| 87490 | Haldenwang _(Oberallgäu)_ | Gemeinde | Haldenwang | 49-9-7-80-87490 | |
+| 87471 | Durach | Gemeinde (_Municipality_) | Durach | 49-9-7-80-87471 | |
+| 87538 | Fischen im Allgäu | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.121 | PLZ wird mit Balderschwang, Obermaiselstein und Bolsterlang geteilt, Sitz der Hörnergruppe |
+| 87490 | Haldenwang _(Oberallgäu)_ | Gemeinde (_Municipality_) | Haldenwang | 49-9-7-80-87490 | |
 | 87509 | Immenstadt im Allgäu | Stadt | Immenstadt im Allgäu | 49-9-7-80-87509 | |
-| 87493 | Lauben _(Oberallgäu)_ | Gemeinde | Lauben | 49-9-7-80-87493 | |
-| 87547 | Missen-Wilhams | Gemeinde | Weitnau | 49-9-7-80-87547 | |
-| 87538 | Obermaiselstein | Gemeinde | Hörnergruppe | 49-9-7-80-87538.131 | PLZ wird mit Balderschwang, Bolsterlang und Fischen im Allgäu geteilt |
+| 87493 | Lauben _(Oberallgäu)_ | Gemeinde (_Municipality_) | Lauben | 49-9-7-80-87493 | |
+| 87547 | Missen-Wilhams | Gemeinde (_Municipality_) | Weitnau | 49-9-7-80-87547 | |
+| 87538 | Obermaiselstein | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.131 | PLZ wird mit Balderschwang, Bolsterlang und Fischen im Allgäu geteilt |
 | 87534 | Oberstaufen | Markt | Oberstaufen | 49-9-7-80-87534 | |
 | 87561 | Oberstdorf | Markt | Oberstdorf | 49-9-7-80-87561 | |
-| 87527 | Ofterschwang | Gemeinde | Hörnergruppe | 49-9-7-80-87527.134 | PLZ wird mit Sonthofen geteilt |
-| 87466 | Oy-Mittelberg | Gemeinde | Oy-Mittelberg | 49-9-7-80-87466 | |
-| 87549 | Rettenberg | Gemeinde | Rettenberg | 49-9-7-80-87549 | |
+| 87527 | Ofterschwang | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87527.134 | PLZ wird mit Sonthofen geteilt |
+| 87466 | Oy-Mittelberg | Gemeinde (_Municipality_) | Oy-Mittelberg | 49-9-7-80-87466 | |
+| 87549 | Rettenberg | Gemeinde (_Municipality_) | Rettenberg | 49-9-7-80-87549 | |
 | 87527 | Sonthofen | Kreisstadt | Sonthofen | 49-9-7-80-87527.139 | PLZ wird mit Ofterschwang geteilt |
 | 87477 | Sulzberg _(Oberallgäu)_ | Markt | Sulzberg | 49-9-7-80-87477 | |
-| 87448 | Waltenhofen | Gemeinde | Waltenhofen | 49-9-7-80-87448 | |
+| 87448 | Waltenhofen | Gemeinde (_Municipality_) | Waltenhofen | 49-9-7-80-87448 | |
 | 87480 | Weitnau | Markt | Weitnau | 49-9-7-80-87480 | Sitz der VG Weitnau |
 | 87497 | Wertach | Markt | Wertach | 49-9-7-80-87497 | |
 | 87487 | Wiggensbach | Markt | Wiggensbach | 49-9-7-80-87487 | |
-| 87499 | Wildpoldsried | Gemeinde | Wildpoldsried | 49-9-7-80-87499 | |
+| 87499 | Wildpoldsried | Gemeinde (_Municipality_) | Wildpoldsried | 49-9-7-80-87499 | |
 
 ## Landkreis Ostallgäu
 
@@ -651,59 +651,59 @@ Notes (EN):
 
 | PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
-| 86854 | Amberg _(Schwaben)_ | Gemeinde | Türkheim | 49-9-7-78-86854 | |
-| 87742 | Apfeltrach | Gemeinde | Dirlewang | 49-9-7-78-87742.113 | PLZ wird mit Dirlewang geteilt |
+| 86854 | Amberg _(Schwaben)_ | Gemeinde (_Municipality_) | Türkheim | 49-9-7-78-86854 | |
+| 87742 | Apfeltrach | Gemeinde (_Municipality_) | Dirlewang | 49-9-7-78-87742.113 | PLZ wird mit Dirlewang geteilt |
 | 87727 | Babenhausen _(Schwaben)_ | Markt | Babenhausen | 49-9-7-78-87727 | Sitz der VG Babenhausen |
 | 87730 | Bad Grönenbach | Markt | Bad Grönenbach | 49-9-7-78-87730 | Sitz der VG Bad Grönenbach |
 | 86825 | Bad Wörishofen | Stadt | Bad Wörishofen | 49-9-7-78-86825 | |
-| 87734 | Benningen | Gemeinde | Memmingerberg | 49-9-7-78-87734 | |
-| 87736 | Böhen | Gemeinde | Ottobeuren | 49-9-7-78-87736 | |
-| 87737 | Boos _(Schwaben)_ | Gemeinde | Boos | 49-9-7-78-87737 | Sitz der VG Boos |
-| 87739 | Breitenbrunn _(Schwaben)_ | Gemeinde | Pfaffenhausen | 49-9-7-78-87739 | |
-| 87740 | Buxheim _(Schwaben)_ | Gemeinde | Buxheim | 49-9-7-78-87740 | |
+| 87734 | Benningen | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87734 | |
+| 87736 | Böhen | Gemeinde (_Municipality_) | Ottobeuren | 49-9-7-78-87736 | |
+| 87737 | Boos _(Schwaben)_ | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87737 | Sitz der VG Boos |
+| 87739 | Breitenbrunn _(Schwaben)_ | Gemeinde (_Municipality_) | Pfaffenhausen | 49-9-7-78-87739 | |
+| 87740 | Buxheim _(Schwaben)_ | Gemeinde (_Municipality_) | Buxheim | 49-9-7-78-87740 | |
 | 87742 | Dirlewang | Markt | Dirlewang | 49-9-7-78-87742.127 | PLZ wird mit Apfeltrach geteilt, Sitz der VG Dirlewang |
 | 87782 | Dirlewang-Wallenried | Einöde | Dirlewang | 49-9-7-78-87782.127 | PLZ wird mit Unteregg geteilt |
-| 87743 | Egg an der Günz | Gemeinde | Babenhausen | 49-9-7-78-87743.130 | PLZ wird mit Lauben-Betzenhausen geteilt |
-| 87745 | Eppishausen | Gemeinde | Kirchheim in Schwaben | 49-9-7-78-87745 | |
+| 87743 | Egg an der Günz | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87743.130 | PLZ wird mit Lauben-Betzenhausen geteilt |
+| 87745 | Eppishausen | Gemeinde (_Municipality_) | Kirchheim in Schwaben | 49-9-7-78-87745 | |
 | 87746 | Erkheim | Markt | Erkheim | 49-9-7-78-87746 | Sitz der VG Erkheim |
-| 86833 | Ettringen _(Wertach)_ | Gemeinde | Ettringen | 49-9-7-78-86833 | |
-| 87748 | Fellheim | Gemeinde | Boos | 49-9-7-78-87748 | |
-| 87749 | Hawangen | Gemeinde | Ottobeuren | 49-9-7-78-87749 | |
-| 87751 | Heimertingen | Gemeinde | Boos | 49-9-7-78-87751 | |
-| 87752 | Holzgünz | Gemeinde | Memmingerberg | 49-9-7-78-87752 | |
-| 87754 | Kammlach | Gemeinde | Erkheim | 49-9-7-78-87754 | |
-| 86498 | Kettershausen | Gemeinde | Babenhausen | 49-9-7-78-86498 | |
-| 87755 | Kirchhaslach | Gemeinde | Babenhausen | 49-9-7-78-87755 | |
+| 86833 | Ettringen _(Wertach)_ | Gemeinde (_Municipality_) | Ettringen | 49-9-7-78-86833 | |
+| 87748 | Fellheim | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87748 | |
+| 87749 | Hawangen | Gemeinde (_Municipality_) | Ottobeuren | 49-9-7-78-87749 | |
+| 87751 | Heimertingen | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87751 | |
+| 87752 | Holzgünz | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87752 | |
+| 87754 | Kammlach | Gemeinde (_Municipality_) | Erkheim | 49-9-7-78-87754 | |
+| 86498 | Kettershausen | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-86498 | |
+| 87755 | Kirchhaslach | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87755 | |
 | 87770 | Kirchhaslach-Beblinstetten | Einöde | Babenhausen | 49-9-7-78-87770.157 | PLZ wird mit Oberschönegg geteilt |
 | 87757 | Kirchheim in Schwaben | Markt | Kirchheim in Schwaben | 49-9-7-78-87757.158 | PLZ wird mit Salgen-Bronnerlehe geteilt, Sitz der VG Kirchheim in Schwaben |
-| 87758 | Kronburg | Gemeinde | Illerwinkel | 49-9-7-78-87758 | |
-| 87760 | Lachen _(Schwaben)_ | Gemeinde | Memmingerberg | 49-9-7-78-87760 | |
-| 87761 | Lauben _(Unterallgäu)_ | Gemeinde | Erkheim | 49-9-7-78-87761 | |
+| 87758 | Kronburg | Gemeinde (_Municipality_) | Illerwinkel | 49-9-7-78-87758 | |
+| 87760 | Lachen _(Schwaben)_ | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87760 | |
+| 87761 | Lauben _(Unterallgäu)_ | Gemeinde (_Municipality_) | Erkheim | 49-9-7-78-87761 | |
 | 87743 | Lauben-Betzenhausen _(Unterallgäu)_ | Einöde | Erkheim | 49-9-7-78-87743.163 | PLZ wird mit Egg an der Günz geteilt |
-| 87763 | Lautrach | Gemeinde | Illerwinkel | 49-9-7-78-87763 | |
+| 87763 | Lautrach | Gemeinde (_Municipality_) | Illerwinkel | 49-9-7-78-87763 | |
 | 87764 | Legau | Markt | Illerwinkel | 49-9-7-78-87764 | Sitz des Illerwinkels |
 | 87733 | Markt Rettenbach | Markt | Markt Rettenbach | 49-9-7-78-87733 | |
 | 86865 | Markt Wald | Markt | Markt Wald | 49-9-7-78-86865 | |
-| 87766 | Memmingerberg | Gemeinde | Memmingerberg | 49-9-7-78-87766 | Sitz der VG Memmingerberg |
+| 87766 | Memmingerberg | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87766 | Sitz der VG Memmingerberg |
 | 87719 | Mindelheim | Kreisstadt | Mindelheim | 49-9-7-78-87719 | |
-| 87767 | Niederrieden | Gemeinde | Boos | 49-9-7-78-87767 | |
-| 87769 | Oberrieden _(Schwaben)_ | Gemeinde | Pfaffenhausen | 49-9-7-78-87769 | |
-| 87770 | Oberschönegg | Gemeinde | Babenhausen | 49-9-7-78-87770.184 | PLZ wird mit Kirchhaslach-Beblinstetten geteilt |
+| 87767 | Niederrieden | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87767 | |
+| 87769 | Oberrieden _(Schwaben)_ | Gemeinde (_Municipality_) | Pfaffenhausen | 49-9-7-78-87769 | |
+| 87770 | Oberschönegg | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87770.184 | PLZ wird mit Kirchhaslach-Beblinstetten geteilt |
 | 87724 | Ottobeuren | Markt | Ottobeuren | 49-9-7-78-87724 | Sitz der VG Ottobeuren |
 | 87772 | Pfaffenhausen | Markt | Pfaffenhausen | 49-9-7-78-87772 | Sitz der VG Pfaffenhausen |
-| 87773 | Pleß | Gemeinde | Boos | 49-9-7-78-87773 | |
-| 86871 | Rammingen _(Bayern)_ | Gemeinde | Türkheim | 49-9-7-78-86871 | |
-| 87775 | Salgen | Gemeinde | Pfaffenhausen | 49-9-7-78-87775 | |
+| 87773 | Pleß | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87773 | |
+| 86871 | Rammingen _(Bayern)_ | Gemeinde (_Municipality_) | Türkheim | 49-9-7-78-86871 | |
+| 87775 | Salgen | Gemeinde (_Municipality_) | Pfaffenhausen | 49-9-7-78-87775 | |
 | 87757 | Salgen-Bronnerlehe | Weiler | Pfaffenhausen | 49-9-7-78-87757.190 | PLZ wird mit Kirchheim in Schwaben geteilt |
-| 87776 | Sontheim _(Schwaben)_ | Gemeinde | Sontheim | 49-9-7-78-87776 | |
-| 87778 | Stetten _(Schwaben)_ | Gemeinde | Dirlewang | 49-9-7-78-87778 | |
-| 87779 | Trunkelsberg | Gemeinde | Memmingerberg | 49-9-7-78-87779 | |
+| 87776 | Sontheim _(Schwaben)_ | Gemeinde (_Municipality_) | Sontheim | 49-9-7-78-87776 | |
+| 87778 | Stetten _(Schwaben)_ | Gemeinde (_Municipality_) | Dirlewang | 49-9-7-78-87778 | |
+| 87779 | Trunkelsberg | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87779 | |
 | 86842 | Türkheim | Markt | Türkheim | 49-9-7-78-86842 | Sitz der VG Türkheim |
 | 86874 | Tussenhausen | Markt | Tussenhausen | 49-9-7-78-86874 | |
-| 87781 | Ungerhausen | Gemeinde | Memmingerberg | 49-9-7-78-87781 | |
-| 87782 | Unteregg | Gemeinde | Dirlewang | 49-9-7-78-87782.207 | PLZ wird mit Dirlewang-Wallenried geteilt |
-| 87784 | Westerheim _(Schwaben)_ | Gemeinde | Erkheim | 49-9-7-78-87784 | |
-| 86879 | Wiedergeltingen | Gemeinde | Türkheim | 49-9-7-78-86879 | |
-| 87785 | Winterrieden | Gemeinde | Babenhausen | 49-9-7-78-87785 | |
-| 87787 | Wolfertschwenden | Gemeinde | Bad Grönenbach | 49-9-7-78-87787 | |
-| 87789 | Woringen | Gemeinde | Bad Grönenbach | 49-9-7-78-87789 | |
+| 87781 | Ungerhausen | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87781 | |
+| 87782 | Unteregg | Gemeinde (_Municipality_) | Dirlewang | 49-9-7-78-87782.207 | PLZ wird mit Dirlewang-Wallenried geteilt |
+| 87784 | Westerheim _(Schwaben)_ | Gemeinde (_Municipality_) | Erkheim | 49-9-7-78-87784 | |
+| 86879 | Wiedergeltingen | Gemeinde (_Municipality_) | Türkheim | 49-9-7-78-86879 | |
+| 87785 | Winterrieden | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87785 | |
+| 87787 | Wolfertschwenden | Gemeinde (_Municipality_) | Bad Grönenbach | 49-9-7-78-87787 | |
+| 87789 | Woringen | Gemeinde (_Municipality_) | Bad Grönenbach | 49-9-7-78-87789 | |
