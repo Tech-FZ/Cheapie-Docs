@@ -185,7 +185,7 @@ Hinweise:
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
 
-| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft | ID | Notiz |
+| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 86477 | Adelsried | Gemeinde | Adelsried | 49-9-7-72-86477 | |
 | 86695 | Allmannshofen | Gemeinde | Nordendorf | 49-9-7-72-86695.114 | PLZ wird mit Nordendorf geteilt |
@@ -202,35 +202,35 @@ Hinweise:
 | 86850 | Fischach | Markt | Fischach | 49-9-7-72-86850 | |
 | 86456 | Gablingen | Gemeinde | Gablingen | 49-9-7-72-86456 | |
 | 86368 | Gersthofen | Stadt | Gersthofen | 49-9-7-72-86368 | |
-| 86459 | Gessertshausen | Gemeinde | Gessertshausen | 49-9-7-72-86459 | |
+| 86459 | Gessertshausen | Gemeinde | Gessertshausen | 49-9-7-72-86459 | Sitz der VG Gessertshausen |
 | 86836 | Graben _(Lechfeld)_ | Gemeinde | Graben | 49-9-7-72-86836.149 | PLZ wird mit Klosterlechfeld und Untermeitingen geteilt |
-| 86845 | Großaitingen | Gemeinde | Großaitingen | 49-9-7-72-86845 | |
+| 86845 | Großaitingen | Gemeinde | Großaitingen | 49-9-7-72-86845 | Sitz der VG Großaitingen |
 | 86465 | Heretsried | Gemeinde | Heretsried | 49-9-7-72-86465.156 | PLZ wird mit Welden geteilt |
-| 86856 | Hiltenfingen | Gemeinde | Hiltenfingen | 49-9-7-72-86856 | |
+| 86856 | Hiltenfingen | Gemeinde | Langerringen | 49-9-7-72-86856 | |
 | 86497 | Horgau | Gemeinde | Horgau | 49-9-7-72-86497 | |
 | 86507 | Kleinaitingen | Gemeinde | Großaitingen | 49-9-7-72-86507.160 | PLZ wird mit Oberottmarshausen geteilt |
 | 86836 | Klosterlechfeld | Gemeinde | Lechfeld | 49-9-7-72-86836.162 | PLZ wird mit Graben und Untermeitingen geteilt |
 | 86343 | Königsbrunn | Stadt | Königsbrunn | 49-9-7-72-86343 | |
 | 86707 | Kühlenthal | Gemeinde | Nordendorf | 49-9-7-72-86707.166 | PLZ wird mit Westendorf geteilt |
 | 86500 | Kutzenhausen | Gemeinde | Kutzenhausen | 49-9-7-72-86500 | |
-| 86863 | Langenneufnach | Gemeinde | Stauden | 49-9-7-72-86863 | |
-| 86853 | Langerringen | Gemeinde | Langerringen | 49-9-7-72-86853 | |
+| 86863 | Langenneufnach | Gemeinde | Stauden | 49-9-7-72-86863 | Sitz der VG Stauden |
+| 86853 | Langerringen | Gemeinde | Langerringen | 49-9-7-72-86853 | Sitz der VG Langerringen |
 | 86462 | Langweid am Lech | Gemeinde | Langweid am Lech | 49-9-7-72-86462 | |
 | 86405 | Meitingen | Markt | Meitingen | 49-9-7-72-86405 | |
 | 86866 | Mickhausen | Gemeinde | Stauden | 49-9-7-72-86866 | |
 | 86868 | Mittelneufnach | Gemeinde | Stauden | 49-9-7-72-86868 | |
 | 86356 | Neusäß | Stadt | Neusäß | 49-9-7-72-86356 | |
-| 86695 | Nordendorf | Gemeinde | Nordendorf | 49-9-7-72-86695.185 | PLZ wird mit Allmannshofen geteilt |
+| 86695 | Nordendorf | Gemeinde | Nordendorf | 49-9-7-72-86695.185 | PLZ wird mit Allmannshofen geteilt, Sitz der VG Nordendorf |
 | 86507 | Oberottmarshausen | Gemeinde | Großaitingen | 49-9-7-72-86507.186 | PLZ wird mit Kleinaitingen geteilt |
 | 86872 | Scherstetten | Gemeinde | Stauden | 49-9-7-72-86872 | |
 | 86830 | Schwabmünchen | Stadt | Schwabmünchen | 49-9-7-72-86830 | |
 | 86391 | Stadtbergen | Stadt | Stadtbergen | 49-9-7-72-86391 | |
 | 86672 | Thierhaupten | Markt | Thierhaupten | 49-9-7-72-86672 | |
-| 86836 | Untermeitingen | Gemeinde | Lechfeld | 49-9-7-72-86836.209 | PLZ wird mit Graben und Klosterlechfeld geteilt |
+| 86836 | Untermeitingen | Gemeinde | Lechfeld | 49-9-7-72-86836.209 | PLZ wird mit Graben und Klosterlechfeld geteilt, Sitz der VG Lechfeld |
 | 86514 | Ustersbach | Gemeinde | Gessertshausen | 49-9-7-72-86514 | |
 | 86877 | Walkertshofen | Gemeinde | Stauden | 49-9-7-72-86877 | |
 | 86517 | Wehringen | Gemeinde | Wehringen | 49-9-7-72-86517 | |
-| 86465 | Welden | Markt | Welden | 49-9-7-72-86465.216 | PLZ wird mit Heretsried geteilt |
+| 86465 | Welden | Markt | Welden | 49-9-7-72-86465.216 | PLZ wird mit Heretsried geteilt, Sitz der VG Welden |
 | 86707 | Westendorf _(Landkreis Augsburg)_ | Gemeinde | Nordendorf | 49-9-7-72-86707.217 | PLZ wird mit Kühlenthal geteilt |
 | 86441 | Zusmarshausen | Markt | Zusmarshausen | 49-9-7-72-86441 | |
 
