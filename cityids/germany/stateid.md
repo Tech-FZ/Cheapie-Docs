@@ -1,20 +1,20 @@
 # Cheapie - Deutsche Bundesstaaten
 
-| Bundesstaat | ID |
+| Bundesstaat (_Federal state_) | ID |
 | ------- | -- |
 | Schleswig-Holstein | 49-1 |
 | Hamburg | 49-2 |
-| Niedersachsen | 49-3 |
+| Niedersachsen (_Lower Saxony_) | 49-3 |
 | Bremen | 49-4 |
-| Nordrhein-Westfalen | 49-5 |
-| Hessen | 49-6 |
+| Nordrhein-Westfalen (_North Rhine-Westphalia_) | 49-5 |
+| Hessen (_Hesse_) | 49-6 |
 | Rheinland-Pfalz | 49-7 |
 | Baden-Württemberg | 49-8 |
-| Bayern | 49-9 |
+| Bayern (_Bavaria_) | 49-9 |
 | Saarland | 49-10 |
 | Berlin | 49-11 |
 | Brandenburg | 49-12 |
 | Mecklenburg-Vorpommern | 49-13 |
-| Sachsen | 49-14 |
-| Sachsen-Anhalt | 49-15 |
-| Thüringen | 49-16 |
+| Sachsen (_Saxony_) | 49-14 |
+| Sachsen-Anhalt (_Saxony-Anhalt_) | 49-15 |
+| Thüringen (_Thuringia_) | 49-16 |
