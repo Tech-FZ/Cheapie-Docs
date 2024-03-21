@@ -262,165 +262,165 @@ Notes (EN):
 
 ## Kreisfreie Stadt Kempten (Allgäu)
 
-| PLZ | Gemarkung | Status | ID |
+| PLZ | Gemarkung (_District_) | Status | ID |
 | --- | -------- | ------ | --- |
-| 87435 | Kempten (Allgäu) | Hauptort | 49-9-7-63-87435 |
-| 87439 | Kempten (Allgäu)-Sankt Lorenz | Gemarkung | 49-9-7-63-87439 |
-| 87437 | Kempten (Allgäu)-Sankt Mang | Stadtteil | 49-9-7-63-87437 |
+| 87435 | Kempten (Allgäu) | Hauptort (_Core city_) | 49-9-7-63-87435 |
+| 87439 | Kempten (Allgäu)-Sankt Lorenz | Gemarkung (_District_) | 49-9-7-63-87439 |
+| 87437 | Kempten (Allgäu)-Sankt Mang | Stadtteil (_Borough_) | 49-9-7-63-87437 |
 
 Die Nummern wurden (teilweise) https://daten.digitale-sammlungen.de/~db/0005/bsb00059539/images/index.html?fip=193.174.98.30&seite=417 entnommen.
 
 | PLZ | Ortsname | Status | ID | Notiz |
 | --- | -------- | ------ | -- | ----- |
-| 87435 | Kempten (Allgäu) | Hauptort | 49-9-7-63-87435-1 | Verwaltungssitz |
-| 87435 | Kempten (Allgäu)-Adelharz | Dorf | 49-9-7-63-87435-2 |  |
-| 87439 | Kempten (Allgäu)-Ajen | Einöde | 49-9-7-63-87439-3 |  |
-| 87437 | Kempten (Allgäu)-Aschen | Einöde | 49-9-7-63-87437-4 |  |
-| 87439 | Kempten (Allgäu)-Atzenried | Weiler | 49-9-7-63-87439-5 |  |
-| 87437 | Kempten (Allgäu)-Bachen | Einöde | 49-9-7-63-87437-6 |  |
-| 87437 | Kempten (Allgäu)-Bachtelmühle | Einöde | 49-9-7-63-87437-7 |  |
-| 87439 | Kempten (Allgäu)-Bachtelsteig | Einöde | 49-9-7-63-87439-8 |  |
-| 87439 | Kempten (Allgäu)-Bahnholz | Einöde | 49-9-7-63-87439-9 |  |
-| 87439 | Kempten (Allgäu)-Batzen | Weiler | 49-9-7-63-87439-10 |  |
-| 87439 | Kempten (Allgäu)-Bezachmühle | Einöde | 49-9-7-63-87439-11 |  |
-| 87437 | Kempten (Allgäu)-Binzenried | Weiler | 49-9-7-63-87437-12 |  |
-| 87437 | Kempten (Allgäu)-Birken | Einöde | 49-9-7-63-87437-13 |  |
-| 87437 | Kempten (Allgäu)-Bockarten | Weiler | 49-9-7-63-87437-14 |  |
-| 87439 | Kempten (Allgäu)-Borstadels | Weiler | 49-9-7-63-87439-15 |  |
-| 87439 | Kempten (Allgäu)-Breiten | Stadtteil | 49-9-7-63-87439-16 |  |
-| 87439 | Kempten (Allgäu)-Bremberg | Weiler | 49-9-7-63-87439-17 |  |
-| 87435 | Kempten (Allgäu)-Bucharts | Weiler | 49-9-7-63-87435-18 |  |
-| 87439 | Kempten (Allgäu)-Bühl | Einöde | 49-9-7-63-87439-19 |  |
-| 87439 | Kempten (Allgäu)-Bühls | Einöde | 49-9-7-63-87439-20 |  |
-| 87439 | Kempten (Allgäu)-Burkarts | Einöde | 49-9-7-63-87439-21 |  |
-| 87437 | Kempten (Allgäu)-Dolders | Einöde | 49-9-7-63-87437-22 |  |
-| 87439 | Kempten (Allgäu)-Dorns | Weiler | 49-9-7-63-87439-23 |  |
-| 87439 | Kempten (Allgäu)-Dottenried | Weiler | 49-9-7-63-87439-24 |  |
-| 87439 | Kempten (Allgäu)-Eggen | Weiler | 49-9-7-63-87439-26 |  |
-| 87435 | Kempten (Allgäu)-Eich | Stadtteil | 49-9-7-63-87435-27 |  |
-| 87439 | Kempten (Allgäu)-Ellatsberg | Einöde | 49-9-7-63-87439-28 |  |
-| 87435 | Kempten (Allgäu)-Ellharten | Stadtteil | 49-9-7-63-87435-29 |  |
-| 87439 | Kempten (Allgäu)-Elmatried | Weiler | 49-9-7-63-87439-30 |  |
-| 87439 | Kempten (Allgäu)-Eppenried | Einöde | 49-9-7-63-87439-31 |  |
-| 87439 | Kempten (Allgäu)-Feigen | Einöde | 49-9-7-63-87439-32 |  |
-| 87437 | Kempten (Allgäu)-Felben | Weiler | 49-9-7-63-87437-33 |  |
-| 87437 | Kempten (Allgäu)-Greinats | Weiler | 49-9-7-63-87437-34 |  |
-| 87437 | Kempten (Allgäu)-Grub | Einöde | 49-9-7-63-87437-35 |  |
-| 87437 | Kempten (Allgäu)-Hafenthal | Weiler | 49-9-7-63-87437-38 |  |
-| 87439 | Kempten (Allgäu)-Halden | Stadtteil | 49-9-7-63-87439-39 |  |
-| 87439 | Kempten (Allgäu)-Hartnägel | Weiler | 49-9-7-63-87439-36 |  |
-| 87439 | Kempten (Allgäu)-Hartnägel am Mariaberg | Einöde | 49-9-7-63-87439-37 |  |
-| 87437 | Kempten (Allgäu)-Hasenbühl | Einöde | 49-9-7-63-87437-40 |  |
-| 87435 | Kempten (Allgäu)-Haslach | Stadtteil | 49-9-7-63-87435-41 |  |
-| 87437 | Kempten (Allgäu)-Haßberg | Einöde | 49-9-7-63-87437-42 |  |
-| 87439 | Kempten (Allgäu)-Haubensteig | Stadtteil | 49-9-7-63-87439-43 |  |
-| 87439 | Kempten (Allgäu)-Heiligkreuz | Pfarrdorf | 49-9-7-63-87439-44 |  |
-| 87439 | Kempten (Allgäu)-Hinterbach | Dorf | 49-9-7-63-87439-45 |  |
-| 87439 | Kempten (Allgäu)-Hinteregg | Weiler | 49-9-7-63-87439-46 |  |
-| 87437 | Kempten (Allgäu)-Hinterholz | Einöde | 49-9-7-63-87437-47 |  |
-| 87439 | Kempten (Allgäu)-Hinterrottach | Stadtteil | 49-9-7-63-87439-48 |  |
-| 87439 | Kempten (Allgäu)-Hirschdorf | Kirchdorf | 49-9-7-63-87439-49 |  |
-| 87437 | Kempten (Allgäu)-Hochstraß | Weiler | 49-9-7-63-87437-50 |  |
-| 87437 | Kempten (Allgäu)-Höflings | Einöde | 49-9-7-63-87437-52 |  |
-| 87439 | Kempten (Allgäu)-Hohenrad | Weiler | 49-9-7-63-87439-53 |  |
-| 87437 | Kempten (Allgäu)-Hub | Weiler | 49-9-7-63-87437-54 |  |
-| 87439 | Kempten (Allgäu)-Jägers | Einöde | 49-9-7-63-87439-55 |  |
-| 87439 | Kempten (Allgäu)-Johannisried | Einöde | 49-9-7-63-87439-56 |  |
-| 87437 | Kempten (Allgäu)-Kargen | Weiler | 49-9-7-63-87437-57 |  |
-| 87435 | Kempten (Allgäu)-Kaurus | Einöde | 49-9-7-63-87435-58 |  |
-| 87439 | Kempten (Allgäu)-Kindo | Einöde | 49-9-7-63-87439-59 |  |
-| 87437 | Kempten (Allgäu)-Klingen | Einöde | 49-9-7-63-87437-60 |  |
-| 87439 | Kempten (Allgäu)-Kniebos | Einöde | 49-9-7-63-87439-61 |  |
-| 87439 | Kempten (Allgäu)-Kollerbach | Weiler | 49-9-7-63-87439-62 |  |
-| 87439 | Kempten (Allgäu)-Korangers | Weiler | 49-9-7-63-87439-63 |  |
-| 87439 | Kempten (Allgäu)-Lämmlings | Weiler | 49-9-7-63-87439-64 |  |
-| 87439 | Kempten (Allgäu)-Lauben ob der Bruck | Einöde | 49-9-7-63-87439-65 |  |
-| 87439 | Kempten (Allgäu)-Lauben unter der Bruck | Weiler | 49-9-7-63-87439-66 |  |
-| 87439 | Kempten (Allgäu)-Leinschwenden | Weiler | 49-9-7-63-87439-67 |  |
+| 87435 | Kempten (Allgäu) | Hauptort (_Core city_) | 49-9-7-63-87435-1 | Verwaltungssitz (_Administrative seat_) |
+| 87435 | Kempten (Allgäu)-Adelharz | Dorf (_Village_) | 49-9-7-63-87435-2 |  |
+| 87439 | Kempten (Allgäu)-Ajen | Einöde (_Wasteland_) | 49-9-7-63-87439-3 |  |
+| 87437 | Kempten (Allgäu)-Aschen | Einöde (_Wasteland_) | 49-9-7-63-87437-4 |  |
+| 87439 | Kempten (Allgäu)-Atzenried | Weiler (_Hamlet_) | 49-9-7-63-87439-5 |  |
+| 87437 | Kempten (Allgäu)-Bachen | Einöde (_Wasteland_) | 49-9-7-63-87437-6 |  |
+| 87437 | Kempten (Allgäu)-Bachtelmühle | Einöde (_Wasteland_) | 49-9-7-63-87437-7 |  |
+| 87439 | Kempten (Allgäu)-Bachtelsteig | Einöde (_Wasteland_) | 49-9-7-63-87439-8 |  |
+| 87439 | Kempten (Allgäu)-Bahnholz | Einöde (_Wasteland_) | 49-9-7-63-87439-9 |  |
+| 87439 | Kempten (Allgäu)-Batzen | Weiler (_Hamlet_) | 49-9-7-63-87439-10 |  |
+| 87439 | Kempten (Allgäu)-Bezachmühle | Einöde (_Wasteland_) | 49-9-7-63-87439-11 |  |
+| 87437 | Kempten (Allgäu)-Binzenried | Weiler (_Hamlet_) | 49-9-7-63-87437-12 |  |
+| 87437 | Kempten (Allgäu)-Birken | Einöde (_Wasteland_) | 49-9-7-63-87437-13 |  |
+| 87437 | Kempten (Allgäu)-Bockarten | Weiler (_Hamlet_) | 49-9-7-63-87437-14 |  |
+| 87439 | Kempten (Allgäu)-Borstadels | Weiler (_Hamlet_) | 49-9-7-63-87439-15 |  |
+| 87439 | Kempten (Allgäu)-Breiten | Stadtteil (_Borough_) | 49-9-7-63-87439-16 |  |
+| 87439 | Kempten (Allgäu)-Bremberg | Weiler (_Hamlet_) | 49-9-7-63-87439-17 |  |
+| 87435 | Kempten (Allgäu)-Bucharts | Weiler (_Hamlet_) | 49-9-7-63-87435-18 |  |
+| 87439 | Kempten (Allgäu)-Bühl | Einöde (_Wasteland_) | 49-9-7-63-87439-19 |  |
+| 87439 | Kempten (Allgäu)-Bühls | Einöde (_Wasteland_) | 49-9-7-63-87439-20 |  |
+| 87439 | Kempten (Allgäu)-Burkarts | Einöde (_Wasteland_) | 49-9-7-63-87439-21 |  |
+| 87437 | Kempten (Allgäu)-Dolders | Einöde (_Wasteland_) | 49-9-7-63-87437-22 |  |
+| 87439 | Kempten (Allgäu)-Dorns | Weiler (_Hamlet_) | 49-9-7-63-87439-23 |  |
+| 87439 | Kempten (Allgäu)-Dottenried | Weiler (_Hamlet_) | 49-9-7-63-87439-24 |  |
+| 87439 | Kempten (Allgäu)-Eggen | Weiler (_Hamlet_) | 49-9-7-63-87439-26 |  |
+| 87435 | Kempten (Allgäu)-Eich | Stadtteil (_Borough_) | 49-9-7-63-87435-27 |  |
+| 87439 | Kempten (Allgäu)-Ellatsberg | Einöde (_Wasteland_) | 49-9-7-63-87439-28 |  |
+| 87435 | Kempten (Allgäu)-Ellharten | Stadtteil (_Borough_) | 49-9-7-63-87435-29 |  |
+| 87439 | Kempten (Allgäu)-Elmatried | Weiler (_Hamlet_) | 49-9-7-63-87439-30 |  |
+| 87439 | Kempten (Allgäu)-Eppenried | Einöde (_Wasteland_) | 49-9-7-63-87439-31 |  |
+| 87439 | Kempten (Allgäu)-Feigen | Einöde (_Wasteland_) | 49-9-7-63-87439-32 |  |
+| 87437 | Kempten (Allgäu)-Felben | Weiler (_Hamlet_) | 49-9-7-63-87437-33 |  |
+| 87437 | Kempten (Allgäu)-Greinats | Weiler (_Hamlet_) | 49-9-7-63-87437-34 |  |
+| 87437 | Kempten (Allgäu)-Grub | Einöde (_Wasteland_) | 49-9-7-63-87437-35 |  |
+| 87437 | Kempten (Allgäu)-Hafenthal | Weiler (_Hamlet_) | 49-9-7-63-87437-38 |  |
+| 87439 | Kempten (Allgäu)-Halden | Stadtteil (_Borough_) | 49-9-7-63-87439-39 |  |
+| 87439 | Kempten (Allgäu)-Hartnägel | Weiler (_Hamlet_) | 49-9-7-63-87439-36 |  |
+| 87439 | Kempten (Allgäu)-Hartnägel am Mariaberg | Einöde (_Wasteland_) | 49-9-7-63-87439-37 |  |
+| 87437 | Kempten (Allgäu)-Hasenbühl | Einöde (_Wasteland_) | 49-9-7-63-87437-40 |  |
+| 87435 | Kempten (Allgäu)-Haslach | Stadtteil (_Borough_) | 49-9-7-63-87435-41 |  |
+| 87437 | Kempten (Allgäu)-Haßberg | Einöde (_Wasteland_) | 49-9-7-63-87437-42 |  |
+| 87439 | Kempten (Allgäu)-Haubensteig | Stadtteil (_Borough_) | 49-9-7-63-87439-43 |  |
+| 87439 | Kempten (Allgäu)-Heiligkreuz | Pfarrdorf (_Parish village_) | 49-9-7-63-87439-44 |  |
+| 87439 | Kempten (Allgäu)-Hinterbach | Dorf (_Village_) | 49-9-7-63-87439-45 |  |
+| 87439 | Kempten (Allgäu)-Hinteregg | Weiler (_Hamlet_) | 49-9-7-63-87439-46 |  |
+| 87437 | Kempten (Allgäu)-Hinterholz | Einöde (_Wasteland_) | 49-9-7-63-87437-47 |  |
+| 87439 | Kempten (Allgäu)-Hinterrottach | Stadtteil (_Borough_) | 49-9-7-63-87439-48 |  |
+| 87439 | Kempten (Allgäu)-Hirschdorf | Kirchdorf (_Church village_) | 49-9-7-63-87439-49 |  |
+| 87437 | Kempten (Allgäu)-Hochstraß | Weiler (_Hamlet_) | 49-9-7-63-87437-50 |  |
+| 87437 | Kempten (Allgäu)-Höflings | Einöde (_Wasteland_) | 49-9-7-63-87437-52 |  |
+| 87439 | Kempten (Allgäu)-Hohenrad | Weiler (_Hamlet_) | 49-9-7-63-87439-53 |  |
+| 87437 | Kempten (Allgäu)-Hub | Weiler (_Hamlet_) | 49-9-7-63-87437-54 |  |
+| 87439 | Kempten (Allgäu)-Jägers | Einöde (_Wasteland_) | 49-9-7-63-87439-55 |  |
+| 87439 | Kempten (Allgäu)-Johannisried | Einöde (_Wasteland_) | 49-9-7-63-87439-56 |  |
+| 87437 | Kempten (Allgäu)-Kargen | Weiler (_Hamlet_) | 49-9-7-63-87437-57 |  |
+| 87435 | Kempten (Allgäu)-Kaurus | Einöde (_Wasteland_) | 49-9-7-63-87435-58 |  |
+| 87439 | Kempten (Allgäu)-Kindo | Einöde (_Wasteland_) | 49-9-7-63-87439-59 |  |
+| 87437 | Kempten (Allgäu)-Klingen | Einöde (_Wasteland_) | 49-9-7-63-87437-60 |  |
+| 87439 | Kempten (Allgäu)-Kniebos | Einöde (_Wasteland_) | 49-9-7-63-87439-61 |  |
+| 87439 | Kempten (Allgäu)-Kollerbach | Weiler (_Hamlet_) | 49-9-7-63-87439-62 |  |
+| 87439 | Kempten (Allgäu)-Korangers | Weiler (_Hamlet_) | 49-9-7-63-87439-63 |  |
+| 87439 | Kempten (Allgäu)-Lämmlings | Weiler  (_Hamlet_)| 49-9-7-63-87439-64 |  |
+| 87439 | Kempten (Allgäu)-Lauben ob der Bruck | Einöde (_Wasteland_) | 49-9-7-63-87439-65 |  |
+| 87439 | Kempten (Allgäu)-Lauben unter der Bruck | Weiler (_Hamlet_) | 49-9-7-63-87439-66 |  |
+| 87439 | Kempten (Allgäu)-Leinschwenden | Weiler (_Hamlet_) | 49-9-7-63-87439-67 |  |
 | 87437 | Kempten (Allgäu)-Lenzfried | Pfarrdorf | 49-9-7-63-87437-68 |  |
-| 87437 | Kempten (Allgäu)-Letten | Weiler | 49-9-7-63-87437-70 |  |
-| 87437 | Kempten (Allgäu)-Leubas | Kirchdorf | 49-9-7-63-87437-71 |  |
-| 87437 | Kempten (Allgäu)-Leupolz | Dorf | 49-9-7-63-87437-72 |  |
-| 87437 | Kempten (Allgäu)-Leupratsried | Dorf | 49-9-7-63-87437-73 |  |
-| 87439 | Kempten (Allgäu)-Lotterberg | Stadtteil | 49-9-7-63-87439-75 |  |
-| 87435 | Kempten (Allgäu)-Lugemanns | Einöde | 49-9-7-63-87435-76 |  |
-| 87439 | Kempten (Allgäu)-Mariaberg | Dorf | 49-9-7-63-87439-77 |  |
-| 87439 | Kempten (Allgäu)-Mayrhof | Weiler | 49-9-7-63-87439-78 |  |
-| 87439 | Kempten (Allgäu)-Mollenmühle | Einöde | 49-9-7-63-87439-79 |  |
-| 87437 | Kempten (Allgäu)-Moos | Weiler | 49-9-7-63-87437-80 |  |
-| 87439 | Kempten (Allgäu)-Moosers | Weiler | 49-9-7-63-87439-82 |  |
-| 87437 | Kempten (Allgäu)-Motzen | Einöde | 49-9-7-63-87437-83 |  |
-| 87439 | Kempten (Allgäu)-Mühlbach | Einöde | 49-9-7-63-87439-84 |  |
-| 87439 | Kempten (Allgäu)-Neuhausen | Dorf | 49-9-7-63-87439-85 |  |
-| 87437 | Kempten (Allgäu)-Oberbühl | Einöde | 49-9-7-63-87437-86 |  |
-| 87439 | Kempten (Allgäu)-Obergrünenberg | Weiler | 49-9-7-63-87439-87 |  |
-| 87439 | Kempten (Allgäu)-Oberheggers | Einöde | 49-9-7-63-87439-88 |  |
-| 87439 | Kempten (Allgäu)-Oberried | Einöde | 49-9-7-63-87439-89 |  |
-| 87439 | Kempten (Allgäu)-Oberschmieden | Einöde | 49-9-7-63-87439-90 |  |
-| 87439 | Kempten (Allgäu)-Oberwang | Dorf | 49-9-7-63-87439-91 |  |
-| 87439 | Kempten (Allgäu)-Oberwies | Einöde | 49-9-7-63-87439-92 |  |
-| 87439 | Kempten (Allgäu)-Öschberg | Einöde | 49-9-7-63-87439-94 |  |
-| 87439 | Kempten (Allgäu)-Ohnholz | Weiler | 49-9-7-63-87439-95 |  |
-| 87439 | Kempten (Allgäu)-Prestlings | Weiler | 49-9-7-63-87439-96 |  |
-| 87439 | Kempten (Allgäu)-Rappenscheuchen | Weiler | 49-9-7-63-87439-97 |  |
-| 87439 | Kempten (Allgäu)-Rauhen | Weiler | 49-9-7-63-87439-98 |  |
-| 87439 | Kempten (Allgäu)-Reichelsberg | unbewohnt | 49-9-7-63-87439-99 |  |
-| 87437 | Kempten (Allgäu)-Reinharts | Weiler | 49-9-7-63-87437-100 |  |
-| 87439 | Kempten (Allgäu)-Reisachmühle | Einöde | 49-9-7-63-87439-101 |  |
-| 87439 | Kempten (Allgäu)-Reiters | Einöde | 49-9-7-63-87439-102 |  |
-| 87439 | Kempten (Allgäu)-Ried | Einöde | 49-9-7-63-87439-103 |  |
-| 87437 | Kempten (Allgäu)-Riederau | Weiler | 49-9-7-63-87437-104 |  |
-| 87437 | Kempten (Allgäu)-Rockhöflings | Weiler | 49-9-7-63-87437-106 |  |
-| 87437 | Kempten (Allgäu)-Rößlings | Dorf | 49-9-7-63-87437-107 |  |
-| 87439 | Kempten (Allgäu)-Rothkreuz | Einöde | 49-9-7-63-87439-108 |  |
-| 87439 | Kempten (Allgäu)-Rottach | Stadtteil | 49-9-7-63-87439-109 |  |
-| 87435 | Kempten (Allgäu)-Rottachmühle | unbewohnt | 49-9-7-63-87435-110 |  |
-| 87437 | Kempten (Allgäu)-Sankt Mang | Stadtteil | 49-9-7-63-87437-111 |  |
-| 87437 | Kempten (Allgäu)-Schatten | Einöde | 49-9-7-63-87437-112 |  |
-| 87439 | Kempten (Allgäu)-Schlatt | Einöde | 49-9-7-63-87439-113 |  |
-| 87437 | Kempten (Allgäu)-Schnattern | Einöde | 49-9-7-63-87437-114 |  |
-| 87439 | Kempten (Allgäu)-Schwabelsberg | Weiler | 49-9-7-63-87439-115 |  |
-| 87439 | Kempten (Allgäu)-Schwarzen | Weiler | 49-9-7-63-87439-116 |  |
-| 87435 | Kempten (Allgäu)-Seeangers | Stadtteil | 49-9-7-63-87435-117 |  |
-| 87437 | Kempten (Allgäu)-Segger | Weiler | 49-9-7-63-87437-118 |  |
-| 87435 | Kempten (Allgäu)-Seibäumen | Einöde | 49-9-7-63-87435-119 |  |
-| 87437 | Kempten (Allgäu)-Sommers | Weiler | 49-9-7-63-87437-120 |  |
-| 87439 | Kempten (Allgäu)-Stadtallmey | Einöde | 49-9-7-63-87439-121 |  |
-| 87439 | Kempten (Allgäu)-Staudach | Einöde | 49-9-7-63-87439-123 |  |
-| 87439 | Kempten (Allgäu)-Staudach beim Mariaberg | Einöde | 49-9-7-63-87439-124 |  |
-| 87437 | Kempten (Allgäu)-Steig | Weiler | 49-9-7-63-87437-125 |  |
-| 87435 | Kempten (Allgäu)-Steinberg | Weiler | 49-9-7-63-87435-126 |  |
-| 87437 | Kempten (Allgäu)-Sterklings | Einöde | 49-9-7-63-87437-127 |  |
-| 87439 | Kempten (Allgäu)-Steufzgen | Stadtteil | 49-9-7-63-87439-128 |  |
-| 87439 | Kempten (Allgäu)-Stiftallmey | Stadtteil | 49-9-7-63-87439-129 |  |
-| 87439 | Kempten (Allgäu)-Stiftbleiche | Weiler | 49-9-7-63-87439-130 |  |
-| 87439 | Kempten (Allgäu)-Stöcken | Weiler | 49-9-7-63-87439-132 |  |
-| 87439 | Kempten (Allgäu)-Stockers | Weiler | 49-9-7-63-87439-131 |  |
-| 87439 | Kempten (Allgäu)-Stoffels | Weiler | 49-9-7-63-87439-134 |  |
-| 87439 | Kempten (Allgäu)-Stölzlings | Einöde | 49-9-7-63-87439-133 |  |
-| 87439 | Kempten (Allgäu)-Stürmers | Einöde | 49-9-7-63-87439-135 |  |
-| 87439 | Kempten (Allgäu)-Tannach | Einöde | 49-9-7-63-87439-137 |  |
-| 87437 | Kempten (Allgäu)-Tannen | Weiler | 49-9-7-63-87437-138 |  |
-| 87439 | Kempten (Allgäu)-Thingers | Stadtteil | 49-9-7-63-87439-139 |  |
-| 87437 | Kempten (Allgäu)-Unterbühl | Einöde | 49-9-7-63-87437-140 |  |
-| 87439 | Kempten (Allgäu)-Untergrünenberg | Einöde | 49-9-7-63-87439-141 |  |
-| 87439 | Kempten (Allgäu)-Unterheggers | Einöde | 49-9-7-63-87439-142 |  |
-| 87439 | Kempten (Allgäu)-Unterried | Einöde | 49-9-7-63-87439-143 |  |
-| 87439 | Kempten (Allgäu)-Unterschmieden | Weiler | 49-9-7-63-87439-144 |  |
-| 87439 | Kempten (Allgäu)-Unterwang | Dorf | 49-9-7-63-87439-145 |  |
-| 87437 | Kempten (Allgäu)-Unterwies | Einöde | 49-9-7-63-87437-146 |  |
-| 87439 | Kempten (Allgäu)-Unterwittleiters | Einöde | 49-9-7-63-87439-147 |  |
-| 87437 | Kempten (Allgäu)-Ursulasried | Kirchdorf | 49-9-7-63-87437-148 |  |
-| 87437 | Kempten (Allgäu)-Voglsang | Einöde | 49-9-7-63-87437-149 |  |
-| 87439 | Kempten (Allgäu)-Vorderhalden | Weiler | 49-9-7-63-87439-150 |  |
-| 87437 | Kempten (Allgäu)-(Vorder-)Waldmanns | Einöde | 49-9-7-63-87437-151 |  |
-| 87439 | Kempten (Allgäu)-Wegflecken | Weiler | 49-9-7-63-87439-152 |  |
-| 87439 | Kempten (Allgäu)-Weidach | Einöde | 49-9-7-63-87439-153 |  |
-| 87437 | Kempten (Allgäu)-Weidachsmühle | Einöde | 49-9-7-63-87437-154 |  |
-| 87439 | Kempten (Allgäu)-Weihers | Einöde | 49-9-7-63-87439-155 |  |
-| 87437 | Kempten (Allgäu)-Wettmannsberg | Einöde | 49-9-7-63-87437-156 |  |
-| 87439 | Kempten (Allgäu)-Wies | Weiler | 49-9-7-63-87439-157 |  |
-| 87439 | Kempten (Allgäu)-Zollhaus | Dorf | 49-9-7-63-87439-158 |  |
+| 87437 | Kempten (Allgäu)-Letten | Weiler (_Hamlet_) | 49-9-7-63-87437-70 |  |
+| 87437 | Kempten (Allgäu)-Leubas | Kirchdorf (_Church village_) | 49-9-7-63-87437-71 |  |
+| 87437 | Kempten (Allgäu)-Leupolz | Dorf (_Village_) | 49-9-7-63-87437-72 |  |
+| 87437 | Kempten (Allgäu)-Leupratsried | Dorf (_Village_) | 49-9-7-63-87437-73 |  |
+| 87439 | Kempten (Allgäu)-Lotterberg | Stadtteil (_Borough_) | 49-9-7-63-87439-75 |  |
+| 87435 | Kempten (Allgäu)-Lugemanns | Einöde (_Wasteland_) | 49-9-7-63-87435-76 |  |
+| 87439 | Kempten (Allgäu)-Mariaberg | Dorf (_Village_) | 49-9-7-63-87439-77 |  |
+| 87439 | Kempten (Allgäu)-Mayrhof | Weiler (_Hamlet_) | 49-9-7-63-87439-78 |  |
+| 87439 | Kempten (Allgäu)-Mollenmühle | Einöde (_Wasteland_) | 49-9-7-63-87439-79 |  |
+| 87437 | Kempten (Allgäu)-Moos | Weiler (_Hamlet_) | 49-9-7-63-87437-80 |  |
+| 87439 | Kempten (Allgäu)-Moosers | Weiler (_Hamlet_) | 49-9-7-63-87439-82 |  |
+| 87437 | Kempten (Allgäu)-Motzen | Einöde (_Wasteland_) | 49-9-7-63-87437-83 |  |
+| 87439 | Kempten (Allgäu)-Mühlbach | Einöde (_Wasteland_) | 49-9-7-63-87439-84 |  |
+| 87439 | Kempten (Allgäu)-Neuhausen | Dorf (_Village_) | 49-9-7-63-87439-85 |  |
+| 87437 | Kempten (Allgäu)-Oberbühl | Einöde (_Wasteland_) | 49-9-7-63-87437-86 |  |
+| 87439 | Kempten (Allgäu)-Obergrünenberg | Weiler (_Hamlet_) | 49-9-7-63-87439-87 |  |
+| 87439 | Kempten (Allgäu)-Oberheggers | Einöde (_Wasteland_) | 49-9-7-63-87439-88 |  |
+| 87439 | Kempten (Allgäu)-Oberried | Einöde (_Wasteland_) | 49-9-7-63-87439-89 |  |
+| 87439 | Kempten (Allgäu)-Oberschmieden | Einöde (_Wasteland_) | 49-9-7-63-87439-90 |  |
+| 87439 | Kempten (Allgäu)-Oberwang | Dorf (_Village_) | 49-9-7-63-87439-91 |  |
+| 87439 | Kempten (Allgäu)-Oberwies | Einöde (_Wasteland_) | 49-9-7-63-87439-92 |  |
+| 87439 | Kempten (Allgäu)-Öschberg | Einöde (_Wasteland_) | 49-9-7-63-87439-94 |  |
+| 87439 | Kempten (Allgäu)-Ohnholz | Weiler (_Hamlet_) | 49-9-7-63-87439-95 |  |
+| 87439 | Kempten (Allgäu)-Prestlings | Weiler (_Hamlet_) | 49-9-7-63-87439-96 |  |
+| 87439 | Kempten (Allgäu)-Rappenscheuchen | Weiler (_Hamlet_) | 49-9-7-63-87439-97 |  |
+| 87439 | Kempten (Allgäu)-Rauhen | Weiler (_Hamlet_) | 49-9-7-63-87439-98 |  |
+| 87439 | Kempten (Allgäu)-Reichelsberg | unbewohnt (_uninhabited_) | 49-9-7-63-87439-99 |  |
+| 87437 | Kempten (Allgäu)-Reinharts | Weiler (_Hamlet_) | 49-9-7-63-87437-100 |  |
+| 87439 | Kempten (Allgäu)-Reisachmühle | Einöde (_Wasteland_) | 49-9-7-63-87439-101 |  |
+| 87439 | Kempten (Allgäu)-Reiters | Einöde (_Wasteland_) | 49-9-7-63-87439-102 |  |
+| 87439 | Kempten (Allgäu)-Ried | Einöde (_Wasteland_) | 49-9-7-63-87439-103 |  |
+| 87437 | Kempten (Allgäu)-Riederau | Weiler (_Hamlet_) | 49-9-7-63-87437-104 |  |
+| 87437 | Kempten (Allgäu)-Rockhöflings | Weiler (_Hamlet_) | 49-9-7-63-87437-106 |  |
+| 87437 | Kempten (Allgäu)-Rößlings | Dorf (_Village_) | 49-9-7-63-87437-107 |  |
+| 87439 | Kempten (Allgäu)-Rothkreuz | Einöde (_Wasteland_) | 49-9-7-63-87439-108 |  |
+| 87439 | Kempten (Allgäu)-Rottach | Stadtteil (_Borough_) | 49-9-7-63-87439-109 |  |
+| 87435 | Kempten (Allgäu)-Rottachmühle | unbewohnt (_uninhabited_) | 49-9-7-63-87435-110 |  |
+| 87437 | Kempten (Allgäu)-Sankt Mang | Stadtteil (_Borough_) | 49-9-7-63-87437-111 |  |
+| 87437 | Kempten (Allgäu)-Schatten | Einöde (_Wasteland_) | 49-9-7-63-87437-112 |  |
+| 87439 | Kempten (Allgäu)-Schlatt | Einöde (_Wasteland_) | 49-9-7-63-87439-113 |  |
+| 87437 | Kempten (Allgäu)-Schnattern | Einöde (_Wasteland_) | 49-9-7-63-87437-114 |  |
+| 87439 | Kempten (Allgäu)-Schwabelsberg | Weiler (_Hamlet_) | 49-9-7-63-87439-115 |  |
+| 87439 | Kempten (Allgäu)-Schwarzen | Weiler (_Hamlet_) | 49-9-7-63-87439-116 |  |
+| 87435 | Kempten (Allgäu)-Seeangers | Stadtteil (_Borough_) | 49-9-7-63-87435-117 |  |
+| 87437 | Kempten (Allgäu)-Segger | Weiler (_Hamlet_) | 49-9-7-63-87437-118 |  |
+| 87435 | Kempten (Allgäu)-Seibäumen | Einöde (_Wasteland_) | 49-9-7-63-87435-119 |  |
+| 87437 | Kempten (Allgäu)-Sommers | Weiler (_Hamlet_) | 49-9-7-63-87437-120 |  |
+| 87439 | Kempten (Allgäu)-Stadtallmey | Einöde (_Wasteland_) | 49-9-7-63-87439-121 |  |
+| 87439 | Kempten (Allgäu)-Staudach | Einöde (_Wasteland_) | 49-9-7-63-87439-123 |  |
+| 87439 | Kempten (Allgäu)-Staudach beim Mariaberg | Einöde (_Wasteland_) | 49-9-7-63-87439-124 |  |
+| 87437 | Kempten (Allgäu)-Steig | Weiler (_Hamlet_) | 49-9-7-63-87437-125 |  |
+| 87435 | Kempten (Allgäu)-Steinberg | Weiler (_Hamlet_) | 49-9-7-63-87435-126 |  |
+| 87437 | Kempten (Allgäu)-Sterklings | Einöde (_Wasteland_) | 49-9-7-63-87437-127 |  |
+| 87439 | Kempten (Allgäu)-Steufzgen | Stadtteil (_Borough_) | 49-9-7-63-87439-128 |  |
+| 87439 | Kempten (Allgäu)-Stiftallmey | Stadtteil (_Borough_) | 49-9-7-63-87439-129 |  |
+| 87439 | Kempten (Allgäu)-Stiftbleiche | Weiler (_Hamlet_) | 49-9-7-63-87439-130 |  |
+| 87439 | Kempten (Allgäu)-Stöcken | Weiler (_Hamlet_) | 49-9-7-63-87439-132 |  |
+| 87439 | Kempten (Allgäu)-Stockers | Weiler (_Hamlet_) | 49-9-7-63-87439-131 |  |
+| 87439 | Kempten (Allgäu)-Stoffels | Weiler (_Hamlet_) | 49-9-7-63-87439-134 |  |
+| 87439 | Kempten (Allgäu)-Stölzlings | Einöde (_Wasteland_) | 49-9-7-63-87439-133 |  |
+| 87439 | Kempten (Allgäu)-Stürmers | Einöde (_Wasteland_) | 49-9-7-63-87439-135 |  |
+| 87439 | Kempten (Allgäu)-Tannach | Einöde (_Wasteland_) | 49-9-7-63-87439-137 |  |
+| 87437 | Kempten (Allgäu)-Tannen | Weiler (_Hamlet_) | 49-9-7-63-87437-138 |  |
+| 87439 | Kempten (Allgäu)-Thingers | Stadtteil (_Borough_) | 49-9-7-63-87439-139 |  |
+| 87437 | Kempten (Allgäu)-Unterbühl | Einöde (_Wasteland_) | 49-9-7-63-87437-140 |  |
+| 87439 | Kempten (Allgäu)-Untergrünenberg | Einöde (_Wasteland_) | 49-9-7-63-87439-141 |  |
+| 87439 | Kempten (Allgäu)-Unterheggers | Einöde (_Wasteland_) | 49-9-7-63-87439-142 |  |
+| 87439 | Kempten (Allgäu)-Unterried | Einöde (_Wasteland_) | 49-9-7-63-87439-143 |  |
+| 87439 | Kempten (Allgäu)-Unterschmieden | Weiler (_Hamlet_) | 49-9-7-63-87439-144 |  |
+| 87439 | Kempten (Allgäu)-Unterwang | Dorf (_Village_) | 49-9-7-63-87439-145 |  |
+| 87437 | Kempten (Allgäu)-Unterwies | Einöde (_Wasteland_) | 49-9-7-63-87437-146 |  |
+| 87439 | Kempten (Allgäu)-Unterwittleiters | Einöde (_Wasteland_) | 49-9-7-63-87439-147 |  |
+| 87437 | Kempten (Allgäu)-Ursulasried | Kirchdorf (_Church village_) | 49-9-7-63-87437-148 |  |
+| 87437 | Kempten (Allgäu)-Voglsang | Einöde (_Wasteland_) | 49-9-7-63-87437-149 |  |
+| 87439 | Kempten (Allgäu)-Vorderhalden | Weiler (_Hamlet_) | 49-9-7-63-87439-150 |  |
+| 87437 | Kempten (Allgäu)-(Vorder-)Waldmanns | Einöde (_Wasteland_) | 49-9-7-63-87437-151 |  |
+| 87439 | Kempten (Allgäu)-Wegflecken | Weiler (_Hamlet_) | 49-9-7-63-87439-152 |  |
+| 87439 | Kempten (Allgäu)-Weidach | Einöde (_Wasteland_) | 49-9-7-63-87439-153 |  |
+| 87437 | Kempten (Allgäu)-Weidachsmühle | Einöde (_Wasteland_) | 49-9-7-63-87437-154 |  |
+| 87439 | Kempten (Allgäu)-Weihers | Einöde (_Wasteland_) | 49-9-7-63-87439-155 |  |
+| 87437 | Kempten (Allgäu)-Wettmannsberg | Einöde (_Wasteland_) | 49-9-7-63-87437-156 |  |
+| 87439 | Kempten (Allgäu)-Wies | Weiler (_Hamlet_) | 49-9-7-63-87439-157 |  |
+| 87439 | Kempten (Allgäu)-Zollhaus | Dorf (_Village_) | 49-9-7-63-87439-158 |  |
 
 ## Landkreis Lindau (Bodensee)
 
