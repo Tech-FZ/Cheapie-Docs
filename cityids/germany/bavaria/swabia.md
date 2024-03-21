@@ -530,14 +530,14 @@ Hinweise:
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
 
-| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft | ID | Notiz |
+| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 87648 | Aitrang | Gemeinde | Biessenhofen | 49-9-7-77-87648 | |
 | 87650 | Baisweil | Gemeinde | Eggenthal | 49-9-7-77-87650 | |
 | 87651 | Bidingen | Gemeinde | Biessenhofen | 49-9-7-77-87651 | |
-| 87640 | Biessenhofen | Gemeinde | Biessenhofen | 49-9-7-77-87640 | |
-| 86807 | Buchloe | Stadt | Buchloe | 49-9-7-77-86807 | |
-| 87653 | Eggenthal | Gemeinde | Eggenthal | 49-9-7-77-87653 | |
+| 87640 | Biessenhofen | Gemeinde | Biessenhofen | 49-9-7-77-87640 | Sitz der VG Biessenhofen |
+| 86807 | Buchloe | Stadt | Buchloe | 49-9-7-77-86807 | Sitz der VG Buchloe |
+| 87653 | Eggenthal | Gemeinde | Eggenthal | 49-9-7-77-87653 | Sitz der VG Eggenthal |
 | 87782 | Eggenthal-Bayersried | Gemarkung | Eggenthal | 49-9-7-77-87782 | |
 | 87637 | Eisenberg _(Allgäu)_ | Gemeinde | Seeg | 49-9-7-77-87637.125 | PLZ wird mit Seeg geteilt |
 | 87654 | Friesenried | Gemeinde | Eggenthal | 49-9-7-77-87654 | |
@@ -557,28 +557,28 @@ Hinweise:
 | 87616 | Marktoberdorf | Kreisstadt | Marktoberdorf | 49-9-7-77-87616.151 | PLZ wird mit Wald geteilt |
 | 87665 | Mauerstetten | Gemeinde | Mauerstetten | 49-9-7-77-87665 | |
 | 87484 | Nesselwang | Markt | Nesselwang | 49-9-7-77-87484 | |
-| 87634 | Obergünzburg | Markt | Obergünzburg | 49-9-7-77-87634.154 | PLZ wird mit Günzach geteilt |
+| 87634 | Obergünzburg | Markt | Obergünzburg | 49-9-7-77-87634.154 | PLZ wird mit Günzach geteilt, Sitz der VG Obergünzburg |
 | 86869 | Oberostendorf | Gemeinde | Westendorf | 49-9-7-77-86869 | |
 | 87662 | Osterzell | Gemeinde | Westendorf | 49-9-7-77-87662.157 | PLZ wird mit Kaltental geteilt |
-| 87666 | Pforzen | Gemeinde | Pforzen | 49-9-7-77-87666 | |
+| 87666 | Pforzen | Gemeinde | Pforzen | 49-9-7-77-87666 | Sitz der VG Pforzen |
 | 87459 | Pfronten | Gemeinde | Pfronten | 49-9-7-77-87459 | |
 | 87675 | Rettenbach am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675.183 | PLZ wird mit Stötten am Auerberg geteilt |
 | 87668 | Rieden _bei Kaufbeuren_ | Gemeinde | Pforzen | 49-9-7-77-87668 | |
 | 87669 | Rieden am Forggensee | Gemeinde | Roßhaupten | 49-9-7-77-87669 | |
 | 87671 | Ronsberg | Markt | Ronsberg | 49-9-7-77-87671 | |
 | 87724 | Ronsberg-Schochen | Einöde | Ronsberg | 49-9-7-77-87724 | |
-| 87672 | Roßhaupten | Gemeinde | Roßhaupten | 49-9-7-77-87672 | |
+| 87672 | Roßhaupten | Gemeinde | Roßhaupten | 49-9-7-77-87672 | Sitz der VG Roßhaupten |
 | 87494 | Rückholz | Gemeinde | Seeg | 49-9-7-77-87494 | |
 | 87674 | Ruderatshofen | Gemeinde | Biessenhofen | 49-9-7-77-87674 | |
 | 87645 | Schwangau | Gemeinde | Schwangau | 49-9-7-77-87645 | |
-| 87637 | Seeg | Gemeinde | Seeg | 49-9-7-77-87637.170 | PLZ wird mit Eisenberg geteilt |
-| 87675 | Stötten am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675.171 | PLZ wird mit Rettenbach am Auerberg geteilt |
+| 87637 | Seeg | Gemeinde | Seeg | 49-9-7-77-87637.170 | PLZ wird mit Eisenberg geteilt, Sitz der VG Seeg |
+| 87675 | Stötten am Auerberg | Gemeinde | Stötten am Auerberg | 49-9-7-77-87675.171 | PLZ wird mit Rettenbach am Auerberg geteilt, Sitz der VG Stötten am Auerberg |
 | 87677 | Stöttwang | Gemeinde | Westendorf | 49-9-7-77-87677 | |
-| 87647 | Unterthingau | Markt | Unterthingau | 49-9-7-77-87647.175 | PLZ wird mit Kraftisried geteilt |
+| 87647 | Unterthingau | Markt | Unterthingau | 49-9-7-77-87647.175 | PLZ wird mit Kraftisried geteilt, Sitz der VG Unterthingau |
 | 87496 | Untrasried | Gemeinde | Obergünzburg | 49-9-7-77-87496 | |
 | 86875 | Waal | Markt | Buchloe | 49-9-7-77-86875 | |
 | 87616 | Wald _(Schwaben)_ | Gemeinde | Seeg | 49-9-7-77-87616.179 | PLZ wird mit Marktoberdorf geteilt |
-| 87679 | Westendorf _(Ostallgäu)_ | Gemeinde | Westendorf | 49-9-7-77-87679 | |
+| 87679 | Westendorf _(Ostallgäu)_ | Gemeinde | Westendorf | 49-9-7-77-87679 | Sitz der VG Westendorf |
 
 ### Marktoberdorf
 
@@ -627,23 +627,23 @@ Hinweise:
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
 
-| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft | ID | Notiz |
+| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 86854 | Amberg _(Schwaben)_ | Gemeinde | Türkheim | 49-9-7-78-86854 | |
 | 87742 | Apfeltrach | Gemeinde | Dirlewang | 49-9-7-78-87742.113 | PLZ wird mit Dirlewang geteilt |
-| 87727 | Babenhausen _(Schwaben)_ | Markt | Babenhausen | 49-9-7-78-87727 | |
-| 87730 | Bad Grönenbach | Markt | Bad Grönenbach | 49-9-7-78-87730 | |
+| 87727 | Babenhausen _(Schwaben)_ | Markt | Babenhausen | 49-9-7-78-87727 | Sitz der VG Babenhausen |
+| 87730 | Bad Grönenbach | Markt | Bad Grönenbach | 49-9-7-78-87730 | Sitz der VG Bad Grönenbach |
 | 86825 | Bad Wörishofen | Stadt | Bad Wörishofen | 49-9-7-78-86825 | |
 | 87734 | Benningen | Gemeinde | Memmingerberg | 49-9-7-78-87734 | |
 | 87736 | Böhen | Gemeinde | Ottobeuren | 49-9-7-78-87736 | |
-| 87737 | Boos _(Schwaben)_ | Gemeinde | Boos | 49-9-7-78-87737 | |
+| 87737 | Boos _(Schwaben)_ | Gemeinde | Boos | 49-9-7-78-87737 | Sitz der VG Boos |
 | 87739 | Breitenbrunn _(Schwaben)_ | Gemeinde | Pfaffenhausen | 49-9-7-78-87739 | |
 | 87740 | Buxheim _(Schwaben)_ | Gemeinde | Buxheim | 49-9-7-78-87740 | |
-| 87742 | Dirlewang | Markt | Dirlewang | 49-9-7-78-87742.127 | PLZ wird mit Apfeltrach geteilt |
+| 87742 | Dirlewang | Markt | Dirlewang | 49-9-7-78-87742.127 | PLZ wird mit Apfeltrach geteilt, Sitz der VG Dirlewang |
 | 87782 | Dirlewang-Wallenried | Einöde | Dirlewang | 49-9-7-78-87782.127 | PLZ wird mit Unteregg geteilt |
 | 87743 | Egg an der Günz | Gemeinde | Babenhausen | 49-9-7-78-87743.130 | PLZ wird mit Lauben-Betzenhausen geteilt |
 | 87745 | Eppishausen | Gemeinde | Kirchheim in Schwaben | 49-9-7-78-87745 | |
-| 87746 | Erkheim | Markt | Erkheim | 49-9-7-78-87746 | |
+| 87746 | Erkheim | Markt | Erkheim | 49-9-7-78-87746 | Sitz der VG Erkheim |
 | 86833 | Ettringen _(Wertach)_ | Gemeinde | Ettringen | 49-9-7-78-86833 | |
 | 87748 | Fellheim | Gemeinde | Boos | 49-9-7-78-87748 | |
 | 87749 | Hawangen | Gemeinde | Ottobeuren | 49-9-7-78-87749 | |
@@ -653,22 +653,22 @@ Hinweise:
 | 86498 | Kettershausen | Gemeinde | Babenhausen | 49-9-7-78-86498 | |
 | 87755 | Kirchhaslach | Gemeinde | Babenhausen | 49-9-7-78-87755 | |
 | 87770 | Kirchhaslach-Beblinstetten | Einöde | Babenhausen | 49-9-7-78-87770.157 | PLZ wird mit Oberschönegg geteilt |
-| 87757 | Kirchheim in Schwaben | Markt | Kirchheim in Schwaben | 49-9-7-78-87757.158 | PLZ wird mit Salgen-Bronnerlehe geteilt |
+| 87757 | Kirchheim in Schwaben | Markt | Kirchheim in Schwaben | 49-9-7-78-87757.158 | PLZ wird mit Salgen-Bronnerlehe geteilt, Sitz der VG Kirchheim in Schwaben |
 | 87758 | Kronburg | Gemeinde | Illerwinkel | 49-9-7-78-87758 | |
 | 87760 | Lachen _(Schwaben)_ | Gemeinde | Memmingerberg | 49-9-7-78-87760 | |
 | 87761 | Lauben _(Unterallgäu)_ | Gemeinde | Erkheim | 49-9-7-78-87761 | |
 | 87743 | Lauben-Betzenhausen _(Unterallgäu)_ | Einöde | Erkheim | 49-9-7-78-87743.163 | PLZ wird mit Egg an der Günz geteilt |
 | 87763 | Lautrach | Gemeinde | Illerwinkel | 49-9-7-78-87763 | |
-| 87764 | Legau | Markt | Illerwinkel | 49-9-7-78-87764 | |
+| 87764 | Legau | Markt | Illerwinkel | 49-9-7-78-87764 | Sitz des Illerwinkels |
 | 87733 | Markt Rettenbach | Markt | Markt Rettenbach | 49-9-7-78-87733 | |
 | 86865 | Markt Wald | Markt | Markt Wald | 49-9-7-78-86865 | |
-| 87766 | Memmingerberg | Gemeinde | Memmingerberg | 49-9-7-78-87766 | |
+| 87766 | Memmingerberg | Gemeinde | Memmingerberg | 49-9-7-78-87766 | Sitz der VG Memmingerberg |
 | 87719 | Mindelheim | Kreisstadt | Mindelheim | 49-9-7-78-87719 | |
 | 87767 | Niederrieden | Gemeinde | Boos | 49-9-7-78-87767 | |
 | 87769 | Oberrieden _(Schwaben)_ | Gemeinde | Pfaffenhausen | 49-9-7-78-87769 | |
 | 87770 | Oberschönegg | Gemeinde | Babenhausen | 49-9-7-78-87770.184 | PLZ wird mit Kirchhaslach-Beblinstetten geteilt |
-| 87724 | Ottobeuren | Markt | Ottobeuren | 49-9-7-78-87724 | |
-| 87772 | Pfaffenhausen | Markt | Pfaffenhausen | 49-9-7-78-87772 | |
+| 87724 | Ottobeuren | Markt | Ottobeuren | 49-9-7-78-87724 | Sitz der VG Ottobeuren |
+| 87772 | Pfaffenhausen | Markt | Pfaffenhausen | 49-9-7-78-87772 | Sitz der VG Pfaffenhausen |
 | 87773 | Pleß | Gemeinde | Boos | 49-9-7-78-87773 | |
 | 86871 | Rammingen _(Bayern)_ | Gemeinde | Türkheim | 49-9-7-78-86871 | |
 | 87775 | Salgen | Gemeinde | Pfaffenhausen | 49-9-7-78-87775 | |
@@ -676,7 +676,7 @@ Hinweise:
 | 87776 | Sontheim _(Schwaben)_ | Gemeinde | Sontheim | 49-9-7-78-87776 | |
 | 87778 | Stetten _(Schwaben)_ | Gemeinde | Dirlewang | 49-9-7-78-87778 | |
 | 87779 | Trunkelsberg | Gemeinde | Memmingerberg | 49-9-7-78-87779 | |
-| 86842 | Türkheim | Markt | Türkheim | 49-9-7-78-86842 | |
+| 86842 | Türkheim | Markt | Türkheim | 49-9-7-78-86842 | Sitz der VG Türkheim |
 | 86874 | Tussenhausen | Markt | Tussenhausen | 49-9-7-78-86874 | |
 | 87781 | Ungerhausen | Gemeinde | Memmingerberg | 49-9-7-78-87781 | |
 | 87782 | Unteregg | Gemeinde | Dirlewang | 49-9-7-78-87782.207 | PLZ wird mit Dirlewang-Wallenried geteilt |
