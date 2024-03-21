@@ -493,7 +493,7 @@ Hinweise:
 - Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
 - Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
 
-| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft | ID | Notiz |
+| PLZ | Gemarkung/Stadtname | Status | Verwaltungsgemeinschaft (VG) | ID | Notiz |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
 | 87452 | Altusried | Markt | Altusried | 49-9-7-80-87452 | |
 | 87541 | Bad Hindelang | Markt | Bad Hindelang | 49-9-7-80-87541 | |
@@ -505,7 +505,7 @@ Hinweise:
 | 87545 | Burgberg im Allgäu | Gemeinde | Burgberg im Allgäu | 49-9-7-80-87545 | |
 | 87463 | Dietmannsried | Markt | Dietmannsried | 49-9-7-80-87463 | |
 | 87471 | Durach | Gemeinde | Durach | 49-9-7-80-87471 | |
-| 87538 | Fischen im Allgäu | Gemeinde | Hörnergruppe | 49-9-7-80-87538.121 | PLZ wird mit Balderschwang, Obermaiselstein und Bolsterlang geteilt |
+| 87538 | Fischen im Allgäu | Gemeinde | Hörnergruppe | 49-9-7-80-87538.121 | PLZ wird mit Balderschwang, Obermaiselstein und Bolsterlang geteilt, Sitz der Hörnergruppe |
 | 87490 | Haldenwang _(Oberallgäu)_ | Gemeinde | Haldenwang | 49-9-7-80-87490 | |
 | 87509 | Immenstadt im Allgäu | Stadt | Immenstadt im Allgäu | 49-9-7-80-87509 | |
 | 87493 | Lauben _(Oberallgäu)_ | Gemeinde | Lauben | 49-9-7-80-87493 | |
@@ -519,7 +519,7 @@ Hinweise:
 | 87527 | Sonthofen | Kreisstadt | Sonthofen | 49-9-7-80-87527.139 | PLZ wird mit Ofterschwang geteilt |
 | 87477 | Sulzberg _(Oberallgäu)_ | Markt | Sulzberg | 49-9-7-80-87477 | |
 | 87448 | Waltenhofen | Gemeinde | Waltenhofen | 49-9-7-80-87448 | |
-| 87480 | Weitnau | Markt | Weitnau | 49-9-7-80-87480 | |
+| 87480 | Weitnau | Markt | Weitnau | 49-9-7-80-87480 | Sitz der VG Weitnau |
 | 87497 | Wertach | Markt | Wertach | 49-9-7-80-87497 | |
 | 87487 | Wiggensbach | Markt | Wiggensbach | 49-9-7-80-87487 | |
 | 87499 | Wildpoldsried | Gemeinde | Wildpoldsried | 49-9-7-80-87499 | |
