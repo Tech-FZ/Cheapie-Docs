@@ -649,21 +649,21 @@ Notes (EN):
 
 | PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
-| 86854 | Amberg _(Schwaben)_ | Gemeinde (_Municipality_) | Türkheim | 49-9-7-78-86854 | |
-| 87742 | Apfeltrach | Gemeinde (_Municipality_) | Dirlewang | 49-9-7-78-87742.113 | PLZ wird mit Dirlewang geteilt |
-| 87727 | Babenhausen _(Schwaben)_ | Markt | Babenhausen | 49-9-7-78-87727 | Sitz der VG Babenhausen |
-| 87730 | Bad Grönenbach | Markt | Bad Grönenbach | 49-9-7-78-87730 | Sitz der VG Bad Grönenbach |
-| 86825 | Bad Wörishofen | Stadt | Bad Wörishofen | 49-9-7-78-86825 | |
+| 86854 | Amberg _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Türkheim | 49-9-7-78-86854 | |
+| 87742 | Apfeltrach | Gemeinde (_Municipality_) | Dirlewang | 49-9-7-78-87742.113 | PLZ wird mit Dirlewang geteilt (_Postcode same as Dirlewang_) |
+| 87727 | Babenhausen _(Schwaben/Swabia)_ | Markt (_Market_) | Babenhausen | 49-9-7-78-87727 | Sitz der VG Babenhausen (_Seat of VG Babenhausen_) |
+| 87730 | Bad Grönenbach | Markt (_Market_) | Bad Grönenbach | 49-9-7-78-87730 | Sitz der VG Bad Grönenbach (_Seat of VG Bad Grönenbach_) |
+| 86825 | Bad Wörishofen | Stadt (_City_) | Bad Wörishofen | 49-9-7-78-86825 | |
 | 87734 | Benningen | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87734 | |
 | 87736 | Böhen | Gemeinde (_Municipality_) | Ottobeuren | 49-9-7-78-87736 | |
-| 87737 | Boos _(Schwaben)_ | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87737 | Sitz der VG Boos |
-| 87739 | Breitenbrunn _(Schwaben)_ | Gemeinde (_Municipality_) | Pfaffenhausen | 49-9-7-78-87739 | |
-| 87740 | Buxheim _(Schwaben)_ | Gemeinde (_Municipality_) | Buxheim | 49-9-7-78-87740 | |
-| 87742 | Dirlewang | Markt | Dirlewang | 49-9-7-78-87742.127 | PLZ wird mit Apfeltrach geteilt, Sitz der VG Dirlewang |
-| 87782 | Dirlewang-Wallenried | Einöde | Dirlewang | 49-9-7-78-87782.127 | PLZ wird mit Unteregg geteilt |
-| 87743 | Egg an der Günz | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87743.130 | PLZ wird mit Lauben-Betzenhausen geteilt |
+| 87737 | Boos _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87737 | Sitz der VG Boos (_Seat of VG Boos_) |
+| 87739 | Breitenbrunn _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Pfaffenhausen | 49-9-7-78-87739 | |
+| 87740 | Buxheim _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Buxheim | 49-9-7-78-87740 | |
+| 87742 | Dirlewang | Markt (_Market_) | Dirlewang | 49-9-7-78-87742.127 | PLZ wird mit Apfeltrach geteilt, Sitz der VG Dirlewang (_Postcode same as Apfeltrach, seat of VG Dirlewang_) |
+| 87782 | Dirlewang-Wallenried | Einöde (_Wasteland_) | Dirlewang | 49-9-7-78-87782.127 | PLZ wird mit Unteregg geteilt (_Postcode same as Unteregg_) |
+| 87743 | Egg an der Günz | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87743.130 | PLZ wird mit Lauben-Betzenhausen geteilt (_Postcode same as Lauben-Betzenhausen_) |
 | 87745 | Eppishausen | Gemeinde (_Municipality_) | Kirchheim in Schwaben | 49-9-7-78-87745 | |
-| 87746 | Erkheim | Markt | Erkheim | 49-9-7-78-87746 | Sitz der VG Erkheim |
+| 87746 | Erkheim | Markt (_Market_) | Erkheim | 49-9-7-78-87746 | Sitz der VG Erkheim (_Seat of VG Erkheim_) |
 | 86833 | Ettringen _(Wertach)_ | Gemeinde (_Municipality_) | Ettringen | 49-9-7-78-86833 | |
 | 87748 | Fellheim | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87748 | |
 | 87749 | Hawangen | Gemeinde (_Municipality_) | Ottobeuren | 49-9-7-78-87749 | |
@@ -672,35 +672,35 @@ Notes (EN):
 | 87754 | Kammlach | Gemeinde (_Municipality_) | Erkheim | 49-9-7-78-87754 | |
 | 86498 | Kettershausen | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-86498 | |
 | 87755 | Kirchhaslach | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87755 | |
-| 87770 | Kirchhaslach-Beblinstetten | Einöde | Babenhausen | 49-9-7-78-87770.157 | PLZ wird mit Oberschönegg geteilt |
-| 87757 | Kirchheim in Schwaben | Markt | Kirchheim in Schwaben | 49-9-7-78-87757.158 | PLZ wird mit Salgen-Bronnerlehe geteilt, Sitz der VG Kirchheim in Schwaben |
+| 87770 | Kirchhaslach-Beblinstetten | Einöde (_Wasteland_) | Babenhausen | 49-9-7-78-87770.157 | PLZ wird mit Oberschönegg geteilt (_Postcode same as Oberschönegg_) |
+| 87757 | Kirchheim in Schwaben | Markt (_Market_) | Kirchheim in Schwaben | 49-9-7-78-87757.158 | PLZ wird mit Salgen-Bronnerlehe geteilt, Sitz der VG Kirchheim in Schwaben (_Postcode same as Salgen-Bronnerlehe, seat of VG Kirchheim in Schwaben_) |
 | 87758 | Kronburg | Gemeinde (_Municipality_) | Illerwinkel | 49-9-7-78-87758 | |
-| 87760 | Lachen _(Schwaben)_ | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87760 | |
+| 87760 | Lachen _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87760 | |
 | 87761 | Lauben _(Unterallgäu)_ | Gemeinde (_Municipality_) | Erkheim | 49-9-7-78-87761 | |
-| 87743 | Lauben-Betzenhausen _(Unterallgäu)_ | Einöde | Erkheim | 49-9-7-78-87743.163 | PLZ wird mit Egg an der Günz geteilt |
+| 87743 | Lauben-Betzenhausen _(Unterallgäu)_ | Einöde (_Wasteland_) | Erkheim | 49-9-7-78-87743.163 | PLZ wird mit Egg an der Günz geteilt (_Postcode same as Egg an der Günz_) |
 | 87763 | Lautrach | Gemeinde (_Municipality_) | Illerwinkel | 49-9-7-78-87763 | |
-| 87764 | Legau | Markt | Illerwinkel | 49-9-7-78-87764 | Sitz des Illerwinkels |
-| 87733 | Markt Rettenbach | Markt | Markt Rettenbach | 49-9-7-78-87733 | |
-| 86865 | Markt Wald | Markt | Markt Wald | 49-9-7-78-86865 | |
-| 87766 | Memmingerberg | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87766 | Sitz der VG Memmingerberg |
-| 87719 | Mindelheim | Kreisstadt | Mindelheim | 49-9-7-78-87719 | |
+| 87764 | Legau | Markt (_Market_) | Illerwinkel | 49-9-7-78-87764 | Sitz des Illerwinkels (_Seat of Illerwinkel_) |
+| 87733 | Markt Rettenbach | Markt (_Market_) | Markt Rettenbach | 49-9-7-78-87733 | |
+| 86865 | Markt Wald | Markt (_Market_) | Markt Wald | 49-9-7-78-86865 | |
+| 87766 | Memmingerberg | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87766 | Sitz der VG Memmingerberg (_Seat of VG Memmingerberg_) |
+| 87719 | Mindelheim | Kreisstadt (_Capital_) | Mindelheim | 49-9-7-78-87719 | |
 | 87767 | Niederrieden | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87767 | |
-| 87769 | Oberrieden _(Schwaben)_ | Gemeinde (_Municipality_) | Pfaffenhausen | 49-9-7-78-87769 | |
-| 87770 | Oberschönegg | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87770.184 | PLZ wird mit Kirchhaslach-Beblinstetten geteilt |
-| 87724 | Ottobeuren | Markt | Ottobeuren | 49-9-7-78-87724 | Sitz der VG Ottobeuren |
-| 87772 | Pfaffenhausen | Markt | Pfaffenhausen | 49-9-7-78-87772 | Sitz der VG Pfaffenhausen |
+| 87769 | Oberrieden _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Pfaffenhausen | 49-9-7-78-87769 | |
+| 87770 | Oberschönegg | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87770.184 | PLZ wird mit Kirchhaslach-Beblinstetten geteilt (_Postcode same as Kirchhaslach-Beblinstetten_) |
+| 87724 | Ottobeuren | Markt (_Market_) | Ottobeuren | 49-9-7-78-87724 | Sitz der VG Ottobeuren (_Seat of VG Ottobeuren_) |
+| 87772 | Pfaffenhausen | Markt (_Market_) | Pfaffenhausen | 49-9-7-78-87772 | Sitz der VG Pfaffenhausen (_Seat of VG Pfaffenhausen_) |
 | 87773 | Pleß | Gemeinde (_Municipality_) | Boos | 49-9-7-78-87773 | |
-| 86871 | Rammingen _(Bayern)_ | Gemeinde (_Municipality_) | Türkheim | 49-9-7-78-86871 | |
+| 86871 | Rammingen _(Bayern/Bavaria)_ | Gemeinde (_Municipality_) | Türkheim | 49-9-7-78-86871 | |
 | 87775 | Salgen | Gemeinde (_Municipality_) | Pfaffenhausen | 49-9-7-78-87775 | |
-| 87757 | Salgen-Bronnerlehe | Weiler | Pfaffenhausen | 49-9-7-78-87757.190 | PLZ wird mit Kirchheim in Schwaben geteilt |
-| 87776 | Sontheim _(Schwaben)_ | Gemeinde (_Municipality_) | Sontheim | 49-9-7-78-87776 | |
-| 87778 | Stetten _(Schwaben)_ | Gemeinde (_Municipality_) | Dirlewang | 49-9-7-78-87778 | |
+| 87757 | Salgen-Bronnerlehe | Weiler (_Hamlet_) | Pfaffenhausen | 49-9-7-78-87757.190 | PLZ wird mit Kirchheim in Schwaben geteilt (_Postcode same as Kirchheim in Schwaben_) |
+| 87776 | Sontheim _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Sontheim | 49-9-7-78-87776 | |
+| 87778 | Stetten _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Dirlewang | 49-9-7-78-87778 | |
 | 87779 | Trunkelsberg | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87779 | |
-| 86842 | Türkheim | Markt | Türkheim | 49-9-7-78-86842 | Sitz der VG Türkheim |
-| 86874 | Tussenhausen | Markt | Tussenhausen | 49-9-7-78-86874 | |
+| 86842 | Türkheim | Markt (_Market_) | Türkheim | 49-9-7-78-86842 | Sitz der VG Türkheim (_Seat of VG Türkheim_) |
+| 86874 | Tussenhausen | Markt (_Market_) | Tussenhausen | 49-9-7-78-86874 | |
 | 87781 | Ungerhausen | Gemeinde (_Municipality_) | Memmingerberg | 49-9-7-78-87781 | |
-| 87782 | Unteregg | Gemeinde (_Municipality_) | Dirlewang | 49-9-7-78-87782.207 | PLZ wird mit Dirlewang-Wallenried geteilt |
-| 87784 | Westerheim _(Schwaben)_ | Gemeinde (_Municipality_) | Erkheim | 49-9-7-78-87784 | |
+| 87782 | Unteregg | Gemeinde (_Municipality_) | Dirlewang | 49-9-7-78-87782.207 | PLZ wird mit Dirlewang-Wallenried geteilt (_Postcode same as Dirlewang-Wallenried_) |
+| 87784 | Westerheim _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Erkheim | 49-9-7-78-87784 | |
 | 86879 | Wiedergeltingen | Gemeinde (_Municipality_) | Türkheim | 49-9-7-78-86879 | |
 | 87785 | Winterrieden | Gemeinde (_Municipality_) | Babenhausen | 49-9-7-78-87785 | |
 | 87787 | Wolfertschwenden | Gemeinde (_Municipality_) | Bad Grönenbach | 49-9-7-78-87787 | |
