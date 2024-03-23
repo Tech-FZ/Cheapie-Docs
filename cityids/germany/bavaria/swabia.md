@@ -436,26 +436,26 @@ Notes (EN):
 
 | PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
-| 88131 | Bodolz | Gemeinde (_Municipality_) | Bodolz | 49-9-7-76-88131.111 | PLZ wird mit Lindau (Bodensee) geteilt |
-| 88167 | Gestratz | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.112 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
-| 88167 | Grünenbach | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.113 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
-| 88178 | Heimenkirch | Markt | Heimenkirch | 49-9-7-76-88178 | |
-| 88145 | Hergatz | Gemeinde (_Municipality_) | Hergatz | 49-9-7-76-88145.131 | PLZ wird mit Opfenbach geteilt |
-| 88138 | Hergensweiler | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88138.115 | PLZ wird mit Sigmarszell und Weißensberg geteilt |
-| 88131 | Lindau (Bodensee) | Große Kreisstadt | Lindau (Bodensee) | 49-9-7-76-88131.116 | PLZ wird mit Bodolz geteilt |
-| 88161 | Lindenberg im Allgäu | Stadt | Lindenberg im Allgäu | 49-9-7-76-88161 | |
-| 88167 | Maierhöfen | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.118 | PLZ für gesamte VG Argental und Gde. Stiefenhofen |
+| 88131 | Bodolz | Gemeinde (_Municipality_) | Bodolz | 49-9-7-76-88131.111 | PLZ wird mit Lindau (Bodensee) geteilt (_Postcode same as Lindau (Bodensee)_) |
+| 88167 | Gestratz | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.112 | PLZ für gesamte VG Argental und Gde. Stiefenhofen (_Postcode same as VG Argental and Gde. Stiefenhofen_) |
+| 88167 | Grünenbach | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.113 | PLZ für gesamte VG Argental und Gde. Stiefenhofen (_Postcode same as VG Argental and Gde. Stiefenhofen_) |
+| 88178 | Heimenkirch | Markt (_Market_) | Heimenkirch | 49-9-7-76-88178 | |
+| 88145 | Hergatz | Gemeinde (_Municipality_) | Hergatz | 49-9-7-76-88145.131 | PLZ wird mit Opfenbach geteilt (_Postcode same as Opfenbach_) |
+| 88138 | Hergensweiler | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88138.115 | PLZ wird mit Sigmarszell und Weißensberg geteilt (_Postcode same as Sigmarszell and Weißensberg_) |
+| 88131 | Lindau (Bodensee) | Große Kreisstadt (_Great capital_) | Lindau (Bodensee) | 49-9-7-76-88131.116 | PLZ wird mit Bodolz geteilt (_Postcode same as Bodolz_) |
+| 88161 | Lindenberg im Allgäu | Stadt (_City_) | Lindenberg im Allgäu | 49-9-7-76-88161 | |
+| 88167 | Maierhöfen | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.118 | PLZ für gesamte VG Argental und Gde. Stiefenhofen (_Postcode same as VG Argental and Gde. Stiefenhofen_) |
 | 88149 | Nonnenhorn | Gemeinde (_Municipality_) | Nonnenhorn | 49-9-7-76-88149 | |
 | 88179 | Oberreute | Gemeinde (_Municipality_) | Stiefenhofen | 49-9-7-76-88179 | |
-| 88145 | Opfenbach | Gemeinde (_Municipality_) | Opfenbach | 49-9-7-76-88145.122 | PLZ wird mit Hergatz geteilt |
-| 88167 | Röthenbach (Allgäu) | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.124 | PLZ für gesamte VG Argental und Gde. Stiefenhofen, Sitz der VG Argental |
-| 88175 | Scheidegg | Markt | Scheidegg | 49-9-7-76-88175.125 | PLZ wird mit Sigmarszell geteilt |
-| 88138 | Sigmarszell | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88138.126 | PLZ wird mit Hergensweiler und Weißensberg geteilt, Sitz der VG Sigmarszell |
-| 88175 | Sigmarszell | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88175.126 | PLZ wird mit Scheidegg geteilt |
-| 88167 | Stiefenhofen | Gemeinde (_Municipality_) | Stiefenhofen | 49-9-7-76-88167.127 | PLZ wird mit VG Argental geteilt, Sitz der VG Stiefenhofen |
+| 88145 | Opfenbach | Gemeinde (_Municipality_) | Opfenbach | 49-9-7-76-88145.122 | PLZ wird mit Hergatz geteilt (_Postcode same as Hergatz_) |
+| 88167 | Röthenbach (Allgäu) | Gemeinde (_Municipality_) | Argental | 49-9-7-76-88167.124 | PLZ für gesamte VG Argental und Gde. Stiefenhofen, Sitz der VG Argental (_Postcode same as VG Argental and Gde. Stiefenhofen, seat of VG Argental_) |
+| 88175 | Scheidegg | Markt (_Market_) | Scheidegg | 49-9-7-76-88175.125 | PLZ wird mit Sigmarszell geteilt (_Postcode same as Sigmarszell_) |
+| 88138 | Sigmarszell | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88138.126 | PLZ wird mit Hergensweiler und Weißensberg geteilt, Sitz der VG Sigmarszell (_Postcode same as Hergensweiler and Weißensberg, seat of VG Sigmarszell_) |
+| 88175 | Sigmarszell | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88175.126 | PLZ wird mit Scheidegg geteilt (_Postcode same as Scheidegg_) |
+| 88167 | Stiefenhofen | Gemeinde (_Municipality_) | Stiefenhofen | 49-9-7-76-88167.127 | PLZ wird mit VG Argental geteilt, Sitz der VG Stiefenhofen (_Postcode same as VG Argental, seat of VG Stiefenhofen_) |
 | 88142 | Wasserburg (Bodensee) | Gemeinde (_Municipality_) | Wasserburg (Bodensee) | 49-9-7-76-88142 | |
-| 88171 | Weiler-Simmerberg | Markt | Weiler-Simmerberg | 49-9-7-76-88171 | |
-| 88138 | Weißensberg | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88138.130 | PLZ wird mit Hergensweiler und Sigmarszell geteilt |
+| 88171 | Weiler-Simmerberg | Markt (_Market_) | Weiler-Simmerberg | 49-9-7-76-88171 | |
+| 88138 | Weißensberg | Gemeinde (_Municipality_) | Sigmarszell | 49-9-7-76-88138.130 | PLZ wird mit Hergensweiler und Sigmarszell geteilt (_Postcode same as Hergensweiler and Sigmarszell_) |
 
 ## Kreisfreie Stadt Memmingen
 
