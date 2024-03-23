@@ -465,7 +465,7 @@ Notes (EN):
 
 | PLZ | Ortsname (_District name_) | Status | ID | Notiz (_Note_) |
 | --- | -------- | ------ | -- | ----- |
-| 87700 | Memmingen | Hauptort (_Core city_) | 49-9-7-64-87700-1 | Verwaltungssitz |
+| 87700 | Memmingen | Hauptort (_Core city_) | 49-9-7-64-87700-1 | Verwaltungssitz (_Administrative seat_) |
 | 87700 | Memmingen-Amendingen | Pfarrdorf (_Parish village_) | 49-9-7-64-87700-2 | |
 | 87700 | Memmingen-Bleiche | Weiler (_Hamlet_) | 49-9-7-64-87700-3 | |
 | 87700 | Memmingen-Brunnen | Dorf (_Village_) | 49-9-7-64-87700-4 | |
