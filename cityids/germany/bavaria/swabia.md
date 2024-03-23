@@ -506,33 +506,33 @@ Notes (EN):
 
 | PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
 | --- | -------- | ------ | ------------------------ | --- | ----- |
-| 87452 | Altusried | Markt | Altusried | 49-9-7-80-87452 | |
-| 87541 | Bad Hindelang | Markt | Bad Hindelang | 49-9-7-80-87541 | |
-| 87538 | Balderschwang | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.113 | PLZ wird mit Bolsterlang, Obermaiselstein und Fischen im Allgäu geteilt |
+| 87452 | Altusried | Markt (_Market_) | Altusried | 49-9-7-80-87452 | |
+| 87541 | Bad Hindelang | Markt (_Market_) | Bad Hindelang | 49-9-7-80-87541 | |
+| 87538 | Balderschwang | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.113 | PLZ wird mit Bolsterlang, Obermaiselstein und Fischen im Allgäu geteilt (_Postcode same as Bolsterlang, Obermaiselstein and Fischen im Allgäu_) |
 | 87488 | Betzigau | Gemeinde (_Municipality_) | Betzigau | 49-9-7-80-87488 | |
 | 87544 | Blaichach | Gemeinde (_Municipality_) | Blaichach | 49-9-7-80-87544 | |
-| 87538 | Bolsterlang | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.116 | PLZ wird mit Balderschwang, Obermaiselstein und Fischen im Allgäu geteilt |
-| 87474 | Buchenberg | Markt | Buchenberg | 49-9-7-80-87474 | |
+| 87538 | Bolsterlang | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.116 | PLZ wird mit Balderschwang, Obermaiselstein und Fischen im Allgäu geteilt (_Postcode same as Balderschwang, Obermaiselstein and Fischen im Allgäu_) |
+| 87474 | Buchenberg | Markt (_Market_) | Buchenberg | 49-9-7-80-87474 | |
 | 87545 | Burgberg im Allgäu | Gemeinde (_Municipality_) | Burgberg im Allgäu | 49-9-7-80-87545 | |
-| 87463 | Dietmannsried | Markt | Dietmannsried | 49-9-7-80-87463 | |
+| 87463 | Dietmannsried | Markt (_Market_) | Dietmannsried | 49-9-7-80-87463 | |
 | 87471 | Durach | Gemeinde (_Municipality_) | Durach | 49-9-7-80-87471 | |
-| 87538 | Fischen im Allgäu | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.121 | PLZ wird mit Balderschwang, Obermaiselstein und Bolsterlang geteilt, Sitz der Hörnergruppe |
+| 87538 | Fischen im Allgäu | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.121 | PLZ wird mit Balderschwang, Obermaiselstein und Bolsterlang geteilt, Sitz der Hörnergruppe (_Postcode same as Balderschwang, Obermaiselstein and Bolsterlang, seat of Hörnergruppe_) |
 | 87490 | Haldenwang _(Oberallgäu)_ | Gemeinde (_Municipality_) | Haldenwang | 49-9-7-80-87490 | |
-| 87509 | Immenstadt im Allgäu | Stadt | Immenstadt im Allgäu | 49-9-7-80-87509 | |
+| 87509 | Immenstadt im Allgäu | Stadt (_City_) | Immenstadt im Allgäu | 49-9-7-80-87509 | |
 | 87493 | Lauben _(Oberallgäu)_ | Gemeinde (_Municipality_) | Lauben | 49-9-7-80-87493 | |
 | 87547 | Missen-Wilhams | Gemeinde (_Municipality_) | Weitnau | 49-9-7-80-87547 | |
-| 87538 | Obermaiselstein | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.131 | PLZ wird mit Balderschwang, Bolsterlang und Fischen im Allgäu geteilt |
-| 87534 | Oberstaufen | Markt | Oberstaufen | 49-9-7-80-87534 | |
-| 87561 | Oberstdorf | Markt | Oberstdorf | 49-9-7-80-87561 | |
-| 87527 | Ofterschwang | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87527.134 | PLZ wird mit Sonthofen geteilt |
+| 87538 | Obermaiselstein | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87538.131 | PLZ wird mit Balderschwang, Bolsterlang und Fischen im Allgäu geteilt (_Postcode same as Balderschwang, Bolsterlang and Fischen im Allgäu_) |
+| 87534 | Oberstaufen | Markt (_Market_) | Oberstaufen | 49-9-7-80-87534 | |
+| 87561 | Oberstdorf | Markt (_Market_) | Oberstdorf | 49-9-7-80-87561 | |
+| 87527 | Ofterschwang | Gemeinde (_Municipality_) | Hörnergruppe | 49-9-7-80-87527.134 | PLZ wird mit Sonthofen geteilt (_Postcode same as Sonthofen_) |
 | 87466 | Oy-Mittelberg | Gemeinde (_Municipality_) | Oy-Mittelberg | 49-9-7-80-87466 | |
 | 87549 | Rettenberg | Gemeinde (_Municipality_) | Rettenberg | 49-9-7-80-87549 | |
-| 87527 | Sonthofen | Kreisstadt | Sonthofen | 49-9-7-80-87527.139 | PLZ wird mit Ofterschwang geteilt |
-| 87477 | Sulzberg _(Oberallgäu)_ | Markt | Sulzberg | 49-9-7-80-87477 | |
+| 87527 | Sonthofen | Kreisstadt (_Capital_) | Sonthofen | 49-9-7-80-87527.139 | PLZ wird mit Ofterschwang geteilt (_Postcode same as Ofterschwang_) |
+| 87477 | Sulzberg _(Oberallgäu)_ | Markt (_Market_) | Sulzberg | 49-9-7-80-87477 | |
 | 87448 | Waltenhofen | Gemeinde (_Municipality_) | Waltenhofen | 49-9-7-80-87448 | |
-| 87480 | Weitnau | Markt | Weitnau | 49-9-7-80-87480 | Sitz der VG Weitnau |
-| 87497 | Wertach | Markt | Wertach | 49-9-7-80-87497 | |
-| 87487 | Wiggensbach | Markt | Wiggensbach | 49-9-7-80-87487 | |
+| 87480 | Weitnau | Markt (_Market_) | Weitnau | 49-9-7-80-87480 | Sitz der VG Weitnau (_Seat of VG Weitnau_) |
+| 87497 | Wertach | Markt (_Market_) | Wertach | 49-9-7-80-87497 | |
+| 87487 | Wiggensbach | Markt (_Market_) | Wiggensbach | 49-9-7-80-87487 | |
 | 87499 | Wildpoldsried | Gemeinde (_Municipality_) | Wildpoldsried | 49-9-7-80-87499 | |
 
 ## Landkreis Ostallgäu
