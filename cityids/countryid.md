@@ -66,6 +66,12 @@
 | British Indian Ocean Territory | _Diego Garcia_ | 246 | Part of the UK |
 | Armenia | Yerevan | 374 | |
 | Artsakh | Stepanakert | 215 | Officially part of Azerbaijan |
+| Malaysia | Kuala Lumpur (official), Putrajaya (administrative/judical) | 60 | |
+| Indonesia | Jakarta | 62 | |
+| Philippines | Manila | 63 | |
+| Singapore | Singapore | 65 | |
+| Thailand | Bangkok | 66 | |
+| East Timor | Dili | 670 | |
 
 ## North America
 
@@ -137,11 +143,15 @@
 | Suriname | Paramaribo | 597 | |
 | Uruguay | Montevideo | 598 | |
 
-## Oceania
+## Australia/Oceania
 
 | Country | Capital | ID | Notes |
 | ------- | ------- | -- | ----- |
 | American Samoa | Pago Pago | 1684 | Part of the USA |
+| Australia | Canberra | 61 | |
+| Cocos Islands | West Island | 6182 | Part of Australia |
+| Christmas Island | Flying Fish Cove | 6184 | Part of Australia |
+| New Zealand | Wellington | 64 | |
 
 ## Africa
 
@@ -209,3 +219,8 @@
 | Tristan de Cunha | Edinburgh of the Seven Seas | 2908 | Part of the UK |
 | Eritrea | Asmara | 291 | |
 
+## Antarctica
+
+| Country | Capital | ID | Notes |
+| ------- | ------- | -- | ----- |
+| Australian Antarctic Territory | Davis Station | 6721 | Part of Australia |
