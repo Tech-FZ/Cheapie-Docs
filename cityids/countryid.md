@@ -28,7 +28,6 @@
 | Latvia | Riga | 371 | |
 | Estonia | Tallinn | 372 | |
 | Moldova | Chișinău | 373 | |
-| Armenia | Yerevan | 374 | |
 | Belarus | Minsk | 375 | |
 | Andorra | Andorra la Vella | 376 | |
 | Monaco | Monaco | 377 | |
@@ -57,6 +56,7 @@
 | Poland | Warsaw | 48 | |
 | Crimea | _Sevastopol_ | 37 | Officially part of Ukraine, but receives its own ID due to Russian occupation |
 | Faroe Islands | Tórshavn | 298 | Part of Denmark |
+| Transnistria | Tiraspol | 38 | Officially part of Moldova |
 
 ## Asia
 
@@ -64,6 +64,8 @@
 | ------- | ------- | -- | ----- |
 | Japan | Tokyo | 81 | |
 | British Indian Ocean Territory | _Diego Garcia_ | 246 | Part of the UK |
+| Armenia | Yerevan | 374 | |
+| Artsakh | Stepanakert | 215 | Officially part of Azerbaijan |
 
 ## North America
 
@@ -94,12 +96,32 @@
 | Trinidad and Tobago | Port of Spain | 1868 | |
 | Saint Kitts and Nevis | Basseterre | 1869 | |
 | Greenland | Nuuk | 299 | Part of Denmark |
+| Belize | Belmopan | 501 | |
+| Guatemala | Guatemala City | 502 | |
+| El Salvador | San Salvador | 503 | |
+| Honduras | Tegucigalpa (official), Comayagüela (co-official) | 504 | |
+| Nicaragua | Managua | 505 | |
+| Costa Rica | San José | 506 | |
+| Panama | Panama City | 507 | |
+| Saint-Pierre and Miquelon | Marigot | 508 | Part of France |
+| Haiti | Port-au-Prince | 509 | |
+| Mexico | Mexico City | 52 | |
+| Cuba | Havana | 53 | |
+| Guadeloupe | Basse-Terre | 590 | Part of France |
 
 ## South America
 
 | Country | Capital | ID | Notes |
 | ------- | ------- | -- | ----- |
 | Aruba | Oranjestad | 297 | Part of the Netherlands |
+| Falkland Islands | Stanley | 500 | Part of the UK |
+| South Georgia and the South Sandwich Islands | King Edward Point | 217 | Part of the UK |
+| Peru | Lima | 51 | |
+| Argentina | Buenos Aires | 54 | |
+| Brazil | Brasilia | 55 | |
+| Chile | Santiago | 56 | |
+| Colombia | Bogotá | 57 | |
+| Venezuela | Caracas | 58 | |
 
 ## Oceania
 
