@@ -597,45 +597,45 @@ Notes (EN):
 
 ### Marktoberdorf
 
-| PLZ | Ortsname | Status | Gemarkung | ID | Notiz |
+| PLZ | Ortsname (_District name_) | Status | Gemarkung (_District_) | ID | Notiz (_Notes_) |
 | --- | -------- | ------ | -- | -- | ----- |
-| 87616 | Marktoberdorf | Hauptort | Marktoberdorf | 49-9-7-77-87616.151-1 | Verwaltungssitz |
-| 87616 | Marktoberdorf-Balteratsried | Dorf | Sulzschneid | 49-9-7-77-87616.151-2 | |
-| 87616 | Marktoberdorf-Bertoldshofen | Pfarrdorf | Bertoldshofen | 49-9-7-77-87616.151-3 | |
-| 87616 | Marktoberdorf-Burk | Kirchdorf | Bertoldshofen | 49-9-7-77-87616.151-4 |  |
-| 87616 | Marktoberdorf-Egratsried | Weiler | Geisenried | 49-9-7-77-87616.151-13 |  |
-| 87616 | Marktoberdorf-Ennenhofen | Siedlung | Marktoberdorf | 49-9-7-77-87616.151-6 |  |
-| 87616 | Marktoberdorf-Ettwiesen | Weiler | Marktoberdorf | 49-9-7-77-87616.151-5 |  |
-| 87616 | Marktoberdorf-Fechsen | Dorf | Leuterschach | 49-9-7-77-87616.151-17 |  |
-| 87616 | Marktoberdorf-Gehren | Weiler | Bertoldshofen | 49-9-7-77-87616.151-8 |  |
-| 87616 | Marktoberdorf-Geisenried | Pfarrdorf | Geisenried | 49-9-7-77-87616.151-12 |  |
-| 87616 | Marktoberdorf-Hagmoos | Weiler | Bertoldshofen | 49-9-7-77-87616.151-9 |  |
-| 87616 | Marktoberdorf-Hattenhofen | Kirchdorf | Geisenried | 49-9-7-77-87616.151-14 |  |
-| 87616 | Marktoberdorf-Hausen | Dorf | Bertoldshofen | 49-9-7-77-87616.151-10 |  |
-| 87616 | Marktoberdorf-Heiland | Dorf | Rieder | 49-9-7-77-87616.151-21 |  |
-| 87616 | Marktoberdorf-Hummeratsried | Pfarrdorf | Sulzschneid | 49-9-7-77-87616.151-25 |  |
-| 87616 | Marktoberdorf-Kohlhunden | Dorf | Marktoberdorf | 49-9-7-77-87616.151-7 |  |
-| 87616 | Marktoberdorf-Leuterschach | Pfarrdorf | Leuterschach | 49-9-7-77-87616.151-16 |  |
-| 87616 | Marktoberdorf-Liebwies | unbekannt | Geisenried | 49-9-7-77-87616.151-15 |  |
-| 87616 | Marktoberdorf-Osterried | Dorf | Rieder | 49-9-7-77-87616.151-22 |  |
-| 87616 | Marktoberdorf-Rieder | Kirchdorf | Rieder | 49-9-7-77-87616.151-20 |  |
-| 87616 | Marktoberdorf-Ronried | Dorf | Leuterschach | 49-9-7-77-87616.151-18 |  |
-| 87616 | Marktoberdorf-Schwenden | Pfarrdorf | Leuterschach | 49-9-7-77-87616.151-19 |  |
-| 87616 | Marktoberdorf-Selbensberg | Dorf | Bertoldshofen | 49-9-7-77-87616.151-11 |  |
-| 87616 | Marktoberdorf-Sulzschneid | Pfarrdorf | Sulzschneid | 49-9-7-77-87616.151-24 |  |
-| 87616 | Marktoberdorf-Thalhofen an der Wertach | Pfarrdorf | Thalhofen an der Wertach | 49-9-7-77-87616.151-26 |  |
-| 87616 | Marktoberdorf-Weibletshofen | Dorf | Thalhofen an der Wertach | 49-9-7-77-87616.151-27 |  |
-| 87616 | Marktoberdorf-Weißen | Weiler | Rieder | 49-9-7-77-87616.151-23 |  |
+| 87616 | Marktoberdorf | Hauptort (_Core city_) | Marktoberdorf | 49-9-7-77-87616.151-1 | Verwaltungssitz (_Administrative seat_) |
+| 87616 | Marktoberdorf-Balteratsried | Dorf (_Village_) | Sulzschneid | 49-9-7-77-87616.151-2 | |
+| 87616 | Marktoberdorf-Bertoldshofen | Pfarrdorf (_Parish village_) | Bertoldshofen | 49-9-7-77-87616.151-3 | |
+| 87616 | Marktoberdorf-Burk | Kirchdorf (_Church village_) | Bertoldshofen | 49-9-7-77-87616.151-4 |  |
+| 87616 | Marktoberdorf-Egratsried | Weiler (_Hamlet_) | Geisenried | 49-9-7-77-87616.151-13 |  |
+| 87616 | Marktoberdorf-Ennenhofen | Siedlung (_Settlement_) | Marktoberdorf | 49-9-7-77-87616.151-6 |  |
+| 87616 | Marktoberdorf-Ettwiesen | Weiler (_Hamlet_) | Marktoberdorf | 49-9-7-77-87616.151-5 |  |
+| 87616 | Marktoberdorf-Fechsen | Dorf (_Village_) | Leuterschach | 49-9-7-77-87616.151-17 |  |
+| 87616 | Marktoberdorf-Gehren | Weiler (_Hamlet_) | Bertoldshofen | 49-9-7-77-87616.151-8 |  |
+| 87616 | Marktoberdorf-Geisenried | Pfarrdorf (_Parish village_) | Geisenried | 49-9-7-77-87616.151-12 |  |
+| 87616 | Marktoberdorf-Hagmoos | Weiler (_Hamlet_) | Bertoldshofen | 49-9-7-77-87616.151-9 |  |
+| 87616 | Marktoberdorf-Hattenhofen | Kirchdorf (_Church village_) | Geisenried | 49-9-7-77-87616.151-14 |  |
+| 87616 | Marktoberdorf-Hausen | Dorf (_Village_) | Bertoldshofen | 49-9-7-77-87616.151-10 |  |
+| 87616 | Marktoberdorf-Heiland | Dorf (_Village_) | Rieder | 49-9-7-77-87616.151-21 |  |
+| 87616 | Marktoberdorf-Hummeratsried | Pfarrdorf (_Parish village_) | Sulzschneid | 49-9-7-77-87616.151-25 |  |
+| 87616 | Marktoberdorf-Kohlhunden | Dorf (_Village_) | Marktoberdorf | 49-9-7-77-87616.151-7 |  |
+| 87616 | Marktoberdorf-Leuterschach | Pfarrdorf (_Parish village_) | Leuterschach | 49-9-7-77-87616.151-16 |  |
+| 87616 | Marktoberdorf-Liebwies | unbekannt (_unknown_) | Geisenried | 49-9-7-77-87616.151-15 |  |
+| 87616 | Marktoberdorf-Osterried | Dorf (_Village_) | Rieder | 49-9-7-77-87616.151-22 |  |
+| 87616 | Marktoberdorf-Rieder | Kirchdorf (_Church village_) | Rieder | 49-9-7-77-87616.151-20 |  |
+| 87616 | Marktoberdorf-Ronried | Dorf (_Village_) | Leuterschach | 49-9-7-77-87616.151-18 |  |
+| 87616 | Marktoberdorf-Schwenden | Pfarrdorf (_Parish village_) | Leuterschach | 49-9-7-77-87616.151-19 |  |
+| 87616 | Marktoberdorf-Selbensberg | Dorf (_Village_) | Bertoldshofen | 49-9-7-77-87616.151-11 |  |
+| 87616 | Marktoberdorf-Sulzschneid | Pfarrdorf (_Parish village_) | Sulzschneid | 49-9-7-77-87616.151-24 |  |
+| 87616 | Marktoberdorf-Thalhofen an der Wertach | Pfarrdorf (_Parish village_) | Thalhofen an der Wertach | 49-9-7-77-87616.151-26 |  |
+| 87616 | Marktoberdorf-Weibletshofen | Dorf (_Village_) | Thalhofen an der Wertach | 49-9-7-77-87616.151-27 |  |
+| 87616 | Marktoberdorf-Weißen | Weiler (_Hamlet_) | Rieder | 49-9-7-77-87616.151-23 |  |
 
 ### Pforzen
 
-| PLZ | Ortsname | Status | Gemarkung | ID | Notiz |
+| PLZ | Ortsname (_District name_) | Status | Gemarkung (_District_) | ID | Notiz (_Notes_) |
 | --- | -------- | ------ | -- | -- | ----- |
-| 87666 | Pforzen | Pfarrdorf (Hauptort) | Pforzen | 49-9-7-77-87666-1 |
-| 87666 | Pforzen-Hammerschmiede | Dorf | Pforzen | 49-9-7-77-87666-2 |
-| 87666 | Pforzen-Ingenried | Pfarrdorf | Ingenried | 49-9-7-77-87666-3 |
-| 87666 | Pforzen-Irpisdorf | Dorf | Ingenried | 49-9-7-77-87666-4 |
-| 87666 | Pforzen-Leinau | Dorf | Pforzen | 49-9-7-77-87666-5 |
+| 87666 | Pforzen | Pfarrdorf (Hauptort) (_Core parish village_) | Pforzen | 49-9-7-77-87666-1 | Verwaltungssitz (_Administrative seat_) |
+| 87666 | Pforzen-Hammerschmiede | Dorf (_Village_) | Pforzen | 49-9-7-77-87666-2 | |
+| 87666 | Pforzen-Ingenried | Pfarrdorf (_Parish village_) | Ingenried | 49-9-7-77-87666-3 | |
+| 87666 | Pforzen-Irpisdorf | Dorf (_Village_) | Ingenried | 49-9-7-77-87666-4 | |
+| 87666 | Pforzen-Leinau | Dorf (_Village_) | Pforzen | 49-9-7-77-87666-5 | |
 
 ## Landkreis Unterallgäu
 
