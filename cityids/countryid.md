@@ -108,6 +108,13 @@
 | Mexico | Mexico City | 52 | |
 | Cuba | Havana | 53 | |
 | Guadeloupe | Basse-Terre | 590 | Part of France |
+| Saint Barthélemy | Gustavia | 219 | Part of France |
+| Saint Martin | Marigot | 259 | Part of France |
+| Martinique | Fort-de-France | 596 | Part of France |
+| Sint Eustatius | Oranjestat | 5993 | Part of the Netherlands |
+| Saba | The Bottom | 5994 | Part of the Netherlands |
+| Bonaire | Kralendijk | 5997 | Part of the Netherlands |
+| Curaçao | Willemstad | 5999 | Part of the Netherlands |
 
 ## South America
 
@@ -122,6 +129,13 @@
 | Chile | Santiago | 56 | |
 | Colombia | Bogotá | 57 | |
 | Venezuela | Caracas | 58 | |
+| Bolivia | La Paz (administrative), Sucre (constitutional) | 591 | |
+| Guyana | Georgetown | 592 | |
+| Ecuador | Quito | 593 | |
+| French Guiana | Cayenne | 594 | Part of France |
+| Paraguay | Asunción | 595 | |
+| Suriname | Paramaribo | 597 | |
+| Uruguay | Montevideo | 598 | |
 
 ## Oceania
 
