@@ -5,4 +5,4 @@
 | England | London | 44-1 |
 | Scotland | Edinburgh | 44-2 |
 | Wales | Cardiff | 44-3 |
-| Northern Ireland | Befast | 44-4 |
+| Northern Ireland | Belfast | 44-4 |
