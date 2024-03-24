@@ -4,8 +4,8 @@
 
 | County | ID |
 | ------ | -- |
-| City of London | 44-1-1-1 |
-| Greater London | 44-1-1-2 |
+| City of London | 44-1-7-1 |
+| Greater London | 44-1-7-2 |
 
 ## City of London
 
