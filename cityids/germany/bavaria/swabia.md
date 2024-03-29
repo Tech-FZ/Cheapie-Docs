@@ -34,7 +34,27 @@ Notes (EN):
 | 86559 | Adelzhausen | Gemeinde (_Municipality_) | Dasing | 49-9-7-71-86559 | |
 | 86444 | Affing | Gemeinde (_Municipality_) | Affing | 49-9-7-71-86444 | |
 | 86551 | Aichach | Kreisstadt (_Capital_) | Aichach | 49-9-7-71-86551 | |
-| 86447 | Aindling | Markt (_Market_) | Aindling | 49-9-7-71-86447 | |
+| 86447 | Aindling | Markt (_Market_) | Aindling | 49-9-7-71-86447.114 | Sitz der VG Aindling, PLZ wird mit Todtenweis geteilt (_Seat of VG Aindling, postcode same as Todtenweis_) |
+| 86674 | Baar (Schwaben/_Swabia_) | Gemeinde (_Municipality_) | Pöttmes | 49-9-7-71-86674 | |
+| 86453 | Dasing | Gemeinde (_Municipality_) | Dasing | 49-9-7-71-86453 | Sitz der VG Dasing (_Seat of VG Dasing_) |
+| 86495 | Eurasburg _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Dasing | 49-9-7-71-86495 | |
+| 86316 | Friedberg _(Bayern/Bavaria)_ | Stadt (_City_) | Friedberg | 49-9-7-71-86316 | |
+| 86568 | Hollenbach | Gemeinde (_Municipality_) | Hollenbach | 49-9-7-71-86568 | |
+| 86570 | Inchenhofen | Markt (_Market_) | Inchenhofen | 49-9-7-71-86570 | |
+| 86438 | Kissing | Gemeinde (_Municipality_) | Kissing | 49-9-7-71-86438 | |
+| 86556 | Kühbach | Markt (_Market_) | Kühbach | 49-9-7-71-86556 | Sitz der VG Kühbach (_Seat of VG Kühbach_) |
+| 86504 | Merching | Gemeinde (_Municipality_) | Merching | 49-9-7-71-86504 | |
+| 86415 | Mering | Markt (_Market_) | Mering | 49-9-7-71-86415 | Sitz der VG Mering (_Seat of VG Mering_) |
+| 86573 | Obergriesbach | Gemeinde (_Municipality_) | Dasing | 49-9-7-71-86573 | |
+| 86574 | Petersdorf _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Aindling | 49-9-7-71-86574 | |
+| 86554 | Pöttmes | Markt (_Market_) | Pöttmes | 49-9-7-71-86554 | |
+| 86508 | Rehling | Gemeinde (_Municipality_) | Rehling | 49-9-7-71-86508 | |
+| 86510 | Ried _bei Mering_ | Gemeinde (_Municipality_) | Ried | 49-9-7-71-86510 | |
+| 86576 | Schiltberg | Gemeinde (_Municipality_) | Kühbach | 49-9-7-71-86576 | |
+| 86511 | Schmiechen | Gemeinde (_Municipality_) | Mering | 49-9-7-71-86511 | |
+| 86577 | Sielenbach | Gemeinde (_Municipality_) | Dasing | 49-9-7-71-86577 | |
+| 82297 | Steindorf _(Schwaben/Swabia)_ | Gemeinde (_Municipality_) | Mering | 49-9-7-71-82297 | |
+| 86447 | Todtenweis | Gemeinde (_Municipality_) | Aindling | 49-9-7-71-86447.169 | PLZ wird mit Aindling geteilt (_Postcode same as Aindling_) |
 
 ## Kreisfreie Bezirkshauptstadt Augsburg
 
