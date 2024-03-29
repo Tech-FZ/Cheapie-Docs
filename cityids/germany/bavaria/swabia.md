@@ -273,6 +273,44 @@ Notes (EN):
 
 ## Landkreis Dillingen an der Donau
 
+Hinweise (DE):
+- Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
+- Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
+
+Notes (EN):
+- If the affected municipality is not a member of any administrative group, its name will be filled in.
+- Inofficial suffixes serving for distinction will be marked with _cursive font_.
+
+| PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
+| --- | -------- | ------ | ------------------------ | --- | ----- |
+| 89344 | Aislingen | Markt (_Market_) | Holzheim | 49-9-7-73-89344 | |
+| 89429 | Bachhagel | Gemeinde (_Municipality_) | Syrgenstein | 49-9-7-73-89429 | |
+| 89431 | Bächingen an der Brenz | Gemeinde (_Municipality_) | Gundelfingen an der Donau | 49-9-7-73-89431 | |
+| 86637 | Binswangen | Gemeinde (_Municipality_) | Wertingen | 49-9-7-73-86637.116 | PLZ wird mit Villenbach, Zusamaltheim und Wertingen geteilt (_Postcode same as Villenbach and Wertingen_) |
+| 86657 | Bissingen _(Bayern/Bavaria)_ | Markt (_Market_) | Bissingen | 49-9-7-73-86657 | |
+| 89434 | Blindheim | Gemeinde (_Municipality_) | Höchstädt an der Donau | 49-9-7-73-89434 | |
+| 86647 | Buttenwiesen | Gemeinde (_Municipality_) | Buttenwiesen | 49-9-7-73-86647 | |
+| 89407 | Dillingen an der Donau | Große Kreisstadt (_Great capital_) | Dillingen an der Donau | 49-9-7-73-89407 | |
+| 89435 | Finningen | Gemeinde (_Municipality_) | Finningen | 49-9-7-73-89435 | |
+| 89353 | Glött | Gemeinde (_Municipality_) | Holzheim | 49-9-7-73-89353 | |
+| 89423 | Gundelfingen an der Donau | Stadt (_City_) | Gundelfingen an der Donau | 49-9-7-73-89423 | Sitz der VG Gundelfingen an der Donau (_Seat of VG Gundelfingen an der Donau_) |
+| 89437 | Haunsheim | Gemeinde (_Municipality_) | Gundelfingen an der Donau | 49-9-7-73-89437 | |
+| 89420 | Höchstädt an der Donau | Stadt (_City_) | Höchstädt an der Donau | 49-9-7-73-89420 | Sitz der VG Höchstädt an der Donau (_Seat of VG Höchstädt an der Donau_) |
+| 89438 | Holzheim _bei Dillingen an der Donau_ | Gemeinde (_Municipality_) | Holzheim | 49-9-7-73-89438 | Sitz der VG Holzheim (_Seat of VG Holzheim_) |
+| 86502 | Laugna | Gemeinde (_Municipality_) | Wertingen | 49-9-7-73-86502 | |
+| 89415 | Lauingen (Donau/_Danube_) | Stadt (_City_) | Lauingen (Donau) | 49-9-7-73-89415 | |
+| 89440 | Lutzingen | Gemeinde (_Municipality_) | Höchstädt an der Donau | 49-9-7-73-89440 | |
+| 89441 | Medlingen | Gemeinde (_Municipality_) | Gundelfingen an der Donau | 49-9-7-73-89441 | |
+| 89426 | Mödingen | Gemeinde (_Municipality_) | Wittislingen | 49-9-7-73-89426.147 | PLZ wird mit Wittislingen geteilt (_Postcode same as Wittislingen_) |
+| 89443 | Schwenningen _(Donau/Danube)_ | Gemeinde (_Municipality_) | Höchstädt an der Donau | 49-9-7-73-89443 | |
+| 89428 | Syrgenstein | Gemeinde (_Municipality_) | Syrgenstein | 49-9-7-73-89428 | Sitz der VG Syrgenstein (_Seat of VG Syrgenstein_) |
+| 86637 | Villenbach | Gemeinde (_Municipality_) | Wertingen | 49-9-7-73-86637.179 | PLZ wird mit Binswangen, Zusamaltheim und Wertingen geteilt (_Postcode same as Binswangen and Wertingen_) |
+| 86637 | Wertingen | Stadt (_City_) | Wertingen | 49-9-7-73-86637.182 | PLZ wird mit Binswangen, Zusamaltheim und Villenbach geteilt, Sitz der VG Wertingen (_Postcode same as Binswangen and Villenbach, seat of VG Wertingen_) |
+| 89426 | Wittislingen | Markt (_Market_) | Wittislingen | 49-9-7-73-89426.183 | PLZ wird mit Mödingen geteilt, Sitz der VG Wittislingen (_Postcode same as Mödingen, seat of VG Wittislingen_) |
+| 89446 | Ziertheim | Gemeinde (_Municipality_) | Wittislingen | 49-9-7-73-89446 | |
+| 89447 | Zöschingen | Gemeinde (_Municipality_) | Syrgenstein | 49-9-7-73-89447 | |
+| 86637 | Zusamaltheim | Gemeinde (_Municipality_) | Wertingen | 49-9-7-73-86637.188 | PLZ wird mit Binswangen, Villenbach und Wertingen geteilt (_Postcode same as Binswangen, Villenbach and Wertingen_) |
+
 ## Landkreis Donau-Ries
 
 ## Landkreis Günzburg
