@@ -21,6 +21,21 @@
 
 ## Landkreis Aichach-Friedberg
 
+Hinweise (DE):
+- Sollte die betroffene Ortschaft nicht in einer Verwaltungsgemeinschaft sein, so wird der jeweilige Ortsname angegeben.
+- Inoffizielle Zusätze, die zur Unterscheidung dienen, werden mit _Kursivschrift_ gekennzeichnet.
+
+Notes (EN):
+- If the affected municipality is not a member of any administrative group, its name will be filled in.
+- Inofficial suffixes serving for distinction will be marked with _cursive font_.
+
+| PLZ | Gemarkung/Stadtname (_Municipality name_) | Status | Verwaltungsgemeinschaft (VG) (_Administrative group_) | ID | Notiz (_Note_) |
+| --- | -------- | ------ | ------------------------ | --- | ----- |
+| 86559 | Adelzhausen | Gemeinde (_Municipality_) | Dasing | 49-9-7-71-86559 | |
+| 86444 | Affing | Gemeinde (_Municipality_) | Affing | 49-9-7-71-86444 | |
+| 86551 | Aichach | Kreisstadt (_Capital_) | Aichach | 49-9-7-71-86551 | |
+| 86447 | Aindling | Markt (_Market_) | Aindling | 49-9-7-71-86447 | |
+
 ## Kreisfreie Bezirkshauptstadt Augsburg
 
 | PLZ | Planungsregion (_Planning region_) | ID | Notiz (_Notes_) |
