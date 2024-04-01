@@ -18,3 +18,26 @@
 | Sachsen (_Saxony_) | 49-14 |
 | Sachsen-Anhalt (_Saxony-Anhalt_) | 49-15 |
 | Thüringen (_Thuringia_) | 49-16 |
+
+## Format(-e/-s)
+
+### Datum (Date)
+
+Format: DD.MM.YYYY
+
+- DD = Tag/Day
+- MM = Monat/Month
+- YYYY = Jahr/Year
+
+### Dezimalzahlen (Decimal numbers)
+
+| Sprache/Language | Übersetzung/Translation |
+| ---------------- | ----------------------- |
+| :de: Deutsch/German | Für Zahlen wird die deutsche Schreibweise gemäß DIN 5001 genutzt. |
+| :gb: Englisch/English | The German way of writing numbers will be used according to DIN 5001. |
+
+| DIN 5001 | US-Schreibweise/US writing | Bedeutung/Meaning |
+| -------- | -------------------------- | ----------------- |
+| 4,59 | 4.59 | Vier Komma Fünf Neun/Four Comma Five Nine |
+| 68 030 104 | 68,030,104 | Achtundsechzig Millionen dreißigtausendeinhundertvier/Sixty-eight million thirty thousand one hundred and four |
+| 5.492 € | 5,492 € | Fünftausendvierhundertzweiundneunzig Euro/Five thousand four hundred ninety-two euros |
