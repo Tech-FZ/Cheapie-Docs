@@ -84,3 +84,29 @@
 - :de: German Wikipedia page about Kempten: [https://de.wikipedia.org/wiki/Kempten_(Allg%C3%A4u)](https://de.wikipedia.org/wiki/Kempten_(Allg%C3%A4u))
 - Von Eigenes Werk, basierend auf: <a rel="nofollow" class="external text" href="https://www.hdbg.eu/gemeinden/index.php/detail?rschl=9763000">hdbg.eu</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=97002746">Link</a>
 - :de: Einwohner in Kempten: [https://www.kempten.de/bevolkerung-5054.html](https://www.kempten.de/bevolkerung-5054.html)
+
+## Landkreis Ostallgäu
+
+| Daten/Data | Wert/Value |
+| ---- | ----- |
+| Wappen/Coat of arms | ![OAL_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wappen_Landkreis_Ostallgaeu.svg/140px-Wappen_Landkreis_Ostallgaeu.svg.png) |
+| Kreisstadt/Capital | Marktoberdorf |
+| Cheapie ID | 49-9-7-77 |
+
+### Gemeinden/Municipalities
+
+| Cheapie ID | PLZ/Postcode | Status | Ortschaft/Municipality |
+| ---------- | ------------ | ------ | ---------------------- |
+| 49-9-7-77-1 | 87616 | Kreisstadt | Marktoberdorf |
+| 49-9-7-77-2 | 86807 | Stadt | Buchloe |
+| 49-9-7-77-3 | 87640 | Gemeinde | Biessenhofen |
+| 49-9-7-77-4 | 87665 | Gemeinde | Mauerstetten |
+| 49-9-7-77-5 | 87666 | Gemeinde | Pforzen |
+| 49-9-7-77-6 | 87634 | Gemeinde | Günzach |
+| 49-9-7-77-7 | 87656 | Gemeinde | Germaringen |
+| 49-9-7-77-8 | 87654 | Gemeinde | Friesenried |
+
+### Quellen/Sources
+
+- Von Selbst erstellt nach Vorlage <a rel="nofollow" class="external free" href="http://www.lra-ostallgaeu.de/fileadmin/hauptamt/broschueren/jahresbericht_2007.pdf">http://www.lra-ostallgaeu.de/fileadmin/hauptamt/broschueren/jahresbericht_2007.pdf</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=5689486">Link</a>
+- :de: German Wikipedia page: [https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u](https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u)
