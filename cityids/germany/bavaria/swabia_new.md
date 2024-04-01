@@ -25,10 +25,29 @@
 | ---- | ----- |
 | Wappen (Coat of arms) | ![KF_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DEU_Kaufbeuren_COA.svg/140px-DEU_Kaufbeuren_COA.svg.png) |
 | Einwohner (Residents) | 48 038 (31.12.2023) |
-| Fläche (Area) | 
+| Fläche in km² (Area in km²) | 40,02 |
+| Fläche in mi² (Area in mi²) | 15,45 |
+| Einwohner pro km² (Residents per km²) | 1 200 |
+| Einwohner pro mi² (Residents per mi²) | 3 109 |
+| PLZ (Postcode) | 87600 |
+| Verwaltungssitz (Administrative seat) | Kaiser-Max-Str. 1, 87600 Kaufbeuren |
+| Cheapie ID (Stadt/City) | 49-9-7-62-1 |
+
+### Ortsteile (Districts)
+
+| Cheapie ID | Ortsteil/District | Notizen/Notes |
+| ---------- | ----------------- | ------------- |
+| 49-9-7-62-1-1 | Kaufbeuren (Kernstadt, Altstadt, Haken) | Verwaltungssitz/Administrative seat |
+| 49-9-7-62-1-2 | Neugablonz | |
+| 49-9-7-62-1-3 | Oberbeuren, Sankt Cosmas | |
+| 49-9-7-62-1-4 | Hirschzell | |
+| 49-9-7-62-1-5 | Kleinkemnat, Ölmühlhang | |
+| 49-9-7-62-1-6 | Großkemnat | |
+| 49-9-7-62-1-7 | Märzisried | |
 
 ### Quellen (Sources)
 
 - Von Eigenes Werk, basierend auf: <a rel="nofollow" class="external text" href="https://www.kaufbeuren.de/portaldata/17/images/logo/kaufbeuren_logo.png">kaufbeuren.de</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=5402599">Link</a>
-- Official PDF file about some statistics of Kaufbeuren (German): [https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf](https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf)
-- Zahlen und Fakten für/Facts and numbers of Kaufbeuren (German): [https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/](https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/)
+- Official PDF file about some statistics of Kaufbeuren (:de:): [https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf](https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf)
+- Zahlen und Fakten für/Facts and numbers of Kaufbeuren (:de:): [https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/](https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/)
+- German Wikipedia page about Kaufbeuren (:de:): [https://de.wikipedia.org/wiki/Kaufbeuren](https://de.wikipedia.org/wiki/Kaufbeuren)
