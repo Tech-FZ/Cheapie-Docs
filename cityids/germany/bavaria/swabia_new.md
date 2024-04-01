@@ -1,6 +1,6 @@
-# Cheapie - DE-BY - Schwaben (Swabia) - Städteliste (City list)
+# Cheapie - DE-BY - Schwaben/Swabia - Städteliste/City list
 
-## Landkreise und kreisfreie Städte (Rural districts and district-free cities)
+## Landkreise und kreisfreie Städte/Rural districts and district-free cities
 
 | Name | Status | Verwaltungssitz (Administrative seat) | ID |
 | ------- | -- | ---------------- | -- |
@@ -21,21 +21,21 @@
 
 ## Kreisfreie Stadt Kaufbeuren
 
-| Daten (Data) | Wert (_Value_) |
+| Daten/Data | Wert/Value |
 | ---- | ----- |
-| Wappen (Coat of arms) | ![KF_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DEU_Kaufbeuren_COA.svg/140px-DEU_Kaufbeuren_COA.svg.png) |
-| Einwohner (Residents) | 48 038 (31.12.2023) |
-| Fläche in km² (Area in km²) | 40,02 |
-| Fläche in mi² (Area in mi²) | 15,45 |
-| Einwohner pro km² (Residents per km²) | 1 200 |
-| Einwohner pro mi² (Residents per mi²) | 3 109 |
-| PLZ (Postcode) | 87600 |
-| Verwaltungssitz (Administrative seat) | Kaiser-Max-Str. 1, 87600 Kaufbeuren |
+| Wappen/Coat of arms | ![KF_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DEU_Kaufbeuren_COA.svg/140px-DEU_Kaufbeuren_COA.svg.png) |
+| Einwohner/Residents | 48 038 (31.12.2023) |
+| Fläche in km²/Area in km² | 40,02 |
+| Fläche in mi²/Area in mi² | 15,45 |
+| Einwohner pro km²/Residents per km² | 1 200 |
+| Einwohner pro mi²/Residents per mi² | 3 109 |
+| PLZ/Postcodes | 87600 |
+| Verwaltungssitz/Administrative seat | Kaiser-Max-Str. 1, 87600 Kaufbeuren |
 | Cheapie ID (Stadt/City) | 49-9-7-62-1 |
 
-### Ortsteile (Districts)
+### Ortsteile/Boroughs
 
-| Cheapie ID | Ortsteil/District | Notizen/Notes |
+| Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
 | 49-9-7-62-1-1 | Kaufbeuren (Kernstadt, Altstadt, Haken) | Verwaltungssitz/Administrative seat |
 | 49-9-7-62-1-2 | Neugablonz | |
@@ -45,9 +45,42 @@
 | 49-9-7-62-1-6 | Großkemnat | |
 | 49-9-7-62-1-7 | Märzisried | |
 
-### Quellen (Sources)
+### Quellen/Sources
 
 - Von Eigenes Werk, basierend auf: <a rel="nofollow" class="external text" href="https://www.kaufbeuren.de/portaldata/17/images/logo/kaufbeuren_logo.png">kaufbeuren.de</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=5402599">Link</a>
-- Official PDF file about some statistics of Kaufbeuren (:de:): [https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf](https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf)
-- Zahlen und Fakten für/Facts and numbers of Kaufbeuren (:de:): [https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/](https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/)
-- German Wikipedia page about Kaufbeuren (:de:): [https://de.wikipedia.org/wiki/Kaufbeuren](https://de.wikipedia.org/wiki/Kaufbeuren)
+- :de: Official PDF file about some statistics of Kaufbeuren: [https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf](https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf)
+- :de: Zahlen und Fakten für/Facts and numbers of Kaufbeuren: [https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/](https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/)
+- :de: German Wikipedia page about Kaufbeuren: [https://de.wikipedia.org/wiki/Kaufbeuren](https://de.wikipedia.org/wiki/Kaufbeuren)
+
+## Kreisfreie Stadt Kempten (Allgäu)
+
+| Daten/Data | Wert/Value |
+| ---- | ----- |
+| Wappen/Coat of arms | ![KE_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/DEU_Kempten_%28Allg%C3%A4u%29_COA.svg/140px-DEU_Kempten_%28Allg%C3%A4u%29_COA.svg.png) |
+| Einwohner/Residents | 72 477 (31.12.2023) |
+| Fläche in km²/Area in km² | 63,28 |
+| Fläche in mi²/Area in mi² | 24,43 |
+| Einwohner pro km²/Residents per km² | 1 145 |
+| Einwohner pro mi²/Residents per mi² | 2 967 |
+| PLZ/Postcodes | 87435, 87437, 87439 |
+| Verwaltungssitz/Administrative seat | Rathausplatz 29, 87435 Kempten (Allgäu) |
+
+### Gemarkungen/Districts
+
+| Cheapie ID | PLZ | Gemarkung/District |
+| ---------- | --- | --------- |
+| 49-9-7-63-1 | 87435 | Kempten (Allgäu) |
+| 49-9-7-63-2 | 87437 | Sankt Mang |
+| 49-9-7-63-3 | 87439 | Sankt Lorenz |
+
+### Ortsteile/Boroughs
+
+| Cheapie ID | Ortsteil/Borough | Notizen/Notes |
+| ---------- | ----------------- | ------------- |
+| 49-9-7-63-1-1 | Kempten-Hauptort | Verwaltungssitz/Administrative seat |
+
+### Quellen/Sources
+
+- :de: German Wikipedia page about Kempten: [https://de.wikipedia.org/wiki/Kempten_(Allg%C3%A4u)](https://de.wikipedia.org/wiki/Kempten_(Allg%C3%A4u))
+- Von Eigenes Werk, basierend auf: <a rel="nofollow" class="external text" href="https://www.hdbg.eu/gemeinden/index.php/detail?rschl=9763000">hdbg.eu</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=97002746">Link</a>
+- :de: Einwohner in Kempten: [https://www.kempten.de/bevolkerung-5054.html](https://www.kempten.de/bevolkerung-5054.html)
