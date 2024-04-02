@@ -91,6 +91,11 @@
 | ---- | ----- |
 | Wappen/Coat of arms | ![OAL_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wappen_Landkreis_Ostallgaeu.svg/140px-Wappen_Landkreis_Ostallgaeu.svg.png) |
 | Kreisstadt/Capital | Marktoberdorf |
+| Einwohner/Residents | 145 378 (31.12.2022) |
+| Fläche in km²/Area in km² | 1 394,43 |
+| Fläche in mi²/Area in mi² | 538,39 |
+| Einwohner pro/Residents per km² | 104 |
+| Einwohner pro/Residents per mi² | 270 |
 | Cheapie ID | 49-9-7-77 |
 
 ### Gemeinden/Municipalities
@@ -147,3 +152,4 @@
 
 - Von Selbst erstellt nach Vorlage <a rel="nofollow" class="external free" href="http://www.lra-ostallgaeu.de/fileadmin/hauptamt/broschueren/jahresbericht_2007.pdf">http://www.lra-ostallgaeu.de/fileadmin/hauptamt/broschueren/jahresbericht_2007.pdf</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=5689486">Link</a>
 - :de: German Wikipedia page: [https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u](https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u)
+- :de: Bavarian statistics for Ostallgäu 2023: [https://www.statistik.bayern.de/mam/produkte/statistik_kommunal/2023/09777.pdf](https://www.statistik.bayern.de/mam/produkte/statistik_kommunal/2023/09777.pdf)
