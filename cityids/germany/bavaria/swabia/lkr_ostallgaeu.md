@@ -10,7 +10,7 @@
 | Cheapie ID | PLZ/Postcode | Status | Ortschaft/Municipality |
 | ---------- | ------------ | ------ | ---------------------- |
 | 49-9-7-77-1 | 87616 | Kreisstadt | [Marktoberdorf](#kreisstadtcapital-marktoberdorf) |
-| 49-9-7-77-2 | 86807 | Stadt | Buchloe |
+| 49-9-7-77-2 | 86807 | Stadt | [Buchloe](#stadtcity-buchloe) |
 | 49-9-7-77-3 | 87640 | Gemeinde | Biessenhofen |
 | 49-9-7-77-4 | 87665 | Gemeinde | Mauerstetten |
 | 49-9-7-77-5 | 87666 | Gemeinde | Pforzen |
@@ -101,9 +101,39 @@
 | 49-9-7-77-1-26 | Thalhofen | |
 | 49-9-7-77-1-27 | Weibletshofen | |
 
+## Stadt/City Buchloe
+
+| Daten/Data | Wert/Value |
+| ---- | ----- |
+| Wappen/Coat of arms | ![Buchloe_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wappen_von_Buchloe.svg/136px-Wappen_von_Buchloe.svg.png) |
+| Einwohner/Residents | 13 840 (01.03.2022) |
+| Fläche in km²/Area in km² | 36,17 |
+| Fläche in mi²/Area in mi² | 13,97 |
+| Einwohner pro km²/Residents per km² | 383 |
+| Einwohner pro mi²/Residents per mi² | 991 |
+| PLZ/Postcodes | 86807 |
+| Verwaltungssitz/Administrative seat | Rathausplatz 1, 86807 Buchloe |
+| Cheapie ID | 49-9-7-77-2 |
+
+### Stadtteile/Boroughs
+
+| Cheapie ID | Ortsteil/Borough | Notizen/Notes |
+| ---------- | ----------------- | ------------- |
+| 49-9-7-77-2-1 | Buchloe | Verwaltungssitz/Administrative seat |
+| 49-9-7-77-2-2 | Hausen | |
+| 49-9-7-77-2-3 | Honsolgen | |
+| 49-9-7-77-2-4 | Koppenhof | |
+| 49-9-7-77-2-5 | Lindenberg | |
+| 49-9-7-77-2-6 | Schöttenau | |
+| 49-9-7-77-2-7 | Sinkelmühle | |
+
 ## Quellen/Sources
 
 - :de: German Wikipedia page: [https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u](https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u)
 - Von &lt;a href=&quot;//commons.wikimedia.org/w/index.php?title=User:Stadtmod&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;User:Stadtmod (page does not exist)&quot;&gt;Stadtmod&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;de&quot;&gt;Eigenes Werk&lt;/span&gt;, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25831043">Link</a>
 - :de: Official data from Marktoberdorf: [https://www.marktoberdorf.de/stadtinfo/zahlen---daten---fakten](https://www.marktoberdorf.de/stadtinfo/zahlen---daten---fakten)
 - :de: Stadtteile von Marktoberdorf: [https://www.marktoberdorf.de/stadtinfo/stadtteile](https://www.marktoberdorf.de/stadtinfo/stadtteile)
+- Von Eigenes Werk mittels: <a rel="nofollow" class="external autonumber" href="https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/">[1]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=32128636">Link</a>
+- :de: Info über Buchloe: [https://www.landkreis-ostallgaeu.de/gemeinden/gemeinden-a-z-1/buchloe.html](https://www.landkreis-ostallgaeu.de/gemeinden/gemeinden-a-z-1/buchloe.html)
+- :de: Zahlen und Fakten zu Buchloe: [https://www.buchloe.de/buchloe-umgebung/ortsplaene-und-zahlen/zahlen-statistiken/](https://www.buchloe.de/buchloe-umgebung/ortsplaene-und-zahlen/zahlen-statistiken/)
+- :de: Stadt Buchloe: [https://www.unser-stadtplan.de/stadtplan/buchloe/kartenstartpunkt/stadtplan-buchloe.map](https://www.unser-stadtplan.de/stadtplan/buchloe/kartenstartpunkt/stadtplan-buchloe.map)
