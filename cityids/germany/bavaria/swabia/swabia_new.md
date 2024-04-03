@@ -96,6 +96,7 @@
 | Fläche in mi²/Area in mi² | 538,39 |
 | Einwohner pro/Residents per km² | 104 |
 | Einwohner pro/Residents per mi² | 270 |
+| Administrative seat | Schwabenstr. 11, 87616 Marktoberdorf |
 | Cheapie ID | 49-9-7-77 |
 
 ### Gemeinden/Municipalities
@@ -147,6 +148,8 @@
 | 49-9-7-77-43 | 87459 | Gemeinde | Pfronten |
 | 49-9-7-77-44 | 87671, 87724 | Markt | Ronsberg |
 | 49-9-7-77-45 | 87645 | Gemeinde | Schwangau |
+
+[Genauere Einteilung/More accurate splitting](lkr_ostallgaeu.md)
 
 ### Quellen/Sources
 
