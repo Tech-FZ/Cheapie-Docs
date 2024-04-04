@@ -13,7 +13,7 @@
 | 49-9-7-77-2 | 86807 | Stadt | [Buchloe](#stadtcity-buchloe) |
 | 49-9-7-77-3 | 87640 | Gemeinde | [Biessenhofen](#gemeindemunicipality-biessenhofen) |
 | 49-9-7-77-4 | 87665 | Gemeinde | [Mauerstetten](#gemeindemunicipality-mauerstetten) |
-| 49-9-7-77-5 | 87666 | Gemeinde | Pforzen |
+| 49-9-7-77-5 | 87666 | Gemeinde | [Pforzen](#gemeindemunicipality-pforzen) |
 | 49-9-7-77-6 | 87634 | Gemeinde | Günzach |
 | 49-9-7-77-7 | 87656 | Gemeinde | Germaringen |
 | 49-9-7-77-8 | 87654 | Gemeinde | Friesenried |
@@ -175,6 +175,30 @@
 | 49-9-7-77-4-3 | Hausen | |
 | 49-9-7-77-4-4 | Steinholz | |
 
+## Gemeinde/Municipality Pforzen
+
+| Daten/Data | Wert/Value |
+| ---- | ----- |
+| Wappen/Coat of arms | ![Pforzen_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DEU_Pforzen_COA.svg/140px-DEU_Pforzen_COA.svg.png) |
+| Einwohner/Residents | 2 506 (01.01.2024) |
+| Fläche in km²/Area in km² | 23,69 |
+| Fläche in mi²/Area in mi² | 9,147 |
+| Einwohner pro km²/Residents per km² | 106 |
+| Einwohner pro mi²/Residents per mi² | 274 |
+| PLZ/Postcodes | 87666 |
+| Verwaltungssitz/Administrative seat | Bahnhofstr. 7, 87666 Pforzen |
+| Cheapie ID | 49-9-7-77-5 |
+
+### Gemeindeteile/Boroughs
+
+| Cheapie ID | Ortsteil/Borough | Notizen/Notes |
+| ---------- | ----------------- | ------------- |
+| 49-9-7-77-5-1 | Pforzen | Verwaltungssitz/Administrative seat |
+| 49-9-7-77-5-2 | Ingenried | |
+| 49-9-7-77-5-3 | Irpisdorf | |
+| 49-9-7-77-5-4 | Leinau | |
+| 49-9-7-77-5-5 | Hammerschmiede | |
+
 ## Quellen/Sources
 
 - :de: German Wikipedia page: [https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u](https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u)
@@ -193,3 +217,7 @@
 - :de: Gemeindeteile Mauerstetten: [https://www.bayernportal.de/dokumente/behoerde/40108147639/ortsteile](https://www.bayernportal.de/dokumente/behoerde/40108147639/ortsteile)
 - :de: Haus der bayerischen Geschichte über Mauerstetten: [https://hdbg.eu/gemeinden/index.php/detail?rschl=9777152](https://hdbg.eu/gemeinden/index.php/detail?rschl=9777152)
 - :de: Wikipedia über Mauerstetten: [https://de.wikipedia.org/wiki/Mauerstetten](https://de.wikipedia.org/wiki/Mauerstetten)
+- Von <a rel="nofollow" class="external autonumber" href="http://www.pforzen.de/">[2]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=46875618">Link</a>
+- :de: Einwohnerstatistik Pforzen: [https://www.pforzen.de/unsere-gemeinde/daten-und-fakten/einwohner-und-statistik](https://www.pforzen.de/unsere-gemeinde/daten-und-fakten/einwohner-und-statistik)
+- :de: Wikipedia über Pforzen: [https://de.wikipedia.org/wiki/Pforzen](https://de.wikipedia.org/wiki/Pforzen)
+- :de: Gemeindeortsteile Pforzen: [https://www.pforzen.de/unsere-gemeinde/daten-und-fakten/gemeindeortsteile](https://www.pforzen.de/unsere-gemeinde/daten-und-fakten/gemeindeortsteile)
