@@ -14,7 +14,7 @@
 | 49-9-7-77-3 | 87640 | Gemeinde | [Biessenhofen](#gemeindemunicipality-biessenhofen) |
 | 49-9-7-77-4 | 87665 | Gemeinde | [Mauerstetten](#gemeindemunicipality-mauerstetten) |
 | 49-9-7-77-5 | 87666 | Gemeinde | [Pforzen](#gemeindemunicipality-pforzen) |
-| 49-9-7-77-6 | 87634 | Gemeinde | Günzach |
+| 49-9-7-77-6 | 87634 | Gemeinde | [Günzach](#gemeindemunicipality-günzach) |
 | 49-9-7-77-7 | 87656 | Gemeinde | Germaringen |
 | 49-9-7-77-8 | 87654 | Gemeinde | Friesenried |
 | 49-9-7-77-9 | 87629 | Stadt | Füssen |
