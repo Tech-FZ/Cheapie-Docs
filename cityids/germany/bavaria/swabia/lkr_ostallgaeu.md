@@ -15,7 +15,7 @@
 | 49-9-7-77-4 | 87665 | Gemeinde | [Mauerstetten](#gemeindemunicipality-mauerstetten) |
 | 49-9-7-77-5 | 87666 | Gemeinde | [Pforzen](#gemeindemunicipality-pforzen) |
 | 49-9-7-77-6 | 87634 | Gemeinde | [Günzach](#gemeindemunicipality-günzach) |
-| 49-9-7-77-7 | 87656 | Gemeinde | Germaringen |
+| 49-9-7-77-7 | 87656 | Gemeinde | [Germaringen](#gemeindemunicipality-germaringen) |
 | 49-9-7-77-8 | 87654 | Gemeinde | Friesenried |
 | 49-9-7-77-9 | 87629 | Stadt | Füssen |
 | 49-9-7-77-10 | 86875 | Markt | Waal _(Schwaben/Swabia)_ |
@@ -246,6 +246,30 @@
 | 49-9-7-77-6-26 | Upratsberg | |
 | 49-9-7-77-6-27 | Ziegelhütte | |
 
+## Gemeinde/Municipality Germaringen
+
+| Daten/Data | Wert/Value |
+| ---- | ----- |
+| Wappen/Coat of arms | ![Germaringen_COA](https://de.wikipedia.org/wiki/Datei:Wappen_von_Germaringen.svg) |
+| Einwohner/Residents | 4 064 (01.01.2024) |
+| Fläche in km²/Area in km² | 22,88 |
+| Fläche in mi²/Area in mi² | 8,834 |
+| Einwohner pro km²/Residents per km² | 178 |
+| Einwohner pro mi²/Residents per mi² | 460 |
+| PLZ/Postcodes | 87656 |
+| Verwaltungssitz/Administrative seat | Westendorfer Str. 4 a, 87656 Germaringen-Obergermaringen |
+| Cheapie ID | 49-9-7-77-7 |
+
+### Gemeindeteile/Boroughs
+
+| Cheapie ID | Ortsteil/Borough | Notizen/Notes |
+| ---------- | ----------------- | ------------- |
+| 49-9-7-77-7-1 | Obergermaringen | Verwaltungssitz/Administrative seat |
+| 49-9-7-77-7-2 | Untergermaringen | |
+| 49-9-7-77-7-3 | Ketterschwang | |
+| 49-9-7-77-7-4 | Schwäbishofen | |
+| 49-9-7-77-7-5 | Riederloh | De-facto fest mit 87600 KF-Neugablonz (CID 49-9-7-62-1-2) verwachsen/De-facto directly connected to KF-Neugablonz |
+
 ## Quellen/Sources
 
 - :de: German Wikipedia page: [https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u](https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u)
@@ -272,3 +296,6 @@
 - :de: Günzach Statistiken: [https://www.guenzach.de/rathaus/statistiken](https://www.guenzach.de/rathaus/statistiken)
 - :de: Infos zu Günzach: [https://standortportal.bayern/de/BayStandorte/Schwaben/Ostallgaeu/Guenzach.html](https://standortportal.bayern/de/BayStandorte/Schwaben/Ostallgaeu/Guenzach.html)
 - :de: Ortsteile Günzach: [https://www.bayernportal.de/dokumente/behoerde/49108434577/ortsteile](https://www.bayernportal.de/dokumente/behoerde/49108434577/ortsteile)
+- Von Eigenes Werk mittels: <a rel="nofollow" class="external autonumber" href="https://www.germaringen.de/germaringen/gemeinde/gemeinde/zahlen-und-fakten/">[1]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=35763803">Link</a>
+- :de: Zahlen und Fakten Germaringen: [https://www.germaringen.de/germaringen/gemeinde/gemeinde/zahlen-und-fakten/](https://www.germaringen.de/germaringen/gemeinde/gemeinde/zahlen-und-fakten/)
+- :de: Germaringen Ortsteile: [https://www.germaringen.de/germaringen/gemeinde/gemeinde/ortsteile/](https://www.germaringen.de/germaringen/gemeinde/gemeinde/ortsteile/)
