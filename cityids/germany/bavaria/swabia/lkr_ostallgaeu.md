@@ -112,6 +112,7 @@
 | Einwohner pro km²/Residents per km² | 383 |
 | Einwohner pro mi²/Residents per mi² | 991 |
 | PLZ/Postcodes | 86807 |
+| Verwaltungsgemeinschaft (VG)/Administrative group | Buchloe |
 | Verwaltungssitz/Administrative seat | Rathausplatz 1, 86807 Buchloe |
 | Cheapie ID | 49-9-7-77-2 |
 
@@ -138,6 +139,7 @@
 | Einwohner pro km²/Residents per km² | 165 |
 | Einwohner pro mi²/Residents per mi² | 446 |
 | PLZ/Postcodes | 87640 |
+| Verwaltungsgemeinschaft (VG)/Administrative group | Biessenhofen |
 | Verwaltungssitz/Administrative seat | Füssener Str. 12, 87640 Biessenhofen |
 | Cheapie ID | 49-9-7-77-3 |
 
@@ -186,6 +188,7 @@
 | Einwohner pro km²/Residents per km² | 106 |
 | Einwohner pro mi²/Residents per mi² | 274 |
 | PLZ/Postcodes | 87666 |
+| Verwaltungsgemeinschaft (VG)/Administrative group | Pforzen |
 | Verwaltungssitz/Administrative seat | Bahnhofstr. 7, 87666 Pforzen |
 | Cheapie ID | 49-9-7-77-5 |
 
@@ -250,7 +253,7 @@
 
 | Daten/Data | Wert/Value |
 | ---- | ----- |
-| Wappen/Coat of arms | ![Germaringen_COA](https://de.wikipedia.org/wiki/Datei:Wappen_von_Germaringen.svg) |
+| Wappen/Coat of arms | ![Germaringen_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wappen_von_Germaringen.svg/140px-Wappen_von_Germaringen.svg.png) |
 | Einwohner/Residents | 4 064 (01.01.2024) |
 | Fläche in km²/Area in km² | 22,88 |
 | Fläche in mi²/Area in mi² | 8,834 |
