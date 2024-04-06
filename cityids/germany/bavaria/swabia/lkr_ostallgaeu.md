@@ -16,7 +16,7 @@
 | 49-9-7-77-5 | 87666 | Gemeinde | [Pforzen](#gemeindemunicipality-pforzen) |
 | 49-9-7-77-6 | 87634 | Gemeinde | [Günzach](#gemeindemunicipality-günzach) |
 | 49-9-7-77-7 | 87656 | Gemeinde | [Germaringen](#gemeindemunicipality-germaringen) |
-| 49-9-7-77-8 | 87654 | Gemeinde | Friesenried |
+| 49-9-7-77-8 | 87654 | Gemeinde | [Friesenried](#gemeindemunicipality-friesenried) |
 | 49-9-7-77-9 | 87629 | Stadt | Füssen |
 | 49-9-7-77-10 | 86875 | Markt | Waal _(Schwaben/Swabia)_ |
 | 49-9-7-77-11 | 86860 | Gemeinde | Jengen |
