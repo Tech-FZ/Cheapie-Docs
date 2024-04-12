@@ -9,51 +9,51 @@
 
 | Cheapie ID | PLZ/Postcode | Status | Ortschaft/Municipality |
 | ---------- | ------------ | ------ | ---------------------- |
-| 49-9-7-77-1 | 87616 | Kreisstadt | [Marktoberdorf](#kreisstadtcapital-marktoberdorf) |
-| 49-9-7-77-2 | 86807 | Stadt | [Buchloe](#stadtcity-buchloe) |
-| 49-9-7-77-3 | 87640 | Gemeinde | [Biessenhofen](#gemeindemunicipality-biessenhofen) |
-| 49-9-7-77-4 | 87665 | Gemeinde | [Mauerstetten](#gemeindemunicipality-mauerstetten) |
-| 49-9-7-77-5 | 87666 | Gemeinde | [Pforzen](#gemeindemunicipality-pforzen) |
-| 49-9-7-77-6 | 87634 | Gemeinde | [Günzach](#gemeindemunicipality-günzach) |
-| 49-9-7-77-7 | 87656 | Gemeinde | [Germaringen](#gemeindemunicipality-germaringen) |
-| 49-9-7-77-8 | 87654 | Gemeinde | [Friesenried](#gemeindemunicipality-friesenried) |
-| 49-9-7-77-9 | 87629 | Stadt | Füssen |
-| 49-9-7-77-10 | 86875 | Markt | Waal _(Schwaben/Swabia)_ |
-| 49-9-7-77-11 | 86860 | Gemeinde | Jengen |
-| 49-9-7-77-12 | 86862 | Gemeinde | Lamerdingen |
-| 49-9-7-77-13 | 87648 | Gemeinde | Aitrang |
-| 49-9-7-77-14 | 87651 | Gemeinde | Bidingen |
-| 49-9-7-77-15 | 87674 | Gemeinde | Ruderatshofen |
-| 49-9-7-77-16 | 87650 | Gemeinde | Baisweil |
-| 49-9-7-77-17 | 87653, 87782 | Gemeinde | Eggenthal |
-| 49-9-7-77-18 | 87634 | Markt | Obergünzburg |
-| 49-9-7-77-19 | 87496 | Gemeinde | Untrasried |
-| 49-9-7-77-20 | 87660 | Markt | Irsee |
-| 49-9-7-77-21 | 87668 | Gemeinde | Rieden _bei/near Kaufbeuren_ |
-| 49-9-7-77-22 | 87672 | Gemeinde | Roßhaupten |
-| 49-9-7-77-23 | 87669 | Gemeinde | Rieden am Forggensee |
-| 49-9-7-77-24 | 87637 | Gemeinde | Seeg |
-| 49-9-7-77-25 | 87637 | Gemeinde | Eisenberg _(Allgäu)_ |
-| 49-9-7-77-26 | 87659 | Gemeinde | Hopferau |
-| 49-9-7-77-27 | 87663 | Gemeinde | Lengenwang |
-| 49-9-7-77-28 | 87494 | Gemeinde | Rückholz |
-| 49-9-7-77-29 | 87616 | Gemeinde | Wald _(Schwaben/Swabia)_ |
-| 49-9-7-77-30 | 87675 | Gemeinde | Stötten am Auerberg |
-| 49-9-7-77-31 | 87675 | Gemeinde | Rettenbach am Auerberg |
-| 49-9-7-77-32 | 87647 | Gemeinde | Unterthingau |
-| 49-9-7-77-33 | 87657 | Gemeinde | Görisried |
-| 49-9-7-77-34 | 87647 | Gemeinde | Kraftisried |
-| 49-9-7-77-35 | 87679 | Gemeinde | Westendorf _(Lkr. Ostallgäu)_ |
-| 49-9-7-77-36 | 87662 | Markt | Kaltental |
-| 49-9-7-77-37 | 86869 | Gemeinde | Oberostendorf |
-| 49-9-7-77-38 | 87662 | Gemeinde | Osterzell |
-| 49-9-7-77-39 | 87677 | Gemeinde | Stöttwang |
-| 49-9-7-77-40 | 87642 | Gemeinde | Halblech |
-| 49-9-7-77-41 | 86983 | Gemeinde | Lechbruck am See |
-| 49-9-7-77-42 | 87484 | Markt | Nesselwang |
-| 49-9-7-77-43 | 87459 | Gemeinde | Pfronten |
-| 49-9-7-77-44 | 87671, 87724 | Markt | Ronsberg |
-| 49-9-7-77-45 | 87645 | Gemeinde | Schwangau |
+| 49-9-7-13-1 | 87616 | Kreisstadt | [Marktoberdorf](#kreisstadtcapital-marktoberdorf) |
+| 49-9-7-13-2 | 86807 | Stadt | [Buchloe](#stadtcity-buchloe) |
+| 49-9-7-13-3 | 87640 | Gemeinde | [Biessenhofen](#gemeindemunicipality-biessenhofen) |
+| 49-9-7-13-4 | 87665 | Gemeinde | [Mauerstetten](#gemeindemunicipality-mauerstetten) |
+| 49-9-7-13-5 | 87666 | Gemeinde | [Pforzen](#gemeindemunicipality-pforzen) |
+| 49-9-7-13-6 | 87634 | Gemeinde | [Günzach](#gemeindemunicipality-günzach) |
+| 49-9-7-13-7 | 87656 | Gemeinde | [Germaringen](#gemeindemunicipality-germaringen) |
+| 49-9-7-13-8 | 87654 | Gemeinde | [Friesenried](#gemeindemunicipality-friesenried) |
+| 49-9-7-13-9 | 87629 | Stadt | Füssen |
+| 49-9-7-13-10 | 86875 | Markt | Waal _(Schwaben/Swabia)_ |
+| 49-9-7-13-11 | 86860 | Gemeinde | Jengen |
+| 49-9-7-13-12 | 86862 | Gemeinde | Lamerdingen |
+| 49-9-7-13-13 | 87648 | Gemeinde | Aitrang |
+| 49-9-7-13-14 | 87651 | Gemeinde | Bidingen |
+| 49-9-7-13-15 | 87674 | Gemeinde | Ruderatshofen |
+| 49-9-7-13-16 | 87650 | Gemeinde | Baisweil |
+| 49-9-7-13-17 | 87653, 87782 | Gemeinde | Eggenthal |
+| 49-9-7-13-18 | 87634 | Markt | Obergünzburg |
+| 49-9-7-13-19 | 87496 | Gemeinde | Untrasried |
+| 49-9-7-13-20 | 87660 | Markt | Irsee |
+| 49-9-7-13-21 | 87668 | Gemeinde | Rieden _bei/near Kaufbeuren_ |
+| 49-9-7-13-22 | 87672 | Gemeinde | Roßhaupten |
+| 49-9-7-13-23 | 87669 | Gemeinde | Rieden am Forggensee |
+| 49-9-7-13-24 | 87637 | Gemeinde | Seeg |
+| 49-9-7-13-25 | 87637 | Gemeinde | Eisenberg _(Allgäu)_ |
+| 49-9-7-13-26 | 87659 | Gemeinde | Hopferau |
+| 49-9-7-13-27 | 87663 | Gemeinde | Lengenwang |
+| 49-9-7-13-28 | 87494 | Gemeinde | Rückholz |
+| 49-9-7-13-29 | 87616 | Gemeinde | Wald _(Schwaben/Swabia)_ |
+| 49-9-7-13-30 | 87675 | Gemeinde | Stötten am Auerberg |
+| 49-9-7-13-31 | 87675 | Gemeinde | Rettenbach am Auerberg |
+| 49-9-7-13-32 | 87647 | Gemeinde | Unterthingau |
+| 49-9-7-13-33 | 87657 | Gemeinde | Görisried |
+| 49-9-7-13-34 | 87647 | Gemeinde | Kraftisried |
+| 49-9-7-13-35 | 87679 | Gemeinde | Westendorf _(Lkr. Ostallgäu)_ |
+| 49-9-7-13-36 | 87662 | Markt | Kaltental |
+| 49-9-7-13-37 | 86869 | Gemeinde | Oberostendorf |
+| 49-9-7-13-38 | 87662 | Gemeinde | Osterzell |
+| 49-9-7-13-39 | 87677 | Gemeinde | Stöttwang |
+| 49-9-7-13-40 | 87642 | Gemeinde | Halblech |
+| 49-9-7-13-41 | 86983 | Gemeinde | Lechbruck am See |
+| 49-9-7-13-42 | 87484 | Markt | Nesselwang |
+| 49-9-7-13-43 | 87459 | Gemeinde | Pfronten |
+| 49-9-7-13-44 | 87671, 87724 | Markt | Ronsberg |
+| 49-9-7-13-45 | 87645 | Gemeinde | Schwangau |
 
 ## Kreisstadt/Capital Marktoberdorf
 
@@ -67,39 +67,39 @@
 | Einwohner pro mi²/Residents per mi² | 510 |
 | PLZ/Postcodes | 87616 |
 | Verwaltungssitz/Administrative seat | Richard-Wengenmeier-Platz 1, 87616 Marktoberdorf |
-| Cheapie ID | 49-9-7-77-1 |
+| Cheapie ID | 49-9-7-13-1 |
 
 ### Stadtteile/Boroughs
 
 | Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
-| 49-9-7-77-1-1 | Marktoberdorf | Verwaltungssitz/Administrative seat |
-| 49-9-7-77-1-2 | Ennenhofen | |
-| 49-9-7-77-1-3 | Ettwiesen | |
-| 49-9-7-77-1-4 | Kohlhunden | |
-| 49-9-7-77-1-5 | Bertoldshofen | |
-| 49-9-7-77-1-6 | Burk | |
-| 49-9-7-77-1-7 | Gehren | |
-| 49-9-7-77-1-8 | Hagmoos | |
-| 49-9-7-77-1-9 | Hausen | |
-| 49-9-7-77-1-10 | Selbensberg | |
-| 49-9-7-77-1-11 | Geisenried | |
-| 49-9-7-77-1-12 | Egratsried | |
-| 49-9-7-77-1-13 | Hattenhofen | |
-| 49-9-7-77-1-14 | Liebwies | |
-| 49-9-7-77-1-15 | Leuterschach | |
-| 49-9-7-77-1-16 | Fechsen | |
-| 49-9-7-77-1-17 | Ronried | |
-| 49-9-7-77-1-18 | Schwenden | |
-| 49-9-7-77-1-19 | Rieder | |
-| 49-9-7-77-1-20 | Heiland | |
-| 49-9-7-77-1-21 | Osterried | |
-| 49-9-7-77-1-22 | Weißen | |
-| 49-9-7-77-1-23 | Sulzschneid | |
-| 49-9-7-77-1-24 | Balteratsried | |
-| 49-9-7-77-1-25 | Hummeratsried | |
-| 49-9-7-77-1-26 | Thalhofen | |
-| 49-9-7-77-1-27 | Weibletshofen | |
+| 49-9-7-13-1-1 | Marktoberdorf | Verwaltungssitz/Administrative seat |
+| 49-9-7-13-1-2 | Ennenhofen | |
+| 49-9-7-13-1-3 | Ettwiesen | |
+| 49-9-7-13-1-4 | Kohlhunden | |
+| 49-9-7-13-1-5 | Bertoldshofen | |
+| 49-9-7-13-1-6 | Burk | |
+| 49-9-7-13-1-7 | Gehren | |
+| 49-9-7-13-1-8 | Hagmoos | |
+| 49-9-7-13-1-9 | Hausen | |
+| 49-9-7-13-1-10 | Selbensberg | |
+| 49-9-7-13-1-11 | Geisenried | |
+| 49-9-7-13-1-12 | Egratsried | |
+| 49-9-7-13-1-13 | Hattenhofen | |
+| 49-9-7-13-1-14 | Liebwies | |
+| 49-9-7-13-1-15 | Leuterschach | |
+| 49-9-7-13-1-16 | Fechsen | |
+| 49-9-7-13-1-17 | Ronried | |
+| 49-9-7-13-1-18 | Schwenden | |
+| 49-9-7-13-1-19 | Rieder | |
+| 49-9-7-13-1-20 | Heiland | |
+| 49-9-7-13-1-21 | Osterried | |
+| 49-9-7-13-1-22 | Weißen | |
+| 49-9-7-13-1-23 | Sulzschneid | |
+| 49-9-7-13-1-24 | Balteratsried | |
+| 49-9-7-13-1-25 | Hummeratsried | |
+| 49-9-7-13-1-26 | Thalhofen | |
+| 49-9-7-13-1-27 | Weibletshofen | |
 
 ## Stadt/City Buchloe
 
@@ -114,19 +114,19 @@
 | PLZ/Postcodes | 86807 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Buchloe |
 | Verwaltungssitz/Administrative seat | Rathausplatz 1, 86807 Buchloe |
-| Cheapie ID | 49-9-7-77-2 |
+| Cheapie ID | 49-9-7-13-2 |
 
 ### Stadtteile/Boroughs
 
 | Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
-| 49-9-7-77-2-1 | Buchloe | Verwaltungssitz/Administrative seat |
-| 49-9-7-77-2-2 | Hausen | |
-| 49-9-7-77-2-3 | Honsolgen | |
-| 49-9-7-77-2-4 | Koppenhof | |
-| 49-9-7-77-2-5 | Lindenberg | |
-| 49-9-7-77-2-6 | Schöttenau | |
-| 49-9-7-77-2-7 | Sinkelmühle | |
+| 49-9-7-13-2-1 | Buchloe | Verwaltungssitz/Administrative seat |
+| 49-9-7-13-2-2 | Hausen | |
+| 49-9-7-13-2-3 | Honsolgen | |
+| 49-9-7-13-2-4 | Koppenhof | |
+| 49-9-7-13-2-5 | Lindenberg | |
+| 49-9-7-13-2-6 | Schöttenau | |
+| 49-9-7-13-2-7 | Sinkelmühle | |
 
 ## Gemeinde/Municipality Biessenhofen
 
@@ -141,18 +141,18 @@
 | PLZ/Postcodes | 87640 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Biessenhofen |
 | Verwaltungssitz/Administrative seat | Füssener Str. 12, 87640 Biessenhofen |
-| Cheapie ID | 49-9-7-77-3 |
+| Cheapie ID | 49-9-7-13-3 |
 
 ### Gemeindeteile/Boroughs
 
 | Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
-| 49-9-7-77-3-1 | Biessenhofen | Verwaltungssitz/Administrative seat |
-| 49-9-7-77-3-2 | Altdorf | |
-| 49-9-7-77-3-3 | Ebenhofen | |
-| 49-9-7-77-3-4 | Hörmannshofen | |
-| 49-9-7-77-3-5 | Kreen | |
-| 49-9-7-77-3-6 | Weiss | |
+| 49-9-7-13-3-1 | Biessenhofen | Verwaltungssitz/Administrative seat |
+| 49-9-7-13-3-2 | Altdorf | |
+| 49-9-7-13-3-3 | Ebenhofen | |
+| 49-9-7-13-3-4 | Hörmannshofen | |
+| 49-9-7-13-3-5 | Kreen | |
+| 49-9-7-13-3-6 | Weiss | |
 
 ## Gemeinde/Municipality Mauerstetten
 
@@ -166,16 +166,16 @@
 | Einwohner pro mi²/Residents per mi² | 508 |
 | PLZ/Postcodes | 87665 |
 | Verwaltungssitz/Administrative seat | Kirchplatz 4, 87665 Mauerstetten |
-| Cheapie ID | 49-9-7-77-4 |
+| Cheapie ID | 49-9-7-13-4 |
 
 ### Gemeindeteile/Boroughs
 
 | Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
-| 49-9-7-77-4-1 | Mauerstetten | Verwaltungssitz/Administrative seat |
-| 49-9-7-77-4-2 | Frankenried | |
-| 49-9-7-77-4-3 | Hausen | |
-| 49-9-7-77-4-4 | Steinholz | |
+| 49-9-7-13-4-1 | Mauerstetten | Verwaltungssitz/Administrative seat |
+| 49-9-7-13-4-2 | Frankenried | |
+| 49-9-7-13-4-3 | Hausen | |
+| 49-9-7-13-4-4 | Steinholz | |
 
 ## Gemeinde/Municipality Pforzen
 
@@ -190,17 +190,17 @@
 | PLZ/Postcodes | 87666 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Pforzen |
 | Verwaltungssitz/Administrative seat | Bahnhofstr. 7, 87666 Pforzen |
-| Cheapie ID | 49-9-7-77-5 |
+| Cheapie ID | 49-9-7-13-5 |
 
 ### Gemeindeteile/Boroughs
 
 | Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
-| 49-9-7-77-5-1 | Pforzen | Verwaltungssitz/Administrative seat |
-| 49-9-7-77-5-2 | Ingenried | |
-| 49-9-7-77-5-3 | Irpisdorf | |
-| 49-9-7-77-5-4 | Leinau | |
-| 49-9-7-77-5-5 | Hammerschmiede | |
+| 49-9-7-13-5-1 | Pforzen | Verwaltungssitz/Administrative seat |
+| 49-9-7-13-5-2 | Ingenried | |
+| 49-9-7-13-5-3 | Irpisdorf | |
+| 49-9-7-13-5-4 | Leinau | |
+| 49-9-7-13-5-5 | Hammerschmiede | |
 
 ## Gemeinde/Municipality Günzach
 
@@ -215,39 +215,39 @@
 | PLZ/Postcodes | 87634 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Obergünzburg |
 | Verwaltungssitz/Administrative seat | Hauptstr. 9, 87634 Günzach |
-| Cheapie ID | 49-9-7-77-6 |
+| Cheapie ID | 49-9-7-13-6 |
 
 ### Gemeindeteile/Boroughs
 
 | Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
-| 49-9-7-77-6-1 | Günzach | Verwaltungssitz/Administrative seat |
-| 49-9-7-77-6-2 | Albrechts | |
-| 49-9-7-77-6-3 | Allgay | |
-| 49-9-7-77-6-4 | Autenried | |
-| 49-9-7-77-6-5 | Dillian | |
-| 49-9-7-77-6-6 | Eggenbühl | |
-| 49-9-7-77-6-7 | Grettler | |
-| 49-9-7-77-6-8 | Grünten | |
-| 49-9-7-77-6-9 | Heimenhalden | |
-| 49-9-7-77-6-10 | Hirn | |
-| 49-9-7-77-6-11 | Immenthal | |
-| 49-9-7-77-6-12 | Lang | |
-| 49-9-7-77-6-13 | Marxer | |
-| 49-9-7-77-6-14 | Mindel | |
-| 49-9-7-77-6-15 | Mittelberg | |
-| 49-9-7-77-6-16 | Ohneberg | |
-| 49-9-7-77-6-17 | Rohr | |
-| 49-9-7-77-6-18 | Rudwarz | |
-| 49-9-7-77-6-19 | Schobermühle | |
-| 49-9-7-77-6-20 | Schöllhorn | |
-| 49-9-7-77-6-21 | Schübel | |
-| 49-9-7-77-6-22 | Schuster | |
-| 49-9-7-77-6-23 | Sellthüren | |
-| 49-9-7-77-6-24 | Steig | |
-| 49-9-7-77-6-25 | Stockach | |
-| 49-9-7-77-6-26 | Upratsberg | |
-| 49-9-7-77-6-27 | Ziegelhütte | |
+| 49-9-7-13-6-1 | Günzach | Verwaltungssitz/Administrative seat |
+| 49-9-7-13-6-2 | Albrechts | |
+| 49-9-7-13-6-3 | Allgay | |
+| 49-9-7-13-6-4 | Autenried | |
+| 49-9-7-13-6-5 | Dillian | |
+| 49-9-7-13-6-6 | Eggenbühl | |
+| 49-9-7-13-6-7 | Grettler | |
+| 49-9-7-13-6-8 | Grünten | |
+| 49-9-7-13-6-9 | Heimenhalden | |
+| 49-9-7-13-6-10 | Hirn | |
+| 49-9-7-13-6-11 | Immenthal | |
+| 49-9-7-13-6-12 | Lang | |
+| 49-9-7-13-6-13 | Marxer | |
+| 49-9-7-13-6-14 | Mindel | |
+| 49-9-7-13-6-15 | Mittelberg | |
+| 49-9-7-13-6-16 | Ohneberg | |
+| 49-9-7-13-6-17 | Rohr | |
+| 49-9-7-13-6-18 | Rudwarz | |
+| 49-9-7-13-6-19 | Schobermühle | |
+| 49-9-7-13-6-20 | Schöllhorn | |
+| 49-9-7-13-6-21 | Schübel | |
+| 49-9-7-13-6-22 | Schuster | |
+| 49-9-7-13-6-23 | Sellthüren | |
+| 49-9-7-13-6-24 | Steig | |
+| 49-9-7-13-6-25 | Stockach | |
+| 49-9-7-13-6-26 | Upratsberg | |
+| 49-9-7-13-6-27 | Ziegelhütte | |
 
 ## Gemeinde/Municipality Germaringen
 
@@ -261,17 +261,17 @@
 | Einwohner pro mi²/Residents per mi² | 460 |
 | PLZ/Postcodes | 87656 |
 | Verwaltungssitz/Administrative seat | Westendorfer Str. 4 a, 87656 Germaringen-Obergermaringen |
-| Cheapie ID | 49-9-7-77-7 |
+| Cheapie ID | 49-9-7-13-7 |
 
 ### Gemeindeteile/Boroughs
 
 | Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
-| 49-9-7-77-7-1 | Obergermaringen | Verwaltungssitz/Administrative seat |
-| 49-9-7-77-7-2 | Untergermaringen | |
-| 49-9-7-77-7-3 | Ketterschwang | |
-| 49-9-7-77-7-4 | Schwäbishofen | |
-| 49-9-7-77-7-5 | Riederloh | De-facto fest mit 87600 KF-Neugablonz (CID 49-9-7-62-1-2) verwachsen/De-facto directly connected to KF-Neugablonz |
+| 49-9-7-13-7-1 | Obergermaringen | Verwaltungssitz/Administrative seat |
+| 49-9-7-13-7-2 | Untergermaringen | |
+| 49-9-7-13-7-3 | Ketterschwang | |
+| 49-9-7-13-7-4 | Schwäbishofen | |
+| 49-9-7-13-7-5 | Riederloh | De-facto fest mit 87600 KF-Neugablonz (CID 49-9-7-62-1-2) verwachsen/De-facto directly connected to KF-Neugablonz |
 
 ## Gemeinde/Municipality Friesenried
 
@@ -286,29 +286,29 @@
 | PLZ/Postcodes | 87654 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Eggenthal |
 | Verwaltungssitz/Administrative seat | Hauptstr. 40, 87654 Friesenried |
-| Cheapie ID | 49-9-7-77-8 |
+| Cheapie ID | 49-9-7-13-8 |
 
 ### Gemeindeteile/Boroughs
 
 | Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
-| 49-9-7-77-8-1 | Friesenried | Verwaltungssitz/Administrative seat |
-| 49-9-7-77-8-2 | Blöcktach | Wird von Friesenried (fälschlicherweise) als Gemeinde bezeichnet/Friesenried (falsely) calls this a municipality |
-| 49-9-7-77-8-3 | Allersberg | |
-| 49-9-7-77-8-4 | Aschthal | |
-| 49-9-7-77-8-5 | Berghof | |
-| 49-9-7-77-8-6 | Brandeln | |
-| 49-9-7-77-8-7 | Großmederschach | |
-| 49-9-7-77-8-8 | Haid | |
-| 49-9-7-77-8-9 | Haslach | |
-| 49-9-7-77-8-10 | Kleinmederschach | |
-| 49-9-7-77-8-11 | Kölberg | |
-| 49-9-7-77-8-12 | Mehl | |
-| 49-9-7-77-8-13 | Röhrwang | |
-| 49-9-7-77-8-14 | Salenwang | |
-| 49-9-7-77-8-15 | Steig | |
-| 49-9-7-77-8-16 | Weißen | |
-| 49-9-7-77-8-17 | Weite | |
+| 49-9-7-13-8-1 | Friesenried | Verwaltungssitz/Administrative seat |
+| 49-9-7-13-8-2 | Blöcktach | Wird von Friesenried (fälschlicherweise) als Gemeinde bezeichnet/Friesenried (falsely) calls this a municipality |
+| 49-9-7-13-8-3 | Allersberg | |
+| 49-9-7-13-8-4 | Aschthal | |
+| 49-9-7-13-8-5 | Berghof | |
+| 49-9-7-13-8-6 | Brandeln | |
+| 49-9-7-13-8-7 | Großmederschach | |
+| 49-9-7-13-8-8 | Haid | |
+| 49-9-7-13-8-9 | Haslach | |
+| 49-9-7-13-8-10 | Kleinmederschach | |
+| 49-9-7-13-8-11 | Kölberg | |
+| 49-9-7-13-8-12 | Mehl | |
+| 49-9-7-13-8-13 | Röhrwang | |
+| 49-9-7-13-8-14 | Salenwang | |
+| 49-9-7-13-8-15 | Steig | |
+| 49-9-7-13-8-16 | Weißen | |
+| 49-9-7-13-8-17 | Weite | |
 
 ## Quellen/Sources
 
