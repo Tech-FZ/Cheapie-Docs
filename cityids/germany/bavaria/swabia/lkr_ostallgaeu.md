@@ -60,11 +60,6 @@
 | Daten/Data | Wert/Value |
 | ---- | ----- |
 | Wappen/Coat of arms | ![MOD_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Stadtwappen_Marktoberdorf.svg/140px-Stadtwappen_Marktoberdorf.svg.png) |
-| Einwohner/Residents | 18 769 (31.12.2021) |
-| Fläche in km²/Area in km² | 95,25 |
-| Fläche in mi²/Area in mi² | 36,78 |
-| Einwohner pro km²/Residents per km² | 197 |
-| Einwohner pro mi²/Residents per mi² | 510 |
 | PLZ/Postcodes | 87616 |
 | Verwaltungssitz/Administrative seat | Richard-Wengenmeier-Platz 1, 87616 Marktoberdorf |
 | Cheapie ID | 49-9-7-13-1 |
@@ -106,11 +101,6 @@
 | Daten/Data | Wert/Value |
 | ---- | ----- |
 | Wappen/Coat of arms | ![Buchloe_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Wappen_von_Buchloe.svg/136px-Wappen_von_Buchloe.svg.png) |
-| Einwohner/Residents | 13 840 (01.03.2022) |
-| Fläche in km²/Area in km² | 36,17 |
-| Fläche in mi²/Area in mi² | 13,97 |
-| Einwohner pro km²/Residents per km² | 383 |
-| Einwohner pro mi²/Residents per mi² | 991 |
 | PLZ/Postcodes | 86807 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Buchloe |
 | Verwaltungssitz/Administrative seat | Rathausplatz 1, 86807 Buchloe |
@@ -133,11 +123,6 @@
 | Daten/Data | Wert/Value |
 | ---- | ----- |
 | Wappen/Coat of arms | ![Biessenhofen_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wappen_von_Biessenhofen.svg/140px-Wappen_von_Biessenhofen.svg.png) |
-| Einwohner/Residents | 4 458 (01.01.2023) |
-| Fläche in km²/Area in km² | 27 |
-| Fläche in mi²/Area in mi² | 10 |
-| Einwohner pro km²/Residents per km² | 165 |
-| Einwohner pro mi²/Residents per mi² | 446 |
 | PLZ/Postcodes | 87640 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Biessenhofen |
 | Verwaltungssitz/Administrative seat | Füssener Str. 12, 87640 Biessenhofen |
@@ -159,11 +144,6 @@
 | Daten/Data | Wert/Value |
 | ---- | ----- |
 | Wappen/Coat of arms | ![Mauerstetten_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/DEU_Mauerstetten_COA.svg/140px-DEU_Mauerstetten_COA.svg.png) |
-| Einwohner/Residents | 3 245 (31.03.2023) |
-| Fläche in km²/Area in km² | 16,56 |
-| Fläche in mi²/Area in mi² | 6,394 |
-| Einwohner pro km²/Residents per km² | 196 |
-| Einwohner pro mi²/Residents per mi² | 508 |
 | PLZ/Postcodes | 87665 |
 | Verwaltungssitz/Administrative seat | Kirchplatz 4, 87665 Mauerstetten |
 | Cheapie ID | 49-9-7-13-4 |
@@ -183,10 +163,6 @@
 | ---- | ----- |
 | Wappen/Coat of arms | ![Pforzen_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/DEU_Pforzen_COA.svg/140px-DEU_Pforzen_COA.svg.png) |
 | Einwohner/Residents | 2 506 (01.01.2024) |
-| Fläche in km²/Area in km² | 23,69 |
-| Fläche in mi²/Area in mi² | 9,147 |
-| Einwohner pro km²/Residents per km² | 106 |
-| Einwohner pro mi²/Residents per mi² | 274 |
 | PLZ/Postcodes | 87666 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Pforzen |
 | Verwaltungssitz/Administrative seat | Bahnhofstr. 7, 87666 Pforzen |
@@ -207,11 +183,6 @@
 | Daten/Data | Wert/Value |
 | ---- | ----- |
 | Wappen/Coat of arms | ![Guenzach_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Wappen_G%C3%BCnzach.svg/140px-Wappen_G%C3%BCnzach.svg.png) |
-| Einwohner/Residents | 1 426 (31.12.2022) |
-| Fläche in km²/Area in km² | 23,48 |
-| Fläche in mi²/Area in mi² | 9,066 |
-| Einwohner pro km²/Residents per km² | 61 |
-| Einwohner pro mi²/Residents per mi² | 157 |
 | PLZ/Postcodes | 87634 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Obergünzburg |
 | Verwaltungssitz/Administrative seat | Hauptstr. 9, 87634 Günzach |
@@ -254,11 +225,6 @@
 | Daten/Data | Wert/Value |
 | ---- | ----- |
 | Wappen/Coat of arms | ![Germaringen_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wappen_von_Germaringen.svg/140px-Wappen_von_Germaringen.svg.png) |
-| Einwohner/Residents | 4 064 (01.01.2024) |
-| Fläche in km²/Area in km² | 22,88 |
-| Fläche in mi²/Area in mi² | 8,834 |
-| Einwohner pro km²/Residents per km² | 178 |
-| Einwohner pro mi²/Residents per mi² | 460 |
 | PLZ/Postcodes | 87656 |
 | Verwaltungssitz/Administrative seat | Westendorfer Str. 4 a, 87656 Germaringen-Obergermaringen |
 | Cheapie ID | 49-9-7-13-7 |
@@ -278,11 +244,6 @@
 | Daten/Data | Wert/Value |
 | ---- | ----- |
 | Wappen/Coat of arms | ![Friesenried_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wappen_von_Friesenried.svg/140px-Wappen_von_Friesenried.svg.png) |
-| Einwohner/Residents | 1 530 (01.01.2022) |
-| Fläche in km²/Area in km² | 22,24 |
-| Fläche in mi²/Area in mi² | 8,587 |
-| Einwohner pro km²/Residents per km² | 69 |
-| Einwohner pro mi²/Residents per mi² | 178 |
 | PLZ/Postcodes | 87654 |
 | Verwaltungsgemeinschaft (VG)/Administrative group | Eggenthal |
 | Verwaltungssitz/Administrative seat | Hauptstr. 40, 87654 Friesenried |

@@ -24,11 +24,6 @@
 | Daten/Data | Wert/Value |
 | ---- | ----- |
 | Wappen/Coat of arms | ![KF_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/DEU_Kaufbeuren_COA.svg/140px-DEU_Kaufbeuren_COA.svg.png) |
-| Einwohner/Residents | 48 038 (31.12.2023) |
-| Fläche in km²/Area in km² | 40,02 |
-| Fläche in mi²/Area in mi² | 15,45 |
-| Einwohner pro km²/Residents per km² | 1 200 |
-| Einwohner pro mi²/Residents per mi² | 3 109 |
 | PLZ/Postcodes | 87600 |
 | Verwaltungssitz/Administrative seat | Kaiser-Max-Str. 1, 87600 Kaufbeuren |
 | Cheapie ID (Stadt/City) | 49-9-7-7-1 |
@@ -57,11 +52,7 @@
 | Daten/Data | Wert/Value |
 | ---- | ----- |
 | Wappen/Coat of arms | ![KE_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/DEU_Kempten_%28Allg%C3%A4u%29_COA.svg/140px-DEU_Kempten_%28Allg%C3%A4u%29_COA.svg.png) |
-| Einwohner/Residents | 72 477 (31.12.2023) |
-| Fläche in km²/Area in km² | 63,28 |
-| Fläche in mi²/Area in mi² | 24,43 |
-| Einwohner pro km²/Residents per km² | 1 145 |
-| Einwohner pro mi²/Residents per mi² | 2 967 |
+| Cheapie ID (Stadt/City) | 49-9-7-8 |
 | PLZ/Postcodes | 87435, 87437, 87439 |
 | Verwaltungssitz/Administrative seat | Rathausplatz 29, 87435 Kempten (Allgäu) |
 
@@ -148,11 +139,6 @@
 | ---- | ----- |
 | Wappen/Coat of arms | ![OAL_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wappen_Landkreis_Ostallgaeu.svg/140px-Wappen_Landkreis_Ostallgaeu.svg.png) |
 | Kreisstadt/Capital | Marktoberdorf |
-| Einwohner/Residents | 145 378 (31.12.2022) |
-| Fläche in km²/Area in km² | 1 394,43 |
-| Fläche in mi²/Area in mi² | 538,39 |
-| Einwohner pro/Residents per km² | 104 |
-| Einwohner pro/Residents per mi² | 270 |
 | Administrative seat | Schwabenstr. 11, 87616 Marktoberdorf |
 | Cheapie ID | 49-9-7-13 |
 
