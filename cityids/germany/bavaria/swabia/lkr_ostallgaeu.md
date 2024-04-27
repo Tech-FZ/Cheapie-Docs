@@ -17,7 +17,7 @@
 | 49-9-7-13-6 | 87634 | Gemeinde | [Günzach](#gemeindemunicipality-günzach) |
 | 49-9-7-13-7 | 87656 | Gemeinde | [Germaringen](#gemeindemunicipality-germaringen) |
 | 49-9-7-13-8 | 87654 | Gemeinde | [Friesenried](#gemeindemunicipality-friesenried) |
-| 49-9-7-13-9 | 87629 | Stadt | Füssen |
+| 49-9-7-13-9 | 87629 | Stadt | [Füssen](#stadtcity-füssen) |
 | 49-9-7-13-10 | 86875 | Markt | Waal _(Schwaben/Swabia)_ |
 | 49-9-7-13-11 | 86860 | Gemeinde | Jengen |
 | 49-9-7-13-12 | 86862 | Gemeinde | Lamerdingen |
@@ -271,6 +271,58 @@
 | 49-9-7-13-8-16 | Weißen | |
 | 49-9-7-13-8-17 | Weite | |
 
+## Stadt/City Füssen
+
+| Daten/Data | Wert/Value |
+| ---- | ----- |
+| Wappen/Coat of arms | ![FUES_COA](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wappen_Fuessen.svg/138px-Wappen_Fuessen.svg.png) |
+| PLZ/Postcodes | 87629 |
+| Verwaltungssitz/Administrative seat | Lechhalde 3, 87629 Füssen |
+| Cheapie ID | 49-9-7-13-9 |
+
+### Stadtteile/Boroughs
+
+| Cheapie ID | Ortsteil/Borough | Notizen/Notes |
+| ---------- | ----------------- | ------------- |
+| 49-9-7-13-9-1 | Füssen | Verwaltungssitz/Administrative seat |
+| 49-9-7-13-9-2 | Achmühle | |
+| 49-9-7-13-9-3 | Bachthal | |
+| 49-9-7-13-9-4 | Bad Faulenbach | |
+| 49-9-7-13-9-5 | Bebele | |
+| 49-9-7-13-9-6 | Benken | |
+| 49-9-7-13-9-7 | Brand | |
+| 49-9-7-13-9-8 | Ehrwang | |
+| 49-9-7-13-9-10 | Enzensberg | |
+| 49-9-7-13-9-11 | Erkenbollingen | |
+| 49-9-7-13-9-12 | Eschach | |
+| 49-9-7-13-9-13 | Fischerbichl | |
+| 49-9-7-13-9-14 | Häusern | |
+| 49-9-7-13-9-15 | Heidelsbuch | |
+| 49-9-7-13-9-16 | Hinteregg | |
+| 49-9-7-13-9-17 | Hof | |
+| 49-9-7-13-9-18 | Hopfen am See | |
+| 49-9-7-13-9-19 | Hub | |
+| 49-9-7-13-9-20 | Hubmannsegg | |
+| 49-9-7-13-9-21 | Moos | |
+| 49-9-7-13-9-22 | Niederried | |
+| 49-9-7-13-9-23 | Oberdeusch | |
+| 49-9-7-13-9-24 | Oberkirch | |
+| 49-9-7-13-9-25 | Oberried | |
+| 49-9-7-13-9-26 | Rohrweiher | |
+| 49-9-7-13-9-27 | Roßmoos | |
+| 49-9-7-13-9-28 | Schwarzenbach | |
+| 49-9-7-13-9-29 | See | |
+| 49-9-7-13-9-30 | Spöttl | |
+| 49-9-7-13-9-31 | Steigmühle | |
+| 49-9-7-13-9-32 | Thal | |
+| 49-9-7-13-9-33 | Unterdeusch | |
+| 49-9-7-13-9-34 | Vilser | |
+| 49-9-7-13-9-35 | Vorderegg | |
+| 49-9-7-13-9-36 | Weißensee | |
+| 49-9-7-13-9-37 | Wiedmar | |
+| 49-9-7-13-9-38 | Wies | |
+| 49-9-7-13-9-39 | Wörth | |
+
 ## Quellen/Sources
 
 ### Landkreis/Rural district of Ostallgäu
@@ -330,3 +382,9 @@
 - :de: Friesenried in Zahlen: [https://www.friesenried.de/unsere-gemeinde/daten-und-fakten/friesenried-in-zahlen](https://www.friesenried.de/unsere-gemeinde/daten-und-fakten/friesenried-in-zahlen)
 - :de: Ortspläne Friesenried: [https://www.friesenried.de/unsere-gemeinde/daten-und-fakten/ortsplan](https://www.friesenried.de/unsere-gemeinde/daten-und-fakten/ortsplan)
 - :de: Ortsteile Friesenried: [https://www.bayernportal.de/dokumente/behoerde/03552964559/ortsteile](https://www.bayernportal.de/dokumente/behoerde/03552964559/ortsteile)
+
+### Füssen
+
+- Von Selbst erstellt nach Vorlage <a rel="nofollow" class="external free" href="http://www.stadt-fuessen.de/typo3temp/pics/f0845c3225.jpg">http://www.stadt-fuessen.de/typo3temp/pics/f0845c3225.jpg</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=5700610">Link</a>
+- :de: Füssen Homepage: [https://www.stadt-fuessen.de/](https://www.stadt-fuessen.de/)
+- :de: Füssen Ortsteile: [https://www.bayernportal.de/dokumente/behoerde/01331224455/ortsteile](https://www.bayernportal.de/dokumente/behoerde/01331224455/ortsteile)
