@@ -273,33 +273,59 @@
 
 ## Quellen/Sources
 
+### Landkreis/Rural district of Ostallgäu
+
 - :de: German Wikipedia page: [https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u](https://de.wikipedia.org/wiki/Landkreis_Ostallg%C3%A4u)
+
+### Marktoberdorf
+
 - Von &lt;a href=&quot;//commons.wikimedia.org/w/index.php?title=User:Stadtmod&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;User:Stadtmod (page does not exist)&quot;&gt;Stadtmod&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;de&quot;&gt;Eigenes Werk&lt;/span&gt;, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25831043">Link</a>
 - :de: Official data from Marktoberdorf: [https://www.marktoberdorf.de/stadtinfo/zahlen---daten---fakten](https://www.marktoberdorf.de/stadtinfo/zahlen---daten---fakten)
 - :de: Stadtteile von Marktoberdorf: [https://www.marktoberdorf.de/stadtinfo/stadtteile](https://www.marktoberdorf.de/stadtinfo/stadtteile)
+
+### Buchloe
+
 - Von Eigenes Werk mittels: <a rel="nofollow" class="external autonumber" href="https://www.buchloe.de/buchloe-umgebung/geschichte/buchloe/">[1]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=32128636">Link</a>
 - :de: Info über Buchloe: [https://www.landkreis-ostallgaeu.de/gemeinden/gemeinden-a-z-1/buchloe.html](https://www.landkreis-ostallgaeu.de/gemeinden/gemeinden-a-z-1/buchloe.html)
 - :de: Zahlen und Fakten zu Buchloe: [https://www.buchloe.de/buchloe-umgebung/ortsplaene-und-zahlen/zahlen-statistiken/](https://www.buchloe.de/buchloe-umgebung/ortsplaene-und-zahlen/zahlen-statistiken/)
 - :de: Stadt Buchloe: [https://www.unser-stadtplan.de/stadtplan/buchloe/kartenstartpunkt/stadtplan-buchloe.map](https://www.unser-stadtplan.de/stadtplan/buchloe/kartenstartpunkt/stadtplan-buchloe.map)
+
+### Biessenhofen
+
 - Von Eigenes Werk mittels: <a rel="nofollow" class="external autonumber" href="https://www.biessenhofen.de/biessenhofen/Gemeinde-Biessenhofen/Geschichte-und-Wappen/Geschichte-und-Wappen.php">[1]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=31835944">Link</a>
 - :de: Zahlen und Fakten über Biessenhofen: [https://www.biessenhofen.de/biessenhofen/Gemeinde-Biessenhofen/Zahlen-und-Fakten/Zahlen-und-Fakten.php](https://www.biessenhofen.de/biessenhofen/Gemeinde-Biessenhofen/Zahlen-und-Fakten/Zahlen-und-Fakten.php)
 - :de: Ortsteile von Biessenhofen: [https://www.biessenhofen.de/biessenhofen/Gemeinde-Biessenhofen/Ortsteile/Ortsteile.php](https://www.biessenhofen.de/biessenhofen/Gemeinde-Biessenhofen/Ortsteile/Ortsteile.php)
+
+### Mauerstetten
+
 - Von Eigenes Werk mittels: <a rel="nofollow" class="external autonumber" href="https://www.mauerstetten.de/de/gemeindedaten/wappen-der-gemeinde/">[1]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=42256861">Link</a>
 - :de: Einwohnerzahl Mauerstetten: [https://www.mauerstetten.de/gemeindedaten/einwohnerzahlen/](https://www.mauerstetten.de/gemeindedaten/einwohnerzahlen/)
 - :de: Gemeindeteile Mauerstetten: [https://www.bayernportal.de/dokumente/behoerde/40108147639/ortsteile](https://www.bayernportal.de/dokumente/behoerde/40108147639/ortsteile)
 - :de: Haus der bayerischen Geschichte über Mauerstetten: [https://hdbg.eu/gemeinden/index.php/detail?rschl=9777152](https://hdbg.eu/gemeinden/index.php/detail?rschl=9777152)
 - :de: Wikipedia über Mauerstetten: [https://de.wikipedia.org/wiki/Mauerstetten](https://de.wikipedia.org/wiki/Mauerstetten)
+
+### Pforzen
+
 - Von <a rel="nofollow" class="external autonumber" href="http://www.pforzen.de/">[2]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=46875618">Link</a>
 - :de: Einwohnerstatistik Pforzen: [https://www.pforzen.de/unsere-gemeinde/daten-und-fakten/einwohner-und-statistik](https://www.pforzen.de/unsere-gemeinde/daten-und-fakten/einwohner-und-statistik)
 - :de: Wikipedia über Pforzen: [https://de.wikipedia.org/wiki/Pforzen](https://de.wikipedia.org/wiki/Pforzen)
 - :de: Gemeindeortsteile Pforzen: [https://www.pforzen.de/unsere-gemeinde/daten-und-fakten/gemeindeortsteile](https://www.pforzen.de/unsere-gemeinde/daten-und-fakten/gemeindeortsteile)
+
+### Günzach
+
 - Von Eigenes Werk mittels: <a rel="nofollow" class="external autonumber" href="https://www.guenzach.de/buergerservice/geschichtliches/entstehung-des-wappens">[1]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=36306782">Link</a>
 - :de: Günzach Statistiken: [https://www.guenzach.de/rathaus/statistiken](https://www.guenzach.de/rathaus/statistiken)
 - :de: Infos zu Günzach: [https://standortportal.bayern/de/BayStandorte/Schwaben/Ostallgaeu/Guenzach.html](https://standortportal.bayern/de/BayStandorte/Schwaben/Ostallgaeu/Guenzach.html)
 - :de: Ortsteile Günzach: [https://www.bayernportal.de/dokumente/behoerde/49108434577/ortsteile](https://www.bayernportal.de/dokumente/behoerde/49108434577/ortsteile)
+
+### Germaringen
+
 - Von Eigenes Werk mittels: <a rel="nofollow" class="external autonumber" href="https://www.germaringen.de/germaringen/gemeinde/gemeinde/zahlen-und-fakten/">[1]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=35763803">Link</a>
 - :de: Zahlen und Fakten Germaringen: [https://www.germaringen.de/germaringen/gemeinde/gemeinde/zahlen-und-fakten/](https://www.germaringen.de/germaringen/gemeinde/gemeinde/zahlen-und-fakten/)
 - :de: Germaringen Ortsteile: [https://www.germaringen.de/germaringen/gemeinde/gemeinde/ortsteile/](https://www.germaringen.de/germaringen/gemeinde/gemeinde/ortsteile/)
+
+### Friesenried
+
 - Von Eigenes Werk mittels: <a rel="nofollow" class="external autonumber" href="https://www.friesenried.de/unsere-gemeinde/daten-und-fakten/friesenried-in-zahlen">[1]</a>, Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=34904468">Link</a>
 - :de: Friesenried in Zahlen: [https://www.friesenried.de/unsere-gemeinde/daten-und-fakten/friesenried-in-zahlen](https://www.friesenried.de/unsere-gemeinde/daten-und-fakten/friesenried-in-zahlen)
 - :de: Ortspläne Friesenried: [https://www.friesenried.de/unsere-gemeinde/daten-und-fakten/ortsplan](https://www.friesenried.de/unsere-gemeinde/daten-und-fakten/ortsplan)
