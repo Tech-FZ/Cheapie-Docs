@@ -257,6 +257,14 @@
 | 49-9-7-14-42 | 87778 | Gemeinde/Municipality | Stetten _(Schwab)_ |
 | 49-9-7-14-43 | 87779 | Gemeinde/Municipality | Trunkelsberg |
 | 49-9-7-14-44 | 86842 | Markt/Town | Türkheim |
+| 49-9-7-14-45 | 86874 | Markt/Town | Tussenhausen |
+| 49-9-7-14-46 | 87781 | Gemeinde/Municipality | Ungerhausen |
+| 49-9-7-14-47 | 87782 | Gemeinde/Municipality | Unteregg |
+| 49-9-7-14-48 | 87784 | Gemeinde/Municipality | Westerheim |
+| 49-9-7-14-49 | 86879 | Gemeinde/Municipality | Wiedergeltingen |
+| 49-9-7-14-50 | 87785 | Gemeinde/Municipality | Winterrieden |
+| 49-9-7-14-51 | 87787 | Gemeinde/Municipality | Wolfertschwenden |
+| 49-9-7-14-52 | 87789 | Gemeinde/Municipality | Woringen |
 
 ### Quellen/Sources
 
