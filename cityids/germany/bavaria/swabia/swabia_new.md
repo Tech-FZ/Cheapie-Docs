@@ -180,7 +180,7 @@
 | 49-9-7-13-7 | 87656 | Gemeinde | Germaringen |
 | 49-9-7-13-8 | 87654 | Gemeinde | Friesenried |
 | 49-9-7-13-9 | 87629 | Stadt | Füssen |
-| 49-9-7-13-10 | 86875 | Markt | Waal _(Schwaben/Swabia)_ |
+| 49-9-7-13-10 | 86875 | Markt | Waal _(Schwab)_ |
 | 49-9-7-13-11 | 86860 | Gemeinde | Jengen |
 | 49-9-7-13-12 | 86862 | Gemeinde | Lamerdingen |
 | 49-9-7-13-13 | 87648 | Gemeinde | Aitrang |
@@ -199,7 +199,7 @@
 | 49-9-7-13-26 | 87659 | Gemeinde | Hopferau |
 | 49-9-7-13-27 | 87663 | Gemeinde | Lengenwang |
 | 49-9-7-13-28 | 87494 | Gemeinde | Rückholz |
-| 49-9-7-13-29 | 87616 | Gemeinde | Wald _(Schwaben/Swabia)_ |
+| 49-9-7-13-29 | 87616 | Gemeinde | Wald _(Schwab)_ |
 | 49-9-7-13-30 | 87675 | Gemeinde | Stötten am Auerberg |
 | 49-9-7-13-31 | 87675 | Gemeinde | Rettenbach am Auerberg |
 | 49-9-7-13-32 | 87647 | Gemeinde | Unterthingau |
