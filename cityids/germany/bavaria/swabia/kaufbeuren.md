@@ -9,6 +9,8 @@
 
 ## Ortsteile/Boroughs
 
+![Kaufbeuren](https://github.com/user-attachments/assets/5c11dc2d-d271-4cd1-878a-9871a659fb8b)
+
 | Cheapie ID | Ortsteil/Borough | Notizen/Notes |
 | ---------- | ----------------- | ------------- |
 | 49-9-7-7-1 | Kaufbeuren (Kernstadt, Altstadt, Haken) | Verwaltungssitz/Administrative seat |
@@ -63,3 +65,4 @@
 - :de: Official PDF file about some statistics of Kaufbeuren: [https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf](https://www.kaufbeuren.de/PortalData/17/Resources/wirtschaft/pdf/Einwohnermappe_31.12.2023.pdf)
 - :de: Zahlen und Fakten für/Facts and numbers of Kaufbeuren: [https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/](https://www.kaufbeuren.de/desktopdefault.aspx/tabid-1891/2305_read-17510/)
 - :de: German Wikipedia page about Kaufbeuren: [https://de.wikipedia.org/wiki/Kaufbeuren](https://de.wikipedia.org/wiki/Kaufbeuren)
+- OpenStreetMap: [https://www.openstreetmap.org/#map=13/47.87243/10.60266](https://www.openstreetmap.org/#map=13/47.87243/10.60266)
